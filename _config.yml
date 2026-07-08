@@ -1,2 +1,13 @@
 markdown: kramdown
 theme: minima
+permalink: /:path/
+include: [_layouts, _config.yml]
+
+# Sørg for at Jekyll danner rene mapper (så links virker uden .html)
+permalink_defaults:
+  pretty: true
+
+# Slugify indstillinger til diakritter og store bogstaver
+slugify:
+  mode: latin
+  cased: false
