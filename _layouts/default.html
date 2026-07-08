@@ -1,10 +1,107 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    {{ content }}
-  </body>
+<html lang="da">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | Suttaer</title>
+    <style>
+        /* Professionel, ren typografi inspireret af moderne læsesider */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            font-size: 16px;
+            line-height: 1.6;
+            color: #24292f;
+            background-color: #ffffff;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 2rem 1.5rem;
+        }
+
+        /* Navigationsbar i toppen */
+        nav {
+            padding-bottom: 1rem;
+            margin-bottom: 2rem;
+            border-bottom: 1px solid #d0d7de;
+        }
+        nav a {
+            font-weight: 600;
+            color: #0969da;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        /* Overskrifter med god luft */
+        h1 {
+            font-size: 2rem;
+            font-weight: 600;
+            padding-bottom: 0.3em;
+            border-bottom: 1px solid #d0d7de;
+            margin-top: 24px;
+            margin-bottom: 16px;
+        }
+        h2 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 16px;
+            padding-bottom: 0.3em;
+            border-bottom: 1px solid #eaeef2;
+        }
+        h3 {
+            font-size: 1.25rem;
+            font-weight: 600;
+            margin-top: 24px;
+            margin-bottom: 16px;
+        }
+
+        /* Tekst og lister */
+        p {
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+        ul, ol {
+            margin-top: 0;
+            margin-bottom: 16px;
+            padding-left: 2em;
+        }
+        li {
+            margin-top: 0.25em;
+        }
+
+        /* Links i teksten */
+        a {
+            color: #0969da;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Blokcitat (hvis du bruger > i din Markdown til f.eks. noter) */
+        blockquote {
+            padding: 0 1em;
+            color: #57606a;
+            border-left: .25em solid #d0d7de;
+            margin: 0 0 16px 0;
+        }
+
+        /* Metadata eller smånoter */
+        strong {
+            font-weight: 600;
+        }
+    </style>
+</head>
+<body>
+
+    <nav>
+        <a href="{{ site.baseurl }}/">← Oversigt / Forside</a>
+    </nav>
+
+    <main>
+        {{ content }}
+    </main>
+
+</body>
 </html>
