@@ -1,3 +1,7 @@
+---
+layout: default
+title: Suttaer
+---
 # Majjhima Nikāya – Oversigt 
 
 Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
