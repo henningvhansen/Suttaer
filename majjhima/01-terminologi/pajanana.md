@@ -10,4 +10,4 @@ Relateret til verbet pajānāti — “at forstå direkte”.
 #Bodhi #Sujato
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

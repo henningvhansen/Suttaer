@@ -1,249 +1,249 @@
 ## A
 
-anicca — ubestandighed; foranderlighed — [[anicca]]
+anicca — ubestandighed; foranderlighed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/anicca]]
 
-anattā — ikke‑selv — [[anattā]]
+anattā — ikke‑selv — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/anattā]]
 
-anicca‑saññā — perception af foranderlighed — [[anicca‑saññā]]
+anicca‑saññā — perception af foranderlighed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/anicca‑saññā]]
 
-anattā‑saññā — perception af ikke‑selv — [[anattā‑saññā]]
+anattā‑saññā — perception af ikke‑selv — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/anattā‑saññā]]
 
 arahant — oplyst — [[arahant]]
 
-avijjā — uvidenhed — [[avijjā]]
+avijjā — uvidenhed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/avijjā]]
 
-āgama — tradition; overlevering — [[āgama]]
+āgama — tradition; overlevering — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/āgama]]
 
-āhāra — næring — [[āhāra]]
+āhāra — næring — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/āhāra]]
 
-ānāpānasati — opmærksomhed på åndedrættet — [[ānāpānasati]]
+ānāpānasati — opmærksomhed på åndedrættet — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/ānāpānasati]]
 
-ārabbha‑dhātu — energi‑element — [[ārabbha‑dhātu]]
+ārabbha‑dhātu — energi‑element — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/ārabbha‑dhātu]]
 
-āsava — strømninger; urenheder — [[āsava]]
+āsava — strømninger; urenheder — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/āsava]]
 
-āyatana — sanseområde — [[āyatana]]
+āyatana — sanseområde — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/āyatana]]
 
 ## B
 
-bhava — tilblivelse — [[bhava]]
+bhava — tilblivelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bhava]]
 
-bhava‑taṇhā — længsel efter tilblivelse — [[bhava‑taṇhā]]
+bhava‑taṇhā — længsel efter tilblivelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bhava‑taṇhā]]
 
-bhikkhu — munk — [[bhikkhu]]
+bhikkhu — munk — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bhikkhu]]
 
-bhikkhunī — nonne — [[bhikkhunī]]
+bhikkhunī — nonne — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bhikkhunī]]
 
-bodhi — opvågning — [[bodhi]]
+bodhi — opvågning — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]
 
-bojjhaṅga — opvågningsfaktor — [[bojjhaṅga]]
+bojjhaṅga — opvågningsfaktor — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bojjhaṅga]]
 
 ## C
 
-cakkhu — øje — [[cakkhu]]
+cakkhu — øje — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/cakkhu]]
 
-cakkhu‑viññāṇa — øjenbevidsthed — [[cakkhu‑viññāṇa]]
+cakkhu‑viññāṇa — øjenbevidsthed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/cakkhu‑viññāṇa]]
 
-cetanā — intention; vilje — [[cetanā]]
+cetanā — intention; vilje — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/cetanā]]
 
-citta — sind — [[citta]]
+citta — sind — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/citta]]
 
 ## D
 
-dāna — gavmildhed — [[dāna]]
+dāna — gavmildhed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/dāna]]
 
-dhamma — fænomen; lære — [[dhamma]]
+dhamma — fænomen; lære — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/dhamma]]
 
-dhammānupassanā — opmærksomhed på fænomener — [[dhammānupassanā]]
+dhammānupassanā — opmærksomhed på fænomener — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/dhammānupassanā]]
 
-dukkha — lidelse — [[Majjhima‑Nikaya/01-Terminologi/dukkha]]
+dukkha — lidelse — [[majjhima/01-Terminologi/dukkha]]
 
-dukkha‑saññā — perception af lidelse — [[dukkha‑saññā]]
+dukkha‑saññā — perception af lidelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/dukkha‑saññā]]
 
 ## E
 
-ekaggatā — etpunktrettethed — [[ekaggatā]]
+ekaggatā — etpunktrettethed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/ekaggatā]]
 
-ekāyana — én vej — [[ekāyana]]
+ekāyana — én vej — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/ekāyana]]
 
-evaṃ — således — [[evaṃ]]
+evaṃ — således — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/evaṃ]]
 
 ## G
 
-gati — destination; tilstand — [[gati]]
+gati — destination; tilstand — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/gati]]
 
-gocara — område; domæne — [[gocara]]
+gocara — område; domæne — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/gocara]]
 
-gotama — Gotama — [[gotama]]
+gotama — Gotama — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/gotama]]
 
 ## H
 
-hiri — skamfølelse (moralsk) — [[hiri]]
+hiri — skamfølelse (moralsk) — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/hiri]]
 
-hiri‑ottappa — skam og blufærdighed — [[hiri‑ottappa]]
+hiri‑ottappa — skam og blufærdighed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/hiri‑ottappa]]
 
-hetu — årsag — [[hetu]]
+hetu — årsag — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/hetu]]
 
-hoti — er; bliver — [[hoti]]
+hoti — er; bliver — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/hoti]]
 
 ## I
 
-indriya — fakultet; evne — [[indriya]]
+indriya — fakultet; evne — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/indriya]]
 
-iriyāpatha — kropsstilling — [[iriyāpatha]]
+iriyāpatha — kropsstilling — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/iriyāpatha]]
 
 ## J
 
-jāti — fødsel — [[jāti]]
+jāti — fødsel — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/jāti]]
 
-jhāna — fordybelse — [[jhāna]]
+jhāna — fordybelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/jhāna]]
 
-jīvitindriya — livsfakultet — [[jīvitindriya]]
+jīvitindriya — livsfakultet — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/jīvitindriya]]
 
 ## K
 
-kāya — krop — [[kāya]]
+kāya — krop — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kāya]]
 
-kāyānupassanā — opmærksomhed på kroppen — [[kāyānupassanā]]
+kāyānupassanā — opmærksomhed på kroppen — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kāyānupassanā]]
 
-kamma — handling — [[kamma]]
+kamma — handling — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kamma]]
 
-kammavipāka — karmisk resultat — [[kammavipāka]]
+kammavipāka — karmisk resultat — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kammavipāka]]
 
-kappa — tidsalder — [[kappa]]
+kappa — tidsalder — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kappa]]
 
-karuṇā — medfølelse — [[karuṇā]]
+karuṇā — medfølelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/karuṇā]]
 
-khandha — aggregat — [[khandha]]
+khandha — aggregat — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/khandha]]
 
-kilesa — urenhed — [[kilesa]]
+kilesa — urenhed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kilesa]]
 
-lobha — begær — [[lobha]]
+lobha — begær — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/lobha]]
 
-lokuttara — verdensoverskridende — [[lokuttara]]
+lokuttara — verdensoverskridende — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/lokuttara]]
 
-loka — verden — [[loka]]
+loka — verden — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/loka]]
 
-loma — hår — [[loma]]
+loma — hår — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/loma]]
 
 ## M
 
-magga — vej — [[magga]]
+magga — vej — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/magga]]
 
-mahā — stor — [[mahā]]
+mahā — stor — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/mahā]]
 
-manas — sind; tanke — [[manas]]
+manas — sind; tanke — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/manas]]
 
-mano‑viññāṇa — sindbevidsthed — [[mano‑viññāṇa]]
+mano‑viññāṇa — sindbevidsthed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/mano‑viññāṇa]]
 
-mettā — kærlig‑venlighed — [[mettā]]
+mettā — kærlig‑venlighed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/mettā]]
 
-micchā‑diṭṭhi — forkert anskuelse — [[micchā‑diṭṭhi]]
+micchā‑diṭṭhi — forkert anskuelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/micchā‑diṭṭhi]]
 
-moha — vildfarelse — [[moha]]
+moha — vildfarelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/moha]]
 
 ## N
 
-nāma — navn; mental faktor — [[nāma]]
+nāma — navn; mental faktor — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/nāma]]
 
-nāma‑rūpa — navn‑form — [[nāma‑rūpa]]
+nāma‑rūpa — navn‑form — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/nāma‑rūpa]]
 
-nibbāna — udslukning — [[nibbāna]]
+nibbāna — udslukning — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/nibbāna]]
 
-nimitta — tegn — [[nimitta]]
+nimitta — tegn — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/nimitta]]
 
-nirodha — ophør — [[nirodha]]
+nirodha — ophør — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/nirodha]]
 
 ## P
 
-paññā — visdom — [[paññā]]
+paññā — visdom — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/paññā]]
 
-pañcakkhandhā — de fem aggregater — [[pañcakkhandhā]]
+pañcakkhandhā — de fem aggregater — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/pañcakkhandhā]]
 
-papañca — konceptuel proliferation — [[papañca]]
+papañca — konceptuel proliferation — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/papañca]]
 
-pīti — henrykkelse — [[pīti]]
+pīti — henrykkelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/pīti]]
 
-puñña — fortjeneste — [[puñña]]
+puñña — fortjeneste — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/puñña]]
 
-puggala — person — [[puggala]]
+puggala — person — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/puggala]]
 
-phassa — kontakt — [[phassa]]
+phassa — kontakt — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/phassa]]
 
 ## R
 
-rāga — begær; lyst — [[rāga]]
+rāga — begær; lyst — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/rāga]]
 
-rasa — smag — [[rasa]]
+rasa — smag — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/rasa]]
 
-rūpa — form; krop — [[rūpa]]
+rūpa — form; krop — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/rūpa]]
 
 ## S
 
-sacca — sandhed — [[sacca]]
+sacca — sandhed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/sacca]]
 
-saddhā — tillid; tro — [[saddhā]]
+saddhā — tillid; tro — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/saddhā]]
 
-saṅkhāra — formationer — [[saṅkhāra]]
+saṅkhāra — formationer — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/saṅkhāra]]
 
-saṅkhata — det betingede — [[saṅkhata]]
+saṅkhata — det betingede — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/saṅkhata]]
 
-saññā — perception — [[saññā]]
+saññā — perception — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/saññā]]
 
-sati — opmærksomhed — [[sati]]
+sati — opmærksomhed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/sati]]
 
-satipaṭṭhāna — grundlag for opmærksomhed — [[satipaṭṭhāna]]
+satipaṭṭhāna — grundlag for opmærksomhed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/satipaṭṭhāna]]
 
-sīla — moral — [[sīla]]
+sīla — moral — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/sīla]]
 
-soka — sorg — [[soka]]
+soka — sorg — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/soka]]
 
-sotāpanna — strømindtrådt — [[sotāpanna]]
+sotāpanna — strømindtrådt — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/sotāpanna]]
 
-sukha — velvære; glæde — [[sukha]]
+sukha — velvære; glæde — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/sukha]]
 
-sutta — diskurs — [[sutta]]
+sutta — diskurs — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/sutta]]
 
 ## T
 
-taṇhā — begær — [[taṇhā]]
+taṇhā — begær — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/taṇhā]]
 
-tathāgata — således‑kommen — [[tathāgata]]
+tathāgata — således‑kommen — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/tathāgata]]
 
-thera — ældre munk — [[thera]]
+thera — ældre munk — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/thera]]
 
-therī — ældre nonne — [[therī]]
+therī — ældre nonne — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/therī]]
 
-ti‑lakkhaṇa — de tre kendetegn — [[ti‑lakkhaṇa]]
+ti‑lakkhaṇa — de tre kendetegn — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/ti‑lakkhaṇa]]
 
-tissa — Tissa — [[tissa]]
+tissa — Tissa — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/tissa]]
 
 ## U
 
-upekkhā — ligevægt — [[upekkhā]]
+upekkhā — ligevægt — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/upekkhā]]
 
-upādāna — tilknytning; klamren — [[upādāna]]
+upādāna — tilknytning; klamren — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/upādāna]]
 
-upāsaka — mandlig lægtilhænger — [[upāsaka]]
+upāsaka — mandlig lægtilhænger — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/upāsaka]]
 
-upāsikā — kvindelig lægtilhænger — [[upāsikā]]
+upāsikā — kvindelig lægtilhænger — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/upāsikā]]
 
 ## V
 
-vedanā — følelse; fornemmelse — [[vedanā]]
+vedanā — følelse; fornemmelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/vedanā]]
 
-vedanānupassanā — opmærksomhed på følelser — [[vedanānupassanā]]
+vedanānupassanā — opmærksomhed på følelser — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/vedanānupassanā]]
 
-viññāṇa — bevidsthed — [[viññāṇa]]
+viññāṇa — bevidsthed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/viññāṇa]]
 
-viriya — energi; flid — [[viriya]]
+viriya — energi; flid — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/viriya]]
 
-vitakka — initial tanke; rettethed — [[vitakka]]
+vitakka — initial tanke; rettethed — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/vitakka]]
 
-vicāra — vedvarende tanke; undersøgelse — [[vicāra]]
+vicāra — vedvarende tanke; undersøgelse — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/vicāra]]
 
-vossagga — opgivelse; slippen — [[vossagga]]
+vossagga — opgivelse; slippen — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/vossagga]]
 
 yoniso‑manasikāra — omhyggelig opmærksomhed — [[yoniso‑manasikāra]]
 
-yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [[yathā‑bhūta‑ñāṇa‑dassana]]
+yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/yathā‑bhūta‑ñāṇa‑dassana]]

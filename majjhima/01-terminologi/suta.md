@@ -2,11 +2,11 @@
 Dansk: Det hørte
 Engelsk: the heard
 ## Kategori:
-[[Begreber-MOC]]: Sanserelateret
+[[majjhima/00-MOC/Begreber-MOC]]: Sanserelateret
 ## Kommentar
 
 ## Kilder
 
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

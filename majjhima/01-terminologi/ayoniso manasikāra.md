@@ -1,1 +1,1 @@
-Se [[yoniso manasikāra]]
+Se [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/yoniso manasikāra]]

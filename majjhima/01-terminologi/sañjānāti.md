@@ -2,13 +2,13 @@
 Dansk: At opfatte; at genkende; at identificere på perceptuelt niveau.
 Oversættelser:
 - **[[Sujato]]** — perceive    
-- **[[Bodhi]]** — perceives    
-- **[[Ñāṇamoli]]** — perceives    
+- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]** — perceives    
+- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]** — perceives    
 - **[[Thanissaro]]** — perceives / identifies
 - [[Lie]]:  betrakter
-- [[Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: To think, suppose; to recognize, perceive, comprehend; to call, name
+- [[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: To think, suppose; to recognize, perceive, comprehend; to call, name
 ## Kategori:
-[[Begreber-MOC#Erkendelse]]: Erkendelse
+[[majjhima/00-MOC/Begreber-MOC#Erkendelse]]: Erkendelse
 ## Kommentar
 (saṅ + jānāti) — perceptuel genkendelse, tæt knyttet til _saññā_. I MN1 kan det beskrives som “at opfatte X som X”, altså den første registrering, før den selvorienterede konceptualisering i _maññati_ tager over.
 [[Perplexity]]:
@@ -19,4 +19,4 @@ Oversættelser:
 ## Kilder
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

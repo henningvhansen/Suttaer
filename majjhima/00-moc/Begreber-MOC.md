@@ -1,50 +1,50 @@
 # Begreber — MOC
 
 ## Årsagslære
-- [[mula]] — rod, grundlag
-- [[nidana]] — årsag, oprindelse
-- [[samudaya]] — fremkomst, opståen
-- [[upādāna]] — klamren / binding
+- [[majjhima/01-Terminologi/mula]] — rod, grundlag
+- [[majjhima/01-Terminologi/nidana]] — årsag, oprindelse
+- [[majjhima/01-Terminologi/samudaya]] — fremkomst, opståen
+- [[majjhima/01-Terminologi/upādāna]] — klamren / binding
 
 ## Erkendelse
-- [[pajanana]]: forståelse; indsigt
-- [[paññā]]: visdom
+- [[majjhima/01-Terminologi/pajanana]]: forståelse; indsigt
+- [[majjhima/01-Terminologi/paññā]]: visdom
 - [[vijjā]]: viden, indsigt
 - [[jānāti]]: kender   
-- [[sañjānāti]]: opfatter / genkender
+- [[majjhima/01-Terminologi/sañjānāti]]: opfatter / genkender
 - [[vijānāti]]: forstår, diskriminerer/erkender forskel.
 - [[pajānāti]]: forstår grundigt; gennemskuer. 
-- [[abhijānāti]]: kender fuldt ud; har direkte erkendelse; erkender direkte.
-- [[yoniso manasikāra]] / ayoniso manasikāra: Årsagsorienteret fokus / overfladisk fokus.
+- [[majjhima/01-Terminologi/abhijānāti]]: kender fuldt ud; har direkte erkendelse; erkender direkte.
+- [[majjhima/01-Terminologi/yoniso manasikāra]] / ayoniso manasikāra: Årsagsorienteret fokus / overfladisk fokus.
 # Betinget tilblivelse
-- [[upādāna]] — klamren / binding
+- [[majjhima/01-Terminologi/upādāna]] — klamren / binding
 
 ## Bindinger
-- [[abhinandati]] — glæder sig ved, hæfter sig ved
-- [[upādāna]] — klamren / binding
+- [[majjhima/01-Terminologi/abhinandati]] — glæder sig ved, hæfter sig ved
+- [[majjhima/01-Terminologi/upādāna]] — klamren / binding
 - [[tanha]] — tørst, begær
 ## Kategori af væsener
-- [[puthujjana]] — almindelig/uoplyst person
-- [[sekkha]] — trænet discipel
+- [[majjhima/01-Terminologi/puthujjana]] — almindelig/uoplyst person
+- [[majjhima/01-Terminologi/sekkha]] — trænet discipel
 - [[arahant]] — fuldt udfriet
-- [[bhikkhunī]]
-- [[bhikkhu]]
-- [[bhagavā]] - Den velsignede / Buddha
-- [[sattā]] - Væsener
+- [[majjhima/01-Terminologi/bhikkhunī]]
+- [[majjhima/01-Terminologi/bhikkhu]]
+- [[majjhima/01-Terminologi/bhagavā]] - Den velsignede / Buddha
+- [[majjhima/01-Terminologi/sattā]] - Væsener
 ## Elementlære
-- [[pathavi]] — jord
-- [[āpo]] — vand
-- [[tejo]] — ild
+- [[majjhima/01-Terminologi/pathavi]] — jord
+- [[majjhima/01-Terminologi/āpo]] — vand
+- [[majjhima/01-Terminologi/tejo]] — ild
 - [[vayo]] — luft
 ## Titler og status
 - [[sammāsambuddha]] — fuldt oplyst    
-- [[tathāgata]] — “den således‑gående”    
+- [[majjhima/01-Terminologi/tathāgata]] — “den således‑gående”    
 ## Centrale mentale processer
-- [[maññati]] — opfatter, konstruerer, projicerer    
-- [[saṅkhāra]] — viljesmæssige formationer, konstruktioner    
-- [[viññāṇa]] — bevidsthed
+- [[majjhima/01-Terminologi/maññati]] — opfatter, konstruerer, projicerer    
+- [[majjhima/01-Terminologi/saṅkhāra]] — viljesmæssige formationer, konstruktioner    
+- [[majjhima/01-Terminologi/viññāṇa]] — bevidsthed
 ### Sanserelateret
-- [[diṭṭha]] - det sete
-- [[suta]] - det hørte
+- [[majjhima/01-Terminologi/diṭṭha]] - det sete
+- [[majjhima/01-Terminologi/suta]] - det hørte
 ## Sfærer
-- [[anantākāsānañcāyatana]]
+- [[majjhima/01-Terminologi/anantākāsānañcāyatana]]

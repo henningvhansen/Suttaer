@@ -4,13 +4,13 @@ Arahant; den fuldt udfriede; den der har fuldendt træningen og gjort, hvad der 
 ## Oversættelser:
 
 - **[[Sujato]]**: _a perfected one_  
-- **[[Bodhi]]**: _arahant_  
+- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _arahant_  
 - **[[Thanissaro]]**: _worthy one_  
 - **[[Lie]]**: _den fuldt befriede_  
-- **[[Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _arahaṁ_ (uoversat)
+- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _arahaṁ_ (uoversat)
 ## Kategori:
 
-[[Begreber-MOC]]: Personkategorier / Udfrielse
+[[majjhima/00-MOC/Begreber-MOC]]: Personkategorier / Udfrielse
 ## Kommentar
 
 **Arahant** (Pāli: _arahaṁ_) er den højeste persontype i den tidlige buddhistiske terminologi — den der har:
@@ -47,4 +47,4 @@ Begge former er korrekte, men:
 
 ## Forekomster
 
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

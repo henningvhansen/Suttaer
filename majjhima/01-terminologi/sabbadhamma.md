@@ -10,4 +10,4 @@ Kan betyde både mentale og fysiske fænomener. Kontekstafhængigt.
 #Bodhi #Sujato
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

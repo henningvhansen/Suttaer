@@ -2,11 +2,11 @@
 Dansk: Væsener
 Engelsk: creatures #Sujato, beings #Bodhi 
 ## Kategori:
-[[Begreber-MOC]]: Kategori af væsener
+[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 Henviser til levende væsener.
 ## Kilder
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

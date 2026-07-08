@@ -2,7 +2,7 @@
 Dansk: Pajāpati
 Engelsk: Pajāpati #Bodhi , Progenitor #Sujato 
 ## Kategori:
-[[Begreber-MOC]]: Kategori af væsener
+[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 Egennavn. skabergud i brahmansk tradition; i buddhismen et højt væsen, men ikke en absolut skaber.
 ## Pajāpati
@@ -44,4 +44,4 @@ MN01 viser dermed, at **intet** — selv ikke en skabergud — ligger uden for d
 - Evt. note: _“skabergud i brahmansk tradition; i buddhismen et højt væsen, men ikke en absolut skaber”_
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

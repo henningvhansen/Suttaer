@@ -2,11 +2,11 @@
 Dansk: Enhed, enhet #Lie 
 Engelsk: unity #Bodhi,  oneness #Sujato 
 ## Kategori:
-[[Begreber-MOC]]: Sanserelateret
+[[majjhima/00-MOC/Begreber-MOC]]: Sanserelateret
 ## Kommentar
 Det at være ét, ensartethed eller enhedsaspekt.
 ## Kilder
 #Perplexity 
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

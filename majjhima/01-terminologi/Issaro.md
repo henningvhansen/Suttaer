@@ -2,10 +2,10 @@
 Dansk: Herskeren, Herren #Lie 
 Engelsk: the Overlord #Bodhi, the Vanquisher #Sujato 
 ## Kategori:
-[[Begreber-MOC]]: 
+[[majjhima/00-MOC/Begreber-MOC]]: 
 ## Kommentar
 Den øverste styrende myndighed eller herre.
 ## Kilder
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

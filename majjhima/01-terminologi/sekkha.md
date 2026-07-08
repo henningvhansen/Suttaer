@@ -5,13 +5,13 @@ En munk i træning.
 ## Oversættelser:
 
 - **[[Sujato]]**: _trainee_    
-- **[[Bodhi]]**: _a bhikkhu who is in higher training_     
+- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _a bhikkhu who is in higher training_     
 - **[[Lie]]**: en munk under opplæring    
-- **[[Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _sekkha_ (uoversat)    
+- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _sekkha_ (uoversat)    
 
 ## Kategori:
 
-[[Begreber-MOC]]: Erkendelse / Personkategorier
+[[majjhima/00-MOC/Begreber-MOC]]: Erkendelse / Personkategorier
 
 ## Kommentar
 
@@ -32,4 +32,4 @@ I MN1 Mūlapariyāya Sutta er _sekkha_ den anden persontype i progressionen fra 
 - _Vism._ (kommentarer til træningens tre discipliner)    
 ## Forekomster
 
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

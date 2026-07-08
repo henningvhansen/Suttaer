@@ -5,14 +5,14 @@ At tænke; at forestille sig; at konstruere; at danne en mental forestilling om 
 ## Oversættelser:
 
 - **[[Sujato]]**: _conceives; imagines; identifies; thinks_    
-- **[[Bodhi]]**: _conceives; imagines_    
-- **[[Ñāṇamoli]]**: _conceives_    
+- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _conceives; imagines_    
+- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]**: _conceives_    
 - **[[Lie]]**: _forestiller seg; tenker; innbiller seg_    
-- **[[Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _maññati_ (uoversat)    
+- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _maññati_ (uoversat)    
 
 ## Kategori:
 
-[[Begreber-MOC]]: Verber / Erkendelsesverber
+[[majjhima/00-MOC/Begreber-MOC]]: Verber / Erkendelsesverber
 
 ## Etymologi:
 
@@ -37,4 +37,4 @@ Verbet betegner den mentale handling, hvor et objekt gøres til genstand for tan
 
 ## Forekomster:
 
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

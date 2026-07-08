@@ -2,11 +2,11 @@
 Dansk: Den velsignede
 Engelsk: The Buddha #Sujato, The Blessed One #Bodhi #Suddhāso, The Lord #Horner 
 ## Kategori: 
-[[Begreber-MOC]]: Kategori af væsener
+[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 
 ## Kilder
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

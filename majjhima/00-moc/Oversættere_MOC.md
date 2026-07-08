@@ -4,10 +4,10 @@
 - Stil: teknisk, konservativ
 - Typiske valg: “concentration”, “feeling”, “formations”
 - Relevante begreber:
-  - [[sammasambuddha]] → **“Perfectly Enlightened One”**
+  - [[majjhima/01-Terminologi/sammasambuddha]] → **“Perfectly Enlightened One”**
   - [[samadhi]] → **“concentration”**
   - [[vedana]]- → **“feeling”**
-  -[[saṅkhāra]] → **“formations”**
+  -[[majjhima/01-Terminologi/saṅkhāra]] → **“formations”**
 - Kommentarer:
 - Meget stabil terminologi    
 - God til præcision, mindre glat i sproget    
@@ -32,7 +32,7 @@
 - Centrale begreber:    
     - **[[vinnana]]**  → **“consciousness-element”**      
     - **[[vedana]]** → **“feeling-tones”**        
-    - **[[dhamma]]** → **“mental objects”**
+    - **[[majjhima/01-Terminologi/dhamma]]** → **“mental objects”**
 - Kommentarer:    
     - Nogle termer virker forældede        
     - Stadig værdifuld for tekstnærhed        
@@ -55,8 +55,8 @@
 - Stil: meget tekstnær, enkel, direkte    
 - Typiske valg: “knowing”, “understanding”, “perceiving”    
 - Centrale begreber:    
-    - **[[sammasambuddha]]** → **“Fully Awakened Buddha”**        
-    - **[[nidana]]** → **“cause”**
+    - **[[majjhima/01-Terminologi/sammasambuddha]]** → **“Fully Awakened Buddha”**        
+    - **[[majjhima/01-Terminologi/nidana]]** → **“cause”**
     - [[**mannati**]] → **“conceives” / “imagines”**        
 - Kommentarer:    
     - God til at se grammatiske detaljer        
@@ -80,7 +80,7 @@
 - Typiske valg: “knowing”, “experience”, “perception”    
 - Centrale begreber:    
     - **[[vinnana]]** → **“knowing”**        
-    - **[[sati]]** → **“mindfulness”**       
+    - **[[majjhima/01-Terminologi/sati]]** → **“mindfulness”**       
 - Kommentarer:    
     - God til at forklare baggrund og kontekst        
     - Meget brugbar til meditationstekster

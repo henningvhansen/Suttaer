@@ -8,4 +8,4 @@ Vandelementet; Det sammenhængende, flydende og kohæsive element.
 ## Kilder
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

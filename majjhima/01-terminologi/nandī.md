@@ -3,15 +3,15 @@
 glæde; tilfredsstillelse; lystfuld fastholdelse
 ## Oversættelser:
 - [[Sujato]]: approval
-- [[Bodhi]]: delight
+- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: delight
 - [[Suddhāso]]: delight
 - [[Horner]]: delight
-- [[Ñāṇamoli]]: 
+- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]: 
 - [[Thanissaro]]: 
 - [[Lie]]: nytelse
-- [[Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: 
+- [[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: 
 ## Kategori:
-[[Begreber-MOC]]: 
+[[majjhima/00-MOC/Begreber-MOC]]: 
 ## Etymologi
 Begge ord stammer fra samme rod **√nand** — “at glædes, frydes, finde tilfredsstillelse”. Heraf:
 
@@ -26,4 +26,4 @@ _Nandī_ er den **tilstand** af tilfredsstillelse, der opstår, når man _abhina
 ## Kilder
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

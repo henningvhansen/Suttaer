@@ -16,4 +16,4 @@ Copilot
 Gemini
 Claude
 ## Anvendt på
-[[MN01]]
+[[majjhima/02-suttaer/MN01]]

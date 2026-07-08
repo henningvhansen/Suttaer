@@ -1,8 +1,8 @@
 # Majjhima Nikāya — MOC
 
 ## Første 10 suttaer
-- [[MN01]]
-- [[MN02]]
+- [[majjhima/02-suttaer/MN01]]
+- [[majjhima/02-suttaer/MN02]]
 - [[MN03]]
 - [[MN04]]
 - [[MN05]]

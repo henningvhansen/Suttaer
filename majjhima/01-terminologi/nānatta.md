@@ -2,11 +2,11 @@
 Dansk: Mangfoldighed
 Engelsk: diversity #Bodhi #Sujato 
 ## Kategori:
-[[Begreber-MOC]]: 
+[[majjhima/00-MOC/Begreber-MOC]]: 
 ## Kommentar
 Det at være mange, varieret eller differentieret.
 ## Kilder
 
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]

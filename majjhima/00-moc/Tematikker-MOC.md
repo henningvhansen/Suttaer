@@ -5,10 +5,10 @@
 - [[MN118]]
 - [[MN119]]
 ## Årsagslære
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]
 - [[MN09]]
 - [[MN38]]
 ## Tilknytning
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]
 - [[MN11]]
 - [[MN22]]

@@ -3,7 +3,7 @@
 ## Dansk: Luft, vind
 
 ## Oversættelser: 
-- [[Bodhi]]: Air
+- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: Air
 - [[Sujato]]: Air
 - [[Suddhāso]]: Wind 
 - [[Anālayo]]: Wind
@@ -15,4 +15,4 @@ Luftelementet; bevægelses-, tryk- og vibrationsprincippet.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster
-- [[MN01]]
+- [[majjhima/02-suttaer/MN01]]
