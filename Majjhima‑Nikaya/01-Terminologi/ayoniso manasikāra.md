@@ -1,0 +1,1 @@
+Se [[yoniso manasikāra]]

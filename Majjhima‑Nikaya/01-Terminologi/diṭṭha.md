@@ -1,0 +1,11 @@
+# diṭṭha
+Dansk: Det sete, det han har sett #Lie 
+Engelsk: The seen
+## Kategori:
+[[Begreber-MOC]]: Sanseevne
+## Kommentar
+Det, der erkendes gennem synet.
+## Kilder
+
+## Forekomster
+- [[MN01]]
