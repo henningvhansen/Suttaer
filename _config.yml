@@ -1,3 +1,4 @@
 markdown: kramdown
 theme: minima
 safe: false
+permalink: /:path/
