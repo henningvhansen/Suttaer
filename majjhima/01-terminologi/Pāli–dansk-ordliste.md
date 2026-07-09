@@ -2,6 +2,10 @@
 layout: page
 type: begreb
 ---
+---
+layout: page
+type: begreb
+---
 ## A
 
 anicca — ubestandighed; foranderlighed — [anicca](anicca.md)
@@ -248,6 +252,6 @@ vicāra — vedvarende tanke; undersøgelse — [vicāra](vicāra.md)
 
 vossagga — opgivelse; slippen — [vossagga](vossagga.md)
 
-yoniso‑manasikāra — omhyggelig opmærksomhed — [yoniso‑manasikāra](yoniso‑manasikāra.md)
+yoniso‑manasikāra — omhyggelig opmærksomhed — [yoniso-manasikāra](yoniso-manasikāra.md)
 
 yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [yathā‑bhūta‑ñāṇa‑dassana](yathā‑bhūta‑ñāṇa‑dassana.md)

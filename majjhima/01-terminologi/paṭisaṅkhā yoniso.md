@@ -23,7 +23,7 @@ Reflekterer grundigt.
 [[../../../../../majjhima/00-moc/Begreber-MOC]]
 
 ## Definition
-**Paṭisaṅkhā** er et absolutiv/gerundium af _paṭisaṅkhāti_ (_paṭi- + saṁ- + √khyā_, "at betragte, gennemtænke, regne igennem"). Præfikset _paṭi-_ ("tilbage, igen, imod") peger på en tilbagevendende, gennemgribende eftertanke — ikke blot en almindelig, flygtig overvejelse. Kombineret med **yoniso** ("grundigt", jf. [[../../../../../majjhima/01-terminologi/yoniso manasikāra]]) danner _paṭisaṅkhā yoniso_ en fast, indledende formel: "idet han grundigt reflekterer/gennemtænker."
+**Paṭisaṅkhā** er et absolutiv/gerundium af _paṭisaṅkhāti_ (_paṭi- + saṁ- + √khyā_, "at betragte, gennemtænke, regne igennem"). Præfikset _paṭi-_ ("tilbage, igen, imod") peger på en tilbagevendende, gennemgribende eftertanke — ikke blot en almindelig, flygtig overvejelse. Kombineret med **yoniso** ("grundigt", jf. [[../../../../../majjhima/01-terminologi/yoniso-manasikāra]]) danner _paṭisaṅkhā yoniso_ en fast, indledende formel: "idet han grundigt reflekterer/gennemtænker."
 
 ## Etymologi
 Roden er _√khyā_ ("at se, betragte, opfatte"), forstærket af det dobbelte præfiks _paṭi- + saṁ-_. Sammensætningen ligner strukturelt _manasikāra_ (_manasi + karoti_, "at gøre i sindet"), men hvor _manasikāra_ betegner selve *fokus-retningen* (hvad man bringer i opmærksomhed), betegner _paṭisaṅkhā_ den *forudgående, bedømmende gennemtænkning*, der leder frem til en handling — jf. brugen i MN2 afsnit 3–7, hvor formlen indleder munkens begrundede brug af klæder, mad, bolig, medicin osv.

@@ -15,7 +15,7 @@
 - [[vijānāti]]: forstår, diskriminerer/erkender forskel.
 - [[pajānāti]]: forstår grundigt; gennemskuer. 
 - [[../../../../../majjhima/01-terminologi/abhijānāti]]: kender fuldt ud; har direkte erkendelse; erkender direkte.
-- [[../../../../../majjhima/01-terminologi/yoniso manasikāra]] / ayoniso manasikāra: Årsagsorienteret fokus / overfladisk fokus.
+- [[../../../../../majjhima/01-terminologi/yoniso-manasikāra]] / ayoniso manasikāra: Årsagsorienteret fokus / overfladisk fokus.
 # Betinget tilblivelse
 - [[../../../../../majjhima/01-terminologi/upādāna]] — klamren / binding
 

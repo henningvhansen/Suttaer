@@ -1,6 +1,8 @@
 ---
 layout: page
 type: begreb
+aliases:
+  - ayoniso manasikāra
 ---
 # yoniso manasikāra / ayoniso manasikāra
 
@@ -8,13 +10,13 @@ type: begreb
 Grundigt fokus / overfladisk fokus.
 ## Oversættelser:
 - [[Sujato]]: Rational application of mind and irrational application of mind.
-- [[../../../../../majjhima/01-terminologi/bodhi]]: Wise attention and unwise attention.
+- [[bodhi]]: Wise attention and unwise attention.
 - [[Horner]]: Wise attention and unwise attention.
 - [[Lie]]: “Man kan bruke tankene fornuftig og man kan bruke dem ufornuftig.”
 - [[Suddhāso]]: Application of mind based on an understanding of causality, and application of mind not based on an understanding of causality.
 - [[Anālayo]]: “Attention purposely directed, in a manner that is wise, thorough, and appropriate.”
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]
+[[../00-moc/Begreber-MOC]]
 ## Definition
 **Yoniso manasikāra** betegner en specifik måde at rette sindet mod et fænomen på, hvor fokus orienteres **grundigt**, dvs. **fuldstændigt og uden at blive stående ved overfladen**. Det modsatte, **ayoniso manasikāra**, betegner et **overfladisk** fokus, som tager fænomenets umiddelbare fremtræden for pålydende og fastholder vanemæssig perception og reaktivitet.
 
