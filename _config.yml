@@ -1,7 +1,15 @@
 markdown: kramdown
 theme: minima
 permalink: /:path/
+
+# Fortæl Jekyll, at dit projekt ligger i en undermappe på GitHub
+baseurl: "/Suttaer"
+
 include: [_layouts, _config.yml]
+
+# Slå pluginnet til, som automatisk retter dine .md-links i browseren
+plugins:
+  - jekyll-relative-links
 
 # Sørg for at Jekyll danner rene mapper (så links virker uden .html)
 permalink_defaults:
