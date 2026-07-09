@@ -12,7 +12,7 @@ Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
 - [Oversættelsesprincipper](majjhima/00-overblik/Oversættelsesprincipper.md)
 
 ## 01 – Terminologi
-- [Pāli–Dansk ordliste](majjhima/01-terminologi/Pali-Dansk-Ordlist.md)
+- [Pāli–Dansk ordliste](majjhima/01-terminologi/Pāli–dansk-ordliste.md)
 - [Problematiske termer](majjhima/01-terminologi/Problematiske-Termer.md)
 - [Stilvalg](majjhima/01-terminologi/Stilvalg.md)
 
