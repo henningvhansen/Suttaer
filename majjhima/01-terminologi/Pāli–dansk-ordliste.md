@@ -2,252 +2,256 @@
 layout: page
 type: begreb
 ---
+---
+layout: page
+type: begreb
+---
 ## A
 
-anicca — ubestandighed; foranderlighed — [[../../../../../majjhima/01-terminologi/anicca]]
+anicca — ubestandighed; foranderlighed — [anicca](anicca)
 
-anattā — ikke‑selv — [[../../../../../majjhima/01-terminologi/anattā]]
+anattā — ikke‑selv — [anattā](anattā)
 
-anicca‑saññā — perception af foranderlighed — [[../../../../../majjhima/01-terminologi/anicca‑saññā]]
+anicca‑saññā — perception af foranderlighed — [anicca‑saññā](anicca‑saññā)
 
-anattā‑saññā — perception af ikke‑selv — [[../../../../../majjhima/01-terminologi/anattā‑saññā]]
+anattā‑saññā — perception af ikke‑selv — [anattā‑saññā](anattā‑saññā)
 
-arahant — oplyst — [[arahant]]
+arahant — oplyst — [arahant](arahant)
 
-avijjā — uvidenhed — [[../../../../../majjhima/01-terminologi/avijjā]]
+avijjā — uvidenhed — [avijjā](avijjā)
 
-āgama — tradition; overlevering — [[../../../../../majjhima/01-terminologi/āgama]]
+āgama — tradition; overlevering — [āgama](āgama)
 
-āhāra — næring — [[../../../../../majjhima/01-terminologi/āhāra]]
+āhāra — næring — [āhāra](āhāra)
 
-ānāpānasati — opmærksomhed på åndedrættet — [[../../../../../majjhima/01-terminologi/ānāpānasati]]
+ānāpānasati — opmærksomhed på åndedrættet — [ānāpānasati](ānāpānasati)
 
-ārabbha‑dhātu — energi‑element — [[../../../../../majjhima/01-terminologi/ārabbha‑dhātu]]
+ārabbha‑dhātu — energi‑element — [ārabbha‑dhātu](ārabbha‑dhātu)
 
-āsava — strømninger; urenheder — [[../../../../../majjhima/01-terminologi/āsava]]
+āsava — strømninger; urenheder — [āsava](āsava)
 
-āyatana — sanseområde — [[../../../../../majjhima/01-terminologi/āyatana]]
+āyatana — sanseområde — [āyatana](āyatana)
 
 ## B
 
-bhava — tilblivelse — [[../../../../../majjhima/01-terminologi/bhava]]
+bhava — tilblivelse — [bhava](bhava)
 
-bhava‑taṇhā — længsel efter tilblivelse — [[../../../../../majjhima/01-terminologi/bhava‑taṇhā]]
+bhava‑taṇhā — længsel efter tilblivelse — [bhava‑taṇhā](bhava‑taṇhā)
 
-bhikkhu — munk — [[../../../../../majjhima/01-terminologi/bhikkhu]]
+bhikkhu — munk — [bhikkhu](bhikkhu)
 
-bhikkhunī — nonne — [[../../../../../majjhima/01-terminologi/bhikkhunī]]
+bhikkhunī — nonne — [bhikkhunī](bhikkhunī)
 
-bodhi — opvågning — [[../../../../../majjhima/01-terminologi/bodhi]]
+bodhi — opvågning — [bodhi](bodhi)
 
-bojjhaṅga — opvågningsfaktor — [[../../../../../majjhima/01-terminologi/bojjhaṅga]]
+bojjhaṅga — opvågningsfaktor — [bojjhaṅga](bojjhaṅga)
 
 ## C
 
-cakkhu — øje — [[../../../../../majjhima/01-terminologi/cakkhu]]
+cakkhu — øje — [cakkhu](cakkhu)
 
-cakkhu‑viññāṇa — øjenbevidsthed — [[../../../../../majjhima/01-terminologi/cakkhu‑viññāṇa]]
+cakkhu‑viññāṇa — øjenbevidsthed — [cakkhu‑viññāṇa](cakkhu‑viññāṇa)
 
-cetanā — intention; vilje — [[../../../../../majjhima/01-terminologi/cetanā]]
+cetanā — intention; vilje — [cetanā](cetanā)
 
-citta — sind — [[../../../../../majjhima/01-terminologi/citta]]
+citta — sind — [citta](citta)
 
 ## D
 
-dāna — gavmildhed — [[../../../../../majjhima/01-terminologi/dāna]]
+dāna — gavmildhed — [dāna](dāna)
 
-dhamma — fænomen; lære — [[../../../../../majjhima/01-terminologi/dhamma]]
+dhamma — fænomen; lære — [dhamma](dhamma)
 
-dhammānupassanā — opmærksomhed på fænomener — [[../../../../../majjhima/01-terminologi/dhammānupassanā]]
+dhammānupassanā — opmærksomhed på fænomener — [dhammānupassanā](dhammānupassanā)
 
-dukkha — lidelse — [[../../../../../majjhima/01-terminologi/dukkha]]
+dukkha — lidelse — [dukkha](dukkha)
 
-dukkha‑saññā — perception af lidelse — [[../../../../../majjhima/01-terminologi/dukkha‑saññā]]
+dukkha‑saññā — perception af lidelse — [dukkha‑saññā](dukkha‑saññā)
 
 ## E
 
-ekaggatā — etpunktrettethed — [[../../../../../majjhima/01-terminologi/ekaggatā]]
+ekaggatā — etpunktrettethed — [ekaggatā](ekaggatā)
 
-ekāyana — én vej — [[../../../../../majjhima/01-terminologi/ekāyana]]
+ekāyana — én vej — [ekāyana](ekāyana)
 
-evaṃ — således — [[../../../../../majjhima/01-terminologi/evaṃ]]
+evaṃ — således — [evaṃ](evaṃ)
 
 ## G
 
-gati — destination; tilstand — [[../../../../../majjhima/01-terminologi/gati]]
+gati — destination; tilstand — [gati](gati)
 
-gocara — område; domæne — [[../../../../../majjhima/01-terminologi/gocara]]
+gocara — område; domæne — [gocara](gocara)
 
-gotama — Gotama — [[../../../../../majjhima/01-terminologi/gotama]]
+gotama — Gotama — [gotama](gotama)
 
 ## H
 
-hiri — skamfølelse (moralsk) — [[../../../../../majjhima/01-terminologi/hiri]]
+hiri — skamfølelse (moralsk) — [hiri](hiri)
 
-hiri‑ottappa — skam og blufærdighed — [[../../../../../majjhima/01-terminologi/hiri‑ottappa]]
+hiri‑ottappa — skam og blufærdighed — [hiri‑ottappa](hiri‑ottappa)
 
-hetu — årsag — [[../../../../../majjhima/01-terminologi/hetu]]
+hetu — årsag — [hetu](hetu)
 
-hoti — er; bliver — [[../../../../../majjhima/01-terminologi/hoti]]
+hoti — er; bliver — [hoti](hoti)
 
 ## I
 
-indriya — fakultet; evne — [[../../../../../majjhima/01-terminologi/indriya]]
+indriya — fakultet; evne — [indriya](indriya)
 
-iriyāpatha — kropsstilling — [[../../../../../majjhima/01-terminologi/iriyāpatha]]
+iriyāpatha — kropsstilling — [iriyāpatha](iriyāpatha)
 
 ## J
 
-jāti — fødsel — [[../../../../../majjhima/01-terminologi/jāti]]
+jāti — fødsel — [jāti](jāti)
 
-jhāna — fordybelse — [[../../../../../majjhima/01-terminologi/jhāna]]
+jhāna — fordybelse — [jhāna](jhāna)
 
-jīvitindriya — livsfakultet — [[../../../../../majjhima/01-terminologi/jīvitindriya]]
+jīvitindriya — livsfakultet — [jīvitindriya](jīvitindriya)
 
 ## K
 
-kāya — krop — [[../../../../../majjhima/01-terminologi/kāya]]
+kāya — krop — [kāya](kāya)
 
-kāyānupassanā — opmærksomhed på kroppen — [[../../../../../majjhima/01-terminologi/kāyānupassanā]]
+kāyānupassanā — opmærksomhed på kroppen — [kāyānupassanā](kāyānupassanā)
 
-kamma — handling — [[../../../../../majjhima/01-terminologi/kamma]]
+kamma — handling — [kamma](kamma)
 
-kammavipāka — karmisk resultat — [[../../../../../majjhima/01-terminologi/kammavipāka]]
+kammavipāka — karmisk resultat — [kammavipāka](kammavipāka)
 
-kappa — tidsalder — [[../../../../../majjhima/01-terminologi/kappa]]
+kappa — tidsalder — [kappa](kappa)
 
-karuṇā — medfølelse — [[../../../../../majjhima/01-terminologi/karuṇā]]
+karuṇā — medfølelse — [karuṇā](karuṇā)
 
-khandha — aggregat — [[../../../../../majjhima/01-terminologi/khandha]]
+khandha — aggregat — [khandha](khandha)
 
-kilesa — urenhed — [[../../../../../majjhima/01-terminologi/kilesa]]
+kilesa — urenhed — [kilesa](kilesa)
 
-lobha — begær — [[../../../../../majjhima/01-terminologi/lobha]]
+lobha — begær — [lobha](lobha)
 
-lokuttara — verdensoverskridende — [[../../../../../majjhima/01-terminologi/lokuttara]]
+lokuttara — verdensoverskridende — [lokuttara](lokuttara)
 
-loka — verden — [[../../../../../majjhima/01-terminologi/loka]]
+loka — verden — [loka](loka)
 
-loma — hår — [[../../../../../majjhima/01-terminologi/loma]]
+loma — hår — [loma](loma)
 
 ## M
 
-magga — vej — [[../../../../../majjhima/01-terminologi/magga]]
+magga — vej — [magga](magga)
 
-mahā — stor — [[../../../../../majjhima/01-terminologi/mahā]]
+mahā — stor — [mahā](mahā)
 
-manas — sind; tanke — [[../../../../../majjhima/01-terminologi/manas]]
+manas — sind; tanke — [manas](manas)
 
-mano‑viññāṇa — sindbevidsthed — [[../../../../../majjhima/01-terminologi/mano‑viññāṇa]]
+mano‑viññāṇa — sindbevidsthed — [mano‑viññāṇa](mano‑viññāṇa)
 
-mettā — kærlig‑venlighed — [[../../../../../majjhima/01-terminologi/mettā]]
+mettā — kærlig‑venlighed — [mettā](mettā)
 
-micchā‑diṭṭhi — forkert anskuelse — [[../../../../../majjhima/01-terminologi/micchā‑diṭṭhi]]
+micchā‑diṭṭhi — forkert anskuelse — [micchā‑diṭṭhi](micchā‑diṭṭhi)
 
-moha — vildfarelse — [[../../../../../majjhima/01-terminologi/moha]]
+moha — vildfarelse — [moha](moha)
 
 ## N
 
-nāma — navn; mental faktor — [[../../../../../majjhima/01-terminologi/nāma]]
+nāma — navn; mental faktor — [nāma](nāma)
 
-nāma‑rūpa — navn‑form — [[../../../../../majjhima/01-terminologi/nāma‑rūpa]]
+nāma‑rūpa — navn‑form — [nāma‑rūpa](nāma‑rūpa)
 
-nibbāna — udslukning — [[../../../../../majjhima/01-terminologi/nibbāna]]
+nibbāna — udslukning — [nibbāna](nibbāna)
 
-nimitta — tegn — [[../../../../../majjhima/01-terminologi/nimitta]]
+nimitta — tegn — [nimitta](nimitta)
 
-nirodha — ophør — [[../../../../../majjhima/01-terminologi/nirodha]]
+nirodha — ophør — [nirodha](nirodha)
 
 ## P
 
-paññā — visdom — [[../../../../../majjhima/01-terminologi/paññā]]
+paññā — visdom — [paññā](paññā)
 
-pañcakkhandhā — de fem aggregater — [[../../../../../majjhima/01-terminologi/pañcakkhandhā]]
+pañcakkhandhā — de fem aggregater — [pañcakkhandhā](pañcakkhandhā)
 
-papañca — konceptuel proliferation — [[../../../../../majjhima/01-terminologi/papañca]]
+papañca — konceptuel proliferation — [papañca](papañca)
 
-pīti — henrykkelse — [[../../../../../majjhima/01-terminologi/pīti]]
+pīti — henrykkelse — [pīti](pīti)
 
-puñña — fortjeneste — [[../../../../../majjhima/01-terminologi/puñña]]
+puñña — fortjeneste — [puñña](puñña)
 
-puggala — person — [[../../../../../majjhima/01-terminologi/puggala]]
+puggala — person — [puggala](puggala)
 
-phassa — kontakt — [[../../../../../majjhima/01-terminologi/phassa]]
+phassa — kontakt — [phassa](phassa)
 
 ## R
 
-rāga — begær; lyst — [[../../../../../majjhima/01-terminologi/rāga]]
+rāga — begær; lyst — [rāga](rāga)
 
-rasa — smag — [[../../../../../majjhima/01-terminologi/rasa]]
+rasa — smag — [rasa](rasa)
 
-rūpa — form; krop — [[../../../../../majjhima/01-terminologi/rūpa]]
+rūpa — form; krop — [rūpa](rūpa)
 
 ## S
 
-sacca — sandhed — [[../../../../../majjhima/01-terminologi/sacca]]
+sacca — sandhed — [sacca](sacca)
 
-saddhā — tillid; tro — [[../../../../../majjhima/01-terminologi/saddhā]]
+saddhā — tillid; tro — [saddhā](saddhā)
 
-saṅkhāra — formationer — [[../../../../../majjhima/01-terminologi/saṅkhāra]]
+saṅkhāra — formationer — [saṅkhāra](saṅkhāra)
 
-saṅkhata — det betingede — [[../../../../../majjhima/01-terminologi/saṅkhata]]
+saṅkhata — det betingede — [saṅkhata](saṅkhata)
 
-saññā — perception — [[../../../../../majjhima/01-terminologi/saññā]]
+saññā — perception — [saññā](saññā)
 
-sati — opmærksomhed — [[../../../../../majjhima/01-terminologi/sati]]
+sati — opmærksomhed — [sati](sati)
 
-satipaṭṭhāna — grundlag for opmærksomhed — [[../../../../../majjhima/01-terminologi/satipaṭṭhāna]]
+satipaṭṭhāna — grundlag for opmærksomhed — [satipaṭṭhāna](satipaṭṭhāna)
 
-sīla — moral — [[../../../../../majjhima/01-terminologi/sīla]]
+sīla — moral — [sīla](sīla)
 
-soka — sorg — [[../../../../../majjhima/01-terminologi/soka]]
+soka — sorg — [soka](soka)
 
-sotāpanna — strømindtrådt — [[../../../../../majjhima/01-terminologi/sotāpanna]]
+sotāpanna — strømindtrådt — [sotāpanna](sotāpanna)
 
-sukha — velvære; glæde — [[../../../../../majjhima/01-terminologi/sukha]]
+sukha — velvære; glæde — [sukha](sukha)
 
-sutta — diskurs — [[../../../../../majjhima/01-terminologi/sutta]]
+sutta — diskurs — [sutta](sutta)
 
 ## T
 
-taṇhā — begær — [[../../../../../majjhima/01-terminologi/taṇhā]]
+taṇhā — begær — [taṇhā](taṇhā)
 
-tathāgata — således‑kommen — [[../../../../../majjhima/01-terminologi/tathāgata]]
+tathāgata — således‑kommen — [tathāgata](tathāgata)
 
-thera — ældre munk — [[../../../../../majjhima/01-terminologi/thera]]
+thera — ældre munk — [thera](thera)
 
-therī — ældre nonne — [[../../../../../majjhima/01-terminologi/therī]]
+therī — ældre nonne — [therī](therī)
 
-ti‑lakkhaṇa — de tre kendetegn — [[../../../../../majjhima/01-terminologi/ti‑lakkhaṇa]]
+ti‑lakkhaṇa — de tre kendetegn — [ti‑lakkhaṇa](ti‑lakkhaṇa)
 
-tissa — Tissa — [[../../../../../majjhima/01-terminologi/tissa]]
+tissa — Tissa — [tissa](tissa)
 
 ## U
 
-upekkhā — ligevægt — [[../../../../../majjhima/01-terminologi/upekkhā]]
+upekkhā — ligevægt — [upekkhā](upekkhā)
 
-upādāna — tilknytning; klamren — [[../../../../../majjhima/01-terminologi/upādāna]]
+upādāna — tilknytning; klamren — [upādāna](upādāna)
 
-upāsaka — mandlig lægtilhænger — [[../../../../../majjhima/01-terminologi/upāsaka]]
+upāsaka — mandlig lægtilhænger — [upāsaka](upāsaka)
 
-upāsikā — kvindelig lægtilhænger — [[../../../../../majjhima/01-terminologi/upāsikā]]
+upāsikā — kvindelig lægtilhænger — [upāsikā](upāsikā)
 
 ## V
 
-vedanā — følelse; fornemmelse — [[../../../../../majjhima/01-terminologi/vedanā]]
+vedanā — følelse; fornemmelse — [vedanā](vedanā)
 
-vedanānupassanā — opmærksomhed på følelser — [[../../../../../majjhima/01-terminologi/vedanānupassanā]]
+vedanānupassanā — opmærksomhed på følelser — [vedanānupassanā](vedanānupassanā)
 
-viññāṇa — bevidsthed — [[../../../../../majjhima/01-terminologi/viññāṇa]]
+viññāṇa — bevidsthed — [viññāṇa](viññāṇa)
 
-viriya — energi; flid — [[../../../../../majjhima/01-terminologi/viriya]]
+viriya — energi; flid — [viriya](viriya)
 
-vitakka — initial tanke; rettethed — [[../../../../../majjhima/01-terminologi/vitakka]]
+vitakka — initial tanke; rettethed — [vitakka](vitakka)
 
-vicāra — vedvarende tanke; undersøgelse — [[../../../../../majjhima/01-terminologi/vicāra]]
+vicāra — vedvarende tanke; undersøgelse — [vicāra](vicāra)
 
-vossagga — opgivelse; slippen — [[../../../../../majjhima/01-terminologi/vossagga]]
+vossagga — opgivelse; slippen — [vossagga](vossagga)
 
-yoniso‑manasikāra — omhyggelig opmærksomhed — [[yoniso‑manasikāra]]
+yoniso‑manasikāra — omhyggelig opmærksomhed — [yoniso-manasikāra](yoniso-manasikāra)
 
-yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [[../../../../../majjhima/01-terminologi/yathā‑bhūta‑ñāṇa‑dassana]]
+yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [yathā‑bhūta‑ñāṇa‑dassana](yathā‑bhūta‑ñāṇa‑dassana)
