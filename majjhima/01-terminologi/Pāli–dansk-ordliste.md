@@ -2,255 +2,252 @@
 layout: page
 type: begreb
 ---
----
-layout: page
-type: begreb
----
 ## A
 
 anicca — ubestandighed; foranderlighed — [anicca](anicca.md)
-anattā — ikke‑selv — [anattā](./anattā)
 
-anicca‑saññā — perception af foranderlighed — [anicca‑saññā](anicca‑saññā)
+anattā — ikke‑selv — [anattā](anattā.md)
 
-anattā‑saññā — perception af ikke‑selv — [anattā‑saññā](anattā‑saññā)
+anicca‑saññā — perception af foranderlighed — [anicca‑saññā](anicca‑saññā.md)
 
-arahant — oplyst — [arahant](arahant)
+anattā‑saññā — perception af ikke‑selv — [anattā‑saññā](anattā‑saññā.md)
 
-avijjā — uvidenhed — [avijjā](avijjā)
+arahant — oplyst — [arahant](arahant.md)
 
-āgama — tradition; overlevering — [āgama](āgama)
+avijjā — uvidenhed — [avijjā](avijjā.md)
 
-āhāra — næring — [āhāra](āhāra)
+āgama — tradition; overlevering — [āgama](āgama.md)
 
-ānāpānasati — opmærksomhed på åndedrættet — [ānāpānasati](ānāpānasati)
+āhāra — næring — [āhāra](āhāra.md)
 
-ārabbha‑dhātu — energi‑element — [ārabbha‑dhātu](ārabbha‑dhātu)
+ānāpānasati — opmærksomhed på åndedrættet — [ānāpānasati](ānāpānasati.md)
 
-āsava — strømninger; urenheder — [āsava](āsava)
+ārabbha‑dhātu — energi‑element — [ārabbha‑dhātu](ārabbha‑dhātu.md)
 
-āyatana — sanseområde — [āyatana](āyatana)
+āsava — strømninger; urenheder — [āsava](āsava.md)
+
+āyatana — sanseområde — [āyatana](āyatana.md)
 
 ## B
 
-bhava — tilblivelse — [bhava](bhava)
+bhava — tilblivelse — [bhava](bhava.md)
 
-bhava‑taṇhā — længsel efter tilblivelse — [bhava‑taṇhā](bhava‑taṇhā)
+bhava‑taṇhā — længsel efter tilblivelse — [bhava‑taṇhā](bhava‑taṇhā.md)
 
-bhikkhu — munk — [bhikkhu](bhikkhu)
+bhikkhu — munk — [bhikkhu](bhikkhu.md)
 
-bhikkhunī — nonne — [bhikkhunī](bhikkhunī)
+bhikkhunī — nonne — [bhikkhunī](bhikkhunī.md)
 
-bodhi — opvågning — [bodhi](bodhi)
+bodhi — opvågning — [bodhi](bodhi.md)
 
-bojjhaṅga — opvågningsfaktor — [bojjhaṅga](bojjhaṅga)
+bojjhaṅga — opvågningsfaktor — [bojjhaṅga](bojjhaṅga.md)
 
 ## C
 
-cakkhu — øje — [cakkhu](cakkhu)
+cakkhu — øje — [cakkhu](cakkhu.md)
 
-cakkhu‑viññāṇa — øjenbevidsthed — [cakkhu‑viññāṇa](cakkhu‑viññāṇa)
+cakkhu‑viññāṇa — øjenbevidsthed — [cakkhu‑viññāṇa](cakkhu‑viññāṇa.md)
 
-cetanā — intention; vilje — [cetanā](cetanā)
+cetanā — intention; vilje — [cetanā](cetanā.md)
 
-citta — sind — [citta](citta)
+citta — sind — [citta](citta.md)
 
 ## D
 
-dāna — gavmildhed — [dāna](dāna)
+dāna — gavmildhed — [dāna](dāna.md)
 
-dhamma — fænomen; lære — [dhamma](dhamma)
+dhamma — fænomen; lære — [dhamma](dhamma.md)
 
-dhammānupassanā — opmærksomhed på fænomener — [dhammānupassanā](dhammānupassanā)
+dhammānupassanā — opmærksomhed på fænomener — [dhammānupassanā](dhammānupassanā.md)
 
-dukkha — lidelse — [dukkha](dukkha)
+dukkha — lidelse — [dukkha](dukkha.md)
 
-dukkha‑saññā — perception af lidelse — [dukkha‑saññā](dukkha‑saññā)
+dukkha‑saññā — perception af lidelse — [dukkha‑saññā](dukkha‑saññā.md)
 
 ## E
 
-ekaggatā — etpunktrettethed — [ekaggatā](ekaggatā)
+ekaggatā — etpunktrettethed — [ekaggatā](ekaggatā.md)
 
-ekāyana — én vej — [ekāyana](ekāyana)
+ekāyana — én vej — [ekāyana](ekāyana.md)
 
-evaṃ — således — [evaṃ](evaṃ)
+evaṃ — således — [evaṃ](evaṃ.md)
 
 ## G
 
-gati — destination; tilstand — [gati](gati)
+gati — destination; tilstand — [gati](gati.md)
 
-gocara — område; domæne — [gocara](gocara)
+gocara — område; domæne — [gocara](gocara.md)
 
-gotama — Gotama — [gotama](gotama)
+gotama — Gotama — [gotama](gotama.md)
 
 ## H
 
-hiri — skamfølelse (moralsk) — [hiri](hiri)
+hiri — skamfølelse (moralsk) — [hiri](hiri.md)
 
-hiri‑ottappa — skam og blufærdighed — [hiri‑ottappa](hiri‑ottappa)
+hiri‑ottappa — skam og blufærdighed — [hiri‑ottappa](hiri‑ottappa.md)
 
-hetu — årsag — [hetu](hetu)
+hetu — årsag — [hetu](hetu.md)
 
-hoti — er; bliver — [hoti](hoti)
+hoti — er; bliver — [hoti](hoti.md)
 
 ## I
 
-indriya — fakultet; evne — [indriya](indriya)
+indriya — fakultet; evne — [indriya](indriya.md)
 
-iriyāpatha — kropsstilling — [iriyāpatha](iriyāpatha)
+iriyāpatha — kropsstilling — [iriyāpatha](iriyāpatha.md)
 
 ## J
 
-jāti — fødsel — [jāti](jāti)
+jāti — fødsel — [jāti](jāti.md)
 
-jhāna — fordybelse — [jhāna](jhāna)
+jhāna — fordybelse — [jhāna](jhāna.md)
 
-jīvitindriya — livsfakultet — [jīvitindriya](jīvitindriya)
+jīvitindriya — livsfakultet — [jīvitindriya](jīvitindriya.md)
 
 ## K
 
-kāya — krop — [kāya](kāya)
+kāya — krop — [kāya](kāya.md)
 
-kāyānupassanā — opmærksomhed på kroppen — [kāyānupassanā](kāyānupassanā)
+kāyānupassanā — opmærksomhed på kroppen — [kāyānupassanā](kāyānupassanā.md)
 
-kamma — handling — [kamma](kamma)
+kamma — handling — [kamma](kamma.md)
 
-kammavipāka — karmisk resultat — [kammavipāka](kammavipāka)
+kammavipāka — karmisk resultat — [kammavipāka](kammavipāka.md)
 
-kappa — tidsalder — [kappa](kappa)
+kappa — tidsalder — [kappa](kappa.md)
 
-karuṇā — medfølelse — [karuṇā](karuṇā)
+karuṇā — medfølelse — [karuṇā](karuṇā.md)
 
-khandha — aggregat — [khandha](khandha)
+khandha — aggregat — [khandha](khandha.md)
 
-kilesa — urenhed — [kilesa](kilesa)
+kilesa — urenhed — [kilesa](kilesa.md)
 
-lobha — begær — [lobha](lobha)
+lobha — begær — [lobha](lobha.md)
 
-lokuttara — verdensoverskridende — [lokuttara](lokuttara)
+lokuttara — verdensoverskridende — [lokuttara](lokuttara.md)
 
-loka — verden — [loka](loka)
+loka — verden — [loka](loka.md)
 
-loma — hår — [loma](loma)
+loma — hår — [loma](loma.md)
 
 ## M
 
-magga — vej — [magga](magga)
+magga — vej — [magga](magga.md)
 
-mahā — stor — [mahā](mahā)
+mahā — stor — [mahā](mahā.md)
 
-manas — sind; tanke — [manas](manas)
+manas — sind; tanke — [manas](manas.md)
 
-mano‑viññāṇa — sindbevidsthed — [mano‑viññāṇa](mano‑viññāṇa)
+mano‑viññāṇa — sindbevidsthed — [mano‑viññāṇa](mano‑viññāṇa.md)
 
-mettā — kærlig‑venlighed — [mettā](mettā)
+mettā — kærlig‑venlighed — [mettā](mettā.md)
 
-micchā‑diṭṭhi — forkert anskuelse — [micchā‑diṭṭhi](micchā‑diṭṭhi)
+micchā‑diṭṭhi — forkert anskuelse — [micchā‑diṭṭhi](micchā‑diṭṭhi.md)
 
-moha — vildfarelse — [moha](moha)
+moha — vildfarelse — [moha](moha.md)
 
 ## N
 
-nāma — navn; mental faktor — [nāma](nāma)
+nāma — navn; mental faktor — [nāma](nāma.md)
 
-nāma‑rūpa — navn‑form — [nāma‑rūpa](nāma‑rūpa)
+nāma‑rūpa — navn‑form — [nāma‑rūpa](nāma‑rūpa.md)
 
-nibbāna — udslukning — [nibbāna](nibbāna)
+nibbāna — udslukning — [nibbāna](nibbāna.md)
 
-nimitta — tegn — [nimitta](nimitta)
+nimitta — tegn — [nimitta](nimitta.md)
 
-nirodha — ophør — [nirodha](nirodha)
+nirodha — ophør — [nirodha](nirodha.md)
 
 ## P
 
-paññā — visdom — [paññā](paññā)
+paññā — visdom — [paññā](paññā.md)
 
-pañcakkhandhā — de fem aggregater — [pañcakkhandhā](pañcakkhandhā)
+pañcakkhandhā — de fem aggregater — [pañcakkhandhā](pañcakkhandhā.md)
 
-papañca — konceptuel proliferation — [papañca](papañca)
+papañca — konceptuel proliferation — [papañca](papañca.md)
 
-pīti — henrykkelse — [pīti](pīti)
+pīti — henrykkelse — [pīti](pīti.md)
 
-puñña — fortjeneste — [puñña](puñña)
+puñña — fortjeneste — [puñña](puñña.md)
 
-puggala — person — [puggala](puggala)
+puggala — person — [puggala](puggala.md)
 
-phassa — kontakt — [phassa](phassa)
+phassa — kontakt — [phassa](phassa.md)
 
 ## R
 
-rāga — begær; lyst — [rāga](rāga)
+rāga — begær; lyst — [rāga](rāga.md)
 
-rasa — smag — [rasa](rasa)
+rasa — smag — [rasa](rasa.md)
 
-rūpa — form; krop — [rūpa](rūpa)
+rūpa — form; krop — [rūpa](rūpa.md)
 
 ## S
 
-sacca — sandhed — [sacca](sacca)
+sacca — sandhed — [sacca](sacca.md)
 
-saddhā — tillid; tro — [saddhā](saddhā)
+saddhā — tillid; tro — [saddhā](saddhā.md)
 
-saṅkhāra — formationer — [saṅkhāra](saṅkhāra)
+saṅkhāra — formationer — [saṅkhāra](saṅkhāra.md)
 
-saṅkhata — det betingede — [saṅkhata](saṅkhata)
+saṅkhata — det betingede — [saṅkhata](saṅkhata.md)
 
-saññā — perception — [saññā](saññā)
+saññā — perception — [saññā](saññā.md)
 
-sati — opmærksomhed — [sati](sati)
+sati — opmærksomhed — [sati](sati.md)
 
-satipaṭṭhāna — grundlag for opmærksomhed — [satipaṭṭhāna](satipaṭṭhāna)
+satipaṭṭhāna — grundlag for opmærksomhed — [satipaṭṭhāna](satipaṭṭhāna.md)
 
-sīla — moral — [sīla](sīla)
+sīla — moral — [sīla](sīla.md)
 
-soka — sorg — [soka](soka)
+soka — sorg — [soka](soka.md)
 
-sotāpanna — strømindtrådt — [sotāpanna](sotāpanna)
+sotāpanna — strømindtrådt — [sotāpanna](sotāpanna.md)
 
-sukha — velvære; glæde — [sukha](sukha)
+sukha — velvære; glæde — [sukha](sukha.md)
 
-sutta — diskurs — [sutta](sutta)
+sutta — diskurs — [sutta](sutta.md)
 
 ## T
 
-taṇhā — begær — [taṇhā](taṇhā)
+taṇhā — begær — [taṇhā](taṇhā.md)
 
-tathāgata — således‑kommen — [tathāgata](tathāgata)
+tathāgata — således‑kommen — [tathāgata](tathāgata.md)
 
-thera — ældre munk — [thera](thera)
+thera — ældre munk — [thera](thera.md)
 
-therī — ældre nonne — [therī](therī)
+therī — ældre nonne — [therī](therī.md)
 
-ti‑lakkhaṇa — de tre kendetegn — [ti‑lakkhaṇa](ti‑lakkhaṇa)
+ti‑lakkhaṇa — de tre kendetegn — [ti‑lakkhaṇa](ti‑lakkhaṇa.md)
 
-tissa — Tissa — [tissa](tissa)
+tissa — Tissa — [tissa](tissa.md)
 
 ## U
 
-upekkhā — ligevægt — [upekkhā](upekkhā)
+upekkhā — ligevægt — [upekkhā](upekkhā.md)
 
-upādāna — tilknytning; klamren — [upādāna](upādāna)
+upādāna — tilknytning; klamren — [upādāna](upādāna.md)
 
-upāsaka — mandlig lægtilhænger — [upāsaka](upāsaka)
+upāsaka — mandlig lægtilhænger — [upāsaka](upāsaka.md)
 
-upāsikā — kvindelig lægtilhænger — [upāsikā](upāsikā)
+upāsikā — kvindelig lægtilhænger — [upāsikā](upāsikā.md)
 
 ## V
 
-vedanā — følelse; fornemmelse — [vedanā](vedanā)
+vedanā — følelse; fornemmelse — [vedanā](vedanā.md)
 
-vedanānupassanā — opmærksomhed på følelser — [vedanānupassanā](vedanānupassanā)
+vedanānupassanā — opmærksomhed på følelser — [vedanānupassanā](vedanānupassanā.md)
 
-viññāṇa — bevidsthed — [viññāṇa](viññāṇa)
+viññāṇa — bevidsthed — [viññāṇa](viññāṇa.md)
 
-viriya — energi; flid — [viriya](viriya)
+viriya — energi; flid — [viriya](viriya.md)
 
-vitakka — initial tanke; rettethed — [vitakka](vitakka)
+vitakka — initial tanke; rettethed — [vitakka](vitakka.md)
 
-vicāra — vedvarende tanke; undersøgelse — [vicāra](vicāra)
+vicāra — vedvarende tanke; undersøgelse — [vicāra](vicāra.md)
 
-vossagga — opgivelse; slippen — [vossagga](vossagga)
+vossagga — opgivelse; slippen — [vossagga](vossagga.md)
 
-yoniso‑manasikāra — omhyggelig opmærksomhed — [yoniso-manasikāra](yoniso-manasikāra)
+yoniso‑manasikāra — omhyggelig opmærksomhed — [yoniso‑manasikāra](yoniso‑manasikāra.md)
 
-yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [yathā‑bhūta‑ñāṇa‑dassana](yathā‑bhūta‑ñāṇa‑dassana)
+yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [yathā‑bhūta‑ñāṇa‑dassana](yathā‑bhūta‑ñāṇa‑dassana.md)
