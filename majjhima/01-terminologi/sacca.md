@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sacca
 Dansk: sandhed
 Engelsk: truth (Bodhi), truth (Sujato), truth (Thanissaro), sannhet (Lie)

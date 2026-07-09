@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # therī
 Dansk: ældre nonne
 Engelsk: elder nun (Bodhi), elder nun (Sujato), elder nun (Thanissaro), eldre nonne (Lie)

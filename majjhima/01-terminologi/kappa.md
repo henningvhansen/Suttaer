@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # kappa
 Dansk: tidsalder
 Engelsk: aeon (Bodhi), eon (Sujato), aeon (Thanissaro), tidsalder (Lie)

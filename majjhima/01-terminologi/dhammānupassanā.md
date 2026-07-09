@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # dhammānupassanā
 Dansk: opmærksomhed på fænomener
 Engelsk: mindfulness of phenomena (Bodhi), mindfulness of phenomena (Sujato), mindfulness of mental qualities (Thanissaro), oppmerksomhet på fenomener (Lie)

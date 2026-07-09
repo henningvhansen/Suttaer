@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # bhava‑taṇhā
 Dansk: længsel efter tilblivelse
 Engelsk: craving for existence (Bodhi), craving for existence (Sujato), craving for becoming (Thanissaro), begjær etter tilblivelse (Lie)

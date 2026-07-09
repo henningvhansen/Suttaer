@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # bhikkhunī
 Dansk: nonne
 Engelsk: nun (Bodhi), nun (Sujato), nun (Thanissaro), nonne (Lie)

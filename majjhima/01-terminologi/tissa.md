@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # tissa
 Dansk: Tissa
 Engelsk: Tissa (Bodhi), Tissa (Sujato), Tissa (Thanissaro), Tissa (Lie)

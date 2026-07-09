@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # bhagavā
 Dansk: Den velsignede
 Engelsk: The Buddha #Sujato, The Blessed One #Bodhi #Suddhāso, The Lord #Horner 

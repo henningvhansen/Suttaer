@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # dukkha
 Dansk: lidelse
 Engelsk: suffering (Bodhi), suffering (Sujato), stress (Thanissaro), lidelse (Lie)

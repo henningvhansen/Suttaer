@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # satipaṭṭhāna
 Dansk: grundlag for opmærksomhed
 Engelsk: foundations of mindfulness (Bodhi), foundations of mindfulness (Sujato), frames of reference (Thanissaro), oppmerksomhetsgrunnlag (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # hetu
 Dansk: årsag
 Engelsk: cause (Bodhi), cause (Sujato), cause (Thanissaro), årsak (Lie)

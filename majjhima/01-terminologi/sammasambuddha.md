@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sammāsambuddha
 Dansk: fuldt oplyst; fuldkommen oplyst; helt opvågen
 Engelsk: fully awakened; perfectly awakened

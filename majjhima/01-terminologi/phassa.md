@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # phassa
 Dansk: kontakt
 Engelsk: contact (Bodhi), contact (Sujato), contact (Thanissaro), kontakt (Lie)

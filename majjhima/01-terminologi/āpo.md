@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # āpo
 Dansk: Vand
 Engelsk: Water

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # cetanā
 Dansk: intention; vilje
 Engelsk: intention (Bodhi), intention (Sujato), intention (Thanissaro), vilje (Lie)

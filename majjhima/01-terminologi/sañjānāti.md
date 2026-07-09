@@ -1,9 +1,13 @@
+---
+layout: page
+type: begreb
+---
 # sañjānāti
 Dansk: At opfatte; at genkende; at identificere på perceptuelt niveau.
 Oversættelser:
 - **[[Sujato]]** — perceive    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]** — perceives    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]** — perceives    
+- **[[majjhima/01-Terminologi/bodhi]]** — perceives    
+- **[[majjhima/01-Terminologi/Ñāṇamoli]]** — perceives    
 - **[[Thanissaro]]** — perceives / identifies
 - [[Lie]]:  betrakter
 - [[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: To think, suppose; to recognize, perceive, comprehend; to call, name

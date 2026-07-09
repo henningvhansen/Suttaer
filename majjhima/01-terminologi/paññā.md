@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # paññā
 Dansk: visdom
 Engelsk: wisdom (Bodhi), wisdom (Sujato), discernment (Thanissaro), visdom (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sati
 Dansk: opmærksomhed
 Engelsk: mindfulness (Bodhi), mindfulness (Sujato), mindfulness (Thanissaro), oppmerksomhet (Lie)

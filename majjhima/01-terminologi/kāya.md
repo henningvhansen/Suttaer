@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # kāya
 Dansk: krop
 Engelsk: body (Bodhi), body (Sujato), body (Thanissaro), kropp (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # gocara
 Dansk: område; domæne
 Engelsk: range (Bodhi), domain (Sujato), range (Thanissaro), område (Lie)

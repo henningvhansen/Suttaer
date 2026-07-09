@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # bhikkhu
 Dansk: munk
 Engelsk: monk (Bodhi), monk (Sujato), monk (Thanissaro), munk (Lie)

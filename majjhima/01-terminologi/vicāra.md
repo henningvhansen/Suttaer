@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # vicāra
 Dansk: vedvarende tanke; undersøgelse
 Engelsk: examination (Bodhi), evaluation (Sujato), evaluation (Thanissaro), vurdering (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # bhava
 Dansk: tilblivelse
 Engelsk: existence (Bodhi), existence (Sujato), becoming (Thanissaro), tilblivelse (Lie)

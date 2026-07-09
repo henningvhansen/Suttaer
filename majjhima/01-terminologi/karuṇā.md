@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # karuṇā
 Dansk: medfølelse
 Engelsk: compassion (Bodhi), compassion (Sujato), compassion (Thanissaro), medfølelse (Lie)

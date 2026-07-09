@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # Brahmā
 Dansk: Brahmā
 Engelsk: Brahmā #Bodhi, Divinity #Sujato 

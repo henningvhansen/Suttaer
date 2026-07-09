@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # anattā
 Dansk: ikke‑selv
 Engelsk: not‑self (Bodhi), not‑self (Sujato), not‑self (Thanissaro), ikke‑selv (Lie)

@@ -1,1 +1,5 @@
-Se [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/yoniso manasikāra]]
+---
+layout: page
+type: begreb
+---
+Se [[majjhima/01-Terminologi/yoniso manasikāra]]

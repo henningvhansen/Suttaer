@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # āyatana
 Dansk: sanseområde
 Engelsk: sense sphere (Bodhi), sense field (Sujato), sense medium (Thanissaro), sanseområde (Lie)

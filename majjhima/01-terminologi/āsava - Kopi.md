@@ -1,12 +1,16 @@
+---
+layout: page
+type: begreb
+---
 # āsava
 
 ## Dansk:
 Gæring.
 ## Oversættelser:
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: Taint.
+- [[majjhima/01-Terminologi/bodhi]]: Taint.
 - [[Sujato]]: Defilement.
 - [[Thanissaro]]: Effluent (tidligere, i ældre udgaver: fermentation).
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]: Canker.
+- [[majjhima/01-Terminologi/Ñāṇamoli]]: Canker.
 - [[Lie]]: Urenhet.
 ## Kategori:
 [[majjhima/00-MOC/Begreber-MOC]]
@@ -31,7 +35,7 @@ Abhidhammattha Saṅgaha identificerer _kāmāsava_ og _bhavāsava_ direkte med 
 
 For _avijjāsava_ gælder en anden, cirkulær model: **MN9** beskriver *avijjā* og *āsava* i et gensidigt betingelsesforhold uden fast førsteårsag — "af gæringernes opståen, opstår uvidenhed; af uvidenhedens opståen, opstår gæringerne". Dette understøtter billedet af en selvforstærkende gæring frem for en lineær årsagskæde, og er formentlig den bedste model for hele *āsava*-begrebet, ikke kun for *avijjāsava*.
 ##### Tre- eller firdelt liste
-Den ældre og hyppigste liste (fx MN2, MN9's egen hovedformel, DN33) tæller **tre** gæringer: [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/kāmāsava]], [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bhavāsava]], [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/avijjāsava]]. Enkelte tekster og Abhidhamma-traditionen (Dhammasaṅgaṇī, Vibhaṅga) opererer med **fire**, hvor _diṭṭhāsava_ ("anskuelsesgæring") indsættes mellem _bhava_ og _avijjā_. MN2 bruger konsekvent kun den trefoldige liste.
+Den ældre og hyppigste liste (fx MN2, MN9's egen hovedformel, DN33) tæller **tre** gæringer: [[majjhima/01-Terminologi/kāmāsava]], [[majjhima/01-Terminologi/bhavāsava]], [[majjhima/01-Terminologi/avijjāsava]]. Enkelte tekster og Abhidhamma-traditionen (Dhammasaṅgaṇī, Vibhaṅga) opererer med **fire**, hvor _diṭṭhāsava_ ("anskuelsesgæring") indsættes mellem _bhava_ og _avijjā_. MN2 bruger konsekvent kun den trefoldige liste.
 ## Tekstlig kontekst
 I **MN2** optræder ordet allerede i åbningsformlen (_sabbāsavasaṁvarapariyāyaṁ_, "fremgangsmåden for tilbageholdenhed i forhold til al gæring") og gennemgår derefter systematisk, hvordan hver af de syv metoder (se, tilbageholdenhed, brug, udholdenhed, undgåelse, fjernelse, udvikling) forholder sig til gæringens opståen, vækst og ophør. Suttaens konsekvente brug af procesverber (_uppajjati_ "opstår", _pavaḍḍhati_ "vokser/tiltager", _pahīyati_ "opgives") understøtter definitionen af *āsava* som en igangværende, kumulativ proces snarere end en statisk ting.
 ## Oversættelsesproblematik

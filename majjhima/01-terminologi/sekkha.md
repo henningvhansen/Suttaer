@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sekkha
 ## Dansk:
 
@@ -5,7 +9,7 @@ En munk i træning.
 ## Oversættelser:
 
 - **[[Sujato]]**: _trainee_    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _a bhikkhu who is in higher training_     
+- **[[majjhima/01-Terminologi/bodhi]]**: _a bhikkhu who is in higher training_     
 - **[[Lie]]**: en munk under opplæring    
 - **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _sekkha_ (uoversat)    
 

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # abhinandati
 Dansk: glæder sig ved; hæfter sig ved; finder behag i
 Engelsk: delights in; takes pleasure in

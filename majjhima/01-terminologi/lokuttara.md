@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # lokuttara
 Dansk: verdensoverskridende
 Engelsk: supramundane (Bodhi), transcendent (Sujato), supramundane (Thanissaro), oververdslig (Lie)

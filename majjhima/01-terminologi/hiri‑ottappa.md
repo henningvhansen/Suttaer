@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # hiri‑ottappa
 Dansk: skam og blufærdighed
 Engelsk: conscience & prudence (Bodhi), conscience & prudence (Sujato), shame & fear of wrongdoing (Thanissaro), skam og blygsel (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # jhāna
 Dansk: fordybelse
 Engelsk: absorption (Bodhi), absorption (Sujato), jhana (Thanissaro), meditasjonsfordypning (Lie)

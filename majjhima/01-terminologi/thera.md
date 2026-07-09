@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # thera
 Dansk: ældre munk
 Engelsk: elder (Bodhi), elder (Sujato), elder (Thanissaro), eldre munk (Lie)

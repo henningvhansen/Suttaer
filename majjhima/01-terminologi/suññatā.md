@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # suññatā
 Dansk: tomhed, ubundethed
 Engelsk: emptiness, afvigelser: 

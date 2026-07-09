@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # pīti
 Dansk: henrykkelse
 Engelsk: rapture (Bodhi), rapture (Sujato), rapture (Thanissaro), fryd (Lie)

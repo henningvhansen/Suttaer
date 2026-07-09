@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # taṇhā
 Dansk: begær
 Engelsk: craving (Bodhi), craving (Sujato), craving (Thanissaro), begjær (Lie)

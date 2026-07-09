@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 ## Dansk:
 
 At erkende klart; at forstå direkte; at indse uden at glide over i konceptualisering.
@@ -5,8 +9,8 @@ At erkende klart; at forstå direkte; at indse uden at glide over i konceptualis
 ## Oversættelser:
 
 - **[[Sujato]]**: _understands; directly knows_    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _understands; comprehends_    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]**: _understands_    
+- **[[majjhima/01-Terminologi/bodhi]]**: _understands; comprehends_    
+- **[[majjhima/01-Terminologi/Ñāṇamoli]]**: _understands_    
 - **[[Lie]]**: _forstår; innser_
 - **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _abhijānāti_ (uoversat)    
 ## Kategori:

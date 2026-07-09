@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # citta
 Dansk: sind
 Engelsk: mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie),  heart mind (Sujato)

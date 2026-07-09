@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # pañcakkhandhā
 Dansk: de fem aggregater
 Engelsk: five aggregates (Bodhi), five aggregates (Sujato), five aggregates (Thanissaro), fem grupper (Lie)

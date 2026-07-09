@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # Issaro
 Dansk: Herskeren, Herren #Lie 
 Engelsk: the Overlord #Bodhi, the Vanquisher #Sujato 

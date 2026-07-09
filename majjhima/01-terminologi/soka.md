@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # soka
 Dansk: sorg
 Engelsk: sorrow (Bodhi), sorrow (Sujato), sorrow (Thanissaro), sorg (Lie)

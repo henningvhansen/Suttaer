@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # paṭhavi
 Dansk: jord
 Engelsk: earth

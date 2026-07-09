@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # puñña
 Dansk: fortjeneste
 Engelsk: merit (Bodhi), merit (Sujato), merit (Thanissaro), fortjeneste (Lie)

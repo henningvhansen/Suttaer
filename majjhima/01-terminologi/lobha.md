@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # lobha
 Dansk: begær
 Engelsk: greed (Bodhi), greed (Sujato), greed (Thanissaro), begjær (Lie)

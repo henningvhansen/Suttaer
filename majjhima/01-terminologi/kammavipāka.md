@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # kammavipāka
 Dansk: karmisk resultat
 Engelsk: result of action (Bodhi), result of action (Sujato), result of action (Thanissaro), karmisk frukt (Lie)

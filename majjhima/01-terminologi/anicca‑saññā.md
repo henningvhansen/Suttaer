@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # anicca‑saññā
 Dansk: perception af foranderlighed
 Engelsk: perception of impermanence (Bodhi), perception of impermanence (Sujato), perception of inconstancy (Thanissaro), oppfatning av forgjengelighet (Lie)

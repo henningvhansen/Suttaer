@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # nibbāna
 Dansk: Nibbāna
 Engelsk: Nibbāna #Bodhi, extinguishment #Sujato, unbinding #Thanissaro, 

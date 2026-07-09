@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # ānāpānasati
 Dansk: opmærksomhed på åndedrættet
 Engelsk: mindfulness of breathing (Bodhi), mindfulness of breathing (Sujato), mindfulness of breathing (Thanissaro), oppmerksomhet på pust (Lie)

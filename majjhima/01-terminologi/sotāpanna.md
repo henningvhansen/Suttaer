@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sotāpanna
 Dansk: strømindtrådt
 Engelsk: stream-enterer (Bodhi), stream-enterer (Sujato), stream-winner (Thanissaro), strøminntrådt (Lie)

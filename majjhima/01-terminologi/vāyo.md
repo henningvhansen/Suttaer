@@ -1,9 +1,13 @@
+---
+layout: page
+type: begreb
+---
 # vāyo
 
 ## Dansk: Luft, vind
 
 ## Oversættelser: 
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: Air
+- [[majjhima/01-Terminologi/bodhi]]: Air
 - [[Sujato]]: Air
 - [[Suddhāso]]: Wind 
 - [[Anālayo]]: Wind

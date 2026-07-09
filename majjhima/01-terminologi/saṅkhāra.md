@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # saṅkhāra
 Dansk: formationer; viljesdannelser
 Engelsk: volitional formations (Bodhi), choices (Sujato), fabrications (Thanissaro), viljesdannelser (Lie)

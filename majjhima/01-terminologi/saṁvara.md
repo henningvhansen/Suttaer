@@ -1,11 +1,15 @@
+---
+layout: page
+type: begreb
+---
 # saṁvara
 
 ## Dansk:
 Tilbageholdenhed.
 ## Oversættelser (MN2):
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: Restraint.
+- [[majjhima/01-Terminologi/bodhi]]: Restraint.
 - [[Sujato]]: Restraint.
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]: Restraint.
+- [[majjhima/01-Terminologi/Ñāṇamoli]]: Restraint.
 ## Kategori:
 [[majjhima/00-MOC/Begreber-MOC]]
 ## Definition

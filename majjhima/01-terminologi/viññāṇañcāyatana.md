@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # viññāṇañcāyatana
 Dansk: sfæren for uendelig bevidsthed, den uendelige bevissthets plan #Lie 
 Engelsk: the base of infinite consciousness #Bodhi, the dimension of infinite consciousness #Sujato 

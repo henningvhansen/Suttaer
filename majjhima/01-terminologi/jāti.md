@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # jāti
 Dansk: fødsel
 Engelsk: birth (Bodhi), rebirth (Sujato), birth (Thanissaro), fødsel (Lie)

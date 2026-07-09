@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sattā
 Dansk: Væsener
 Engelsk: creatures #Sujato, beings #Bodhi 

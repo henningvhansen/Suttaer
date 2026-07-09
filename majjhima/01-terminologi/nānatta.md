@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # nānatta
 Dansk: Mangfoldighed
 Engelsk: diversity #Bodhi #Sujato 

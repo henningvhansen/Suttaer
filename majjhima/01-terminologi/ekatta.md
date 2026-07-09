@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # ekatta
 Dansk: Enhed, enhet #Lie 
 Engelsk: unity #Bodhi,  oneness #Sujato 

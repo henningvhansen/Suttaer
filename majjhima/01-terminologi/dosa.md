@@ -1,11 +1,15 @@
+---
+layout: page
+type: begreb
+---
 ## Dansk:
 
 Vrede; modvilje; aversion; sindets tendens til at støde noget bort.
 ## Oversættelser:
 
 - **[[Sujato]]**: _anger; aversion_    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _ill will_    
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]**: _ill will_    
+- **[[majjhima/01-Terminologi/bodhi]]**: _ill will_    
+- **[[majjhima/01-Terminologi/Ñāṇamoli]]**: _ill will_    
 - **[[Lie]]**: _vrede; motvilje_    
 - **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _dosa_ (uoversat)    
 ## Kategori:

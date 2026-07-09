@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # ārabbha‑dhātu
 Dansk: energi‑element
 Engelsk: element of exertion (Bodhi), element of initiative (Sujato), element of arousal (Thanissaro), energiprinsipp (Lie)

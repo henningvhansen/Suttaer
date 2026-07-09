@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # diṭṭha
 Dansk: Det sete, det han har sett #Lie 
 Engelsk: The seen

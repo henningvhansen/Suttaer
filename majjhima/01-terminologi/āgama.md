@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # āgama
 Dansk: tradition; overlevering
 Engelsk: transmission (Bodhi), tradition (Sujato), tradition (Thanissaro), overlevering (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # mūla
 Dansk: rod; grundlag; basis
 Engelsk: root; foundation

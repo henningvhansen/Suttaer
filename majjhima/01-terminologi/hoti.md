@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # hoti
 Dansk: er; bliver
 Engelsk: is (Bodhi), is (Sujato), is (Thanissaro), er (Lie)

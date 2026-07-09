@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # avijjā
 Dansk: uvidenhed
 Engelsk: ignorance (Bodhi), ignorance (Sujato), ignorance (Thanissaro), uvitenhet (Lie)

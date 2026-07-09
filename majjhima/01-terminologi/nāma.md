@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # nāma
 Dansk: navn; mental faktor
 Engelsk: mentality (Bodhi), name (Sujato), name (Thanissaro), navn (Lie)

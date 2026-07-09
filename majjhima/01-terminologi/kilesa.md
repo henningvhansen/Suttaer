@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # kilesa
 Dansk: urenhed
 Engelsk: defilement (Bodhi), defilement (Sujato), defilement (Thanissaro), urenhet (Lie)

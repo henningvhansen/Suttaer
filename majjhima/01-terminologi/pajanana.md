@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # pajānana
 Dansk: forståelse; erkendelse; indsigt
 Engelsk: understanding; comprehension

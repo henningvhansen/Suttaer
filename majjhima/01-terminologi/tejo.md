@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # tejo
 Dansk: Ild
 Engelsk: Fire

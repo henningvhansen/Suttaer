@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sabbadhammā
 Dansk: alle ting; alle fænomener
 Engelsk: all phenomena; all things

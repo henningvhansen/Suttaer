@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # samudaya
 Dansk: fremkomst; opståen
 Engelsk: arising; origination

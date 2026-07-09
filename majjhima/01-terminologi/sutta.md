@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sutta
 Dansk: diskurs
 Engelsk: discourse (Bodhi), discourse (Sujato), discourse (Thanissaro), sutra (Lie)

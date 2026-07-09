@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sukha
 Dansk: velvære; glæde
 Engelsk: happiness (Bodhi), pleasure (Sujato), pleasure (Thanissaro), glede (Lie)

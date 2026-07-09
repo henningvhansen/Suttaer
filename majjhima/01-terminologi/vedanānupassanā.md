@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # vedanānupassanā
 Dansk: opmærksomhed på følelser
 Engelsk: mindfulness of feelings (Bodhi), mindfulness of feelings (Sujato), mindfulness of feelings (Thanissaro), oppmerksomhet på følelser (Lie)

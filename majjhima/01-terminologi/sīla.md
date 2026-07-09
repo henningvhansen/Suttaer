@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sīla
 Dansk: moral
 Engelsk: ethics (Bodhi), ethics (Sujato), virtue (Thanissaro), moral (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 For your information, this whole discussion — for which I humbly thank all of you for your input — has, with the help of AI, resulted in the concept note below, for use in my further work. I wanted to share it back as a small token of thanks for a genuinely illuminating exchange.
 
 ---

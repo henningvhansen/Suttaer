@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # nimitta
 Dansk: tegn
 Engelsk: sign (Bodhi), sign (Sujato), theme (Thanissaro), tegn (Lie)

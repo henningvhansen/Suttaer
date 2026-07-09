@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # dāna
 Dansk: gavmildhed
 Engelsk: generosity (Bodhi), generosity (Sujato), giving (Thanissaro), gavmildhet (Lie)

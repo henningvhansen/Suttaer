@@ -1,10 +1,14 @@
+---
+layout: page
+type: begreb
+---
 # pahīyati
 
 ## Dansk:
 Standses (med instrumentalled) / opgives (uden instrumentalled).
 
 ## Oversættelser:
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: abandoned.
+- [[majjhima/01-Terminologi/bodhi]]: abandoned.
 - [[Sujato]]: given up.
 - [[Thanissaro]]: 
 - [[Lie]]: fjernes.

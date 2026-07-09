@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # muta
 Dansk: det sansede, Det tenkte #Lie
 Engelsk: the sensed #Bodhi, the thought #Sujato 

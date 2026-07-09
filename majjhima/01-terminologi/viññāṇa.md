@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # viññāṇa
 Dansk: bevidsthed
 Engelsk: consciousness (Bodhi), consciousness (Sujato), consciousness (Thanissaro), bevissthet (Lie)

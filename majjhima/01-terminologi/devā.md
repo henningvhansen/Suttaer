@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # devā
 Dansk: Guder, devaer
 Engelsk: Gods #Bodhi #Sujato , devas #Suddhāso 

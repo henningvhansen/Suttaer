@@ -1,10 +1,14 @@
+---
+layout: page
+type: begreb
+---
 # yoniso manasikāra / ayoniso manasikāra
 
 ## Dansk:
 Grundigt fokus / overfladisk fokus.
 ## Oversættelser:
 - [[Sujato]]: Rational application of mind and irrational application of mind.
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: Wise attention and unwise attention.
+- [[majjhima/01-Terminologi/bodhi]]: Wise attention and unwise attention.
 - [[Horner]]: Wise attention and unwise attention.
 - [[Lie]]: “Man kan bruke tankene fornuftig og man kan bruke dem ufornuftig.”
 - [[Suddhāso]]: Application of mind based on an understanding of causality, and application of mind not based on an understanding of causality.

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # puthujjana
 Dansk: almindeligt uoplyst menneske; uoplyst person
 Engelsk: an unlearned ordinary person #Sujato; an untaught ordinary person #Bodhi

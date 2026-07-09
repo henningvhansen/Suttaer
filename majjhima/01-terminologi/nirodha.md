@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # nirodha
 Dansk: ophør
 Engelsk: cessation (Bodhi), cessation (Sujato), cessation (Thanissaro), opphør (Lie)

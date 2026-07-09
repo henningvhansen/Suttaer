@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # cakkhu
 Dansk: øje
 Engelsk: eye (Bodhi), eye (Sujato), eye (Thanissaro), øye (Lie)

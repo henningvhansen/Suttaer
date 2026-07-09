@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # upādāna
 **Dansk:** klamren (aktiv) / binding (tilstand)
 **Engelsk:** clinging / attachment (Bodhi), grasping (Sujato), clinging (Thanissaro), tilknytning (Lie)

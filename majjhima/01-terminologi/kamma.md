@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # kamma
 Dansk: handling
 Engelsk: action (Bodhi), deed (Sujato), action (Thanissaro), handling (Lie)

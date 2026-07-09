@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # sabba
 Dansk: Alt, altet
 Engelsk: all

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # indriya
 Dansk: fakultet; evne
 Engelsk: faculty (Bodhi), faculty (Sujato), faculty (Thanissaro), evne (Lie)

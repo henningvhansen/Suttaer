@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # puggala 
 Dansk: person
 Engelsk: person (Bodhi), individual (Sujato), individual (Thanissaro), person (Lie)

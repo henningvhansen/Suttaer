@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # anantākāsānañcāyatana
 Dansk: sfæren for uendeligt rum, det uendelige roms plan #Lie
 Engelsk: the base of infinite space #Bodhi, the dimension of infinite space #Sujato 

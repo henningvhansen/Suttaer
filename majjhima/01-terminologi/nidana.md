@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # nidāna
 Dansk: årsag; oprindelse; betingelse
 Engelsk: cause; origin; source

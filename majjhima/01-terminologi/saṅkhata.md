@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # saṅkhata
 Dansk: det betingede
 Engelsk: conditioned (Bodhi), conditioned (Sujato), fabricated (Thanissaro), det betingede (Lie)

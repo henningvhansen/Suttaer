@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # dukkha‑saññā
 Dansk: perception af lidelse
 Engelsk: perception of suffering (Bodhi), perception of suffering (Sujato), perception of stress (Thanissaro), oppfatning av lidelse (Lie)

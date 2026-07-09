@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # suta
 Dansk: Det hørte
 Engelsk: the heard

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # upekkhā
 Dansk: sindsligevægt 
 Engelsk: equanimity

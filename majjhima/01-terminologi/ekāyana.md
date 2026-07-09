@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # ekāyana
 Dansk: én vej
 Engelsk: one way (Bodhi), one way (Sujato), one‑way (Thanissaro), én vei (Lie)

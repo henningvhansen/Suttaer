@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # rasa
 Dansk: smag
 Engelsk: taste (Bodhi), taste (Sujato), taste (Thanissaro), smak (Lie)

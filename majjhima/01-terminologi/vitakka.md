@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # vitakka
 Dansk: initial tanke; rettethed
 Engelsk: thought (Bodhi), directed thought (Sujato), directed thought (Thanissaro), tanke (Lie)

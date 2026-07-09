@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # mahā
 Dansk: stor
 Engelsk: great (Bodhi), great (Sujato), great (Thanissaro), stor (Lie)

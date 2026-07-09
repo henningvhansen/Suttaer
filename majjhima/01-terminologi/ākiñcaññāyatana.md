@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # ākiñcaññāyatana
 Dansk: sfæren for intethed, intethetens plan #Lie 
 Engelsk: the base of nothingness #Bodhi, the dimension of nothingness #Sujato 

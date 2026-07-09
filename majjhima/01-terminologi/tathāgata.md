@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # tathāgata
 Dansk: således‑kommen
 Engelsk: Realized One (Bodhi), Truth‑finder (Sujato), Tathāgata (Thanissaro), Tathagata (Lie)

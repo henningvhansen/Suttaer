@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # micchā‑diṭṭhi
 Dansk: forkert anskuelse
 Engelsk: wrong view (Bodhi), wrong view (Sujato), wrong view (Thanissaro), feil syn (Lie)

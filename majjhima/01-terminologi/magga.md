@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # magga
 Dansk: vej
 Engelsk: path (Bodhi), path (Sujato), path (Thanissaro), vei (Lie)

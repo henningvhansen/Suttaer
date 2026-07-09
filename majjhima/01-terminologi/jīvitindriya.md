@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # jīvitindriya
 Dansk: livsfakultet
 Engelsk: life faculty (Bodhi), life faculty (Sujato), life faculty (Thanissaro), livskraft (Lie)

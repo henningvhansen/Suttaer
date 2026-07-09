@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # khandha
 Dansk: aggregat
 Engelsk: aggregate (Bodhi), aggregate (Sujato), aggregate (Thanissaro), gruppe (Lie)

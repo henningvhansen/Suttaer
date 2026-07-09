@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # vossagga
 Dansk: opgivelse; slippen
 Engelsk: relinquishment (Bodhi), letting go (Sujato), release (Thanissaro), oppgivelse (Lie)

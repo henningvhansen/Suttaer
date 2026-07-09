@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # loka
 Dansk: verden
 Engelsk: world (Bodhi), world (Sujato), world (Thanissaro), verden (Lie)

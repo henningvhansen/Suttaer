@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # āhāra
 Dansk: næring
 Engelsk: nutriment (Bodhi), nutriment (Sujato), food (Thanissaro), næring (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # hiri
 Dansk: skamfølelse (moralsk)
 Engelsk: conscience (Bodhi), conscience (Sujato), sense of shame (Thanissaro), skamfølelse (Lie)

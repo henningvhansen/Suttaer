@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # papañca
 Dansk: konceptuel proliferation; tankemylder
 Engelsk: proliferation (Bodhi), proliferation (Sujato), objectification (Thanissaro), tankespredning (Lie)

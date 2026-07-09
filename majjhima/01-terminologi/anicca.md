@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # anicca
 Dansk: ubestandighed; foranderlighed
 Engelsk: impermanent (Bodhi), impermanent (Sujato), inconstant (Thanissaro), forgjengelig (Lie)

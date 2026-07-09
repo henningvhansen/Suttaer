@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # pajapati
 Dansk: Pajāpati
 Engelsk: Pajāpati #Bodhi , Progenitor #Sujato 

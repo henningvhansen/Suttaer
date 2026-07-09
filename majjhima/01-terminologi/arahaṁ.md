@@ -1,10 +1,14 @@
+---
+layout: page
+type: begreb
+---
 ## Dansk:
 
 Arahant; den fuldt udfriede; den der har fuldendt træningen og gjort, hvad der skulle gøres.
 ## Oversættelser:
 
 - **[[Sujato]]**: _a perfected one_  
-- **[[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]**: _arahant_  
+- **[[majjhima/01-Terminologi/bodhi]]**: _arahant_  
 - **[[Thanissaro]]**: _worthy one_  
 - **[[Lie]]**: _den fuldt befriede_  
 - **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _arahaṁ_ (uoversat)

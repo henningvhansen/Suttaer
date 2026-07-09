@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # viriya
 Dansk: energi; flid
 Engelsk: energy (Bodhi), energy (Sujato), persistence (Thanissaro), energi (Lie)

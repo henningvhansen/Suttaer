@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # manas
 Dansk: sind; tanke
 Engelsk: mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie)

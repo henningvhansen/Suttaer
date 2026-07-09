@@ -1,12 +1,16 @@
+---
+layout: page
+type: begreb
+---
 # nandī
 ## Dansk: 
 glæde; tilfredsstillelse; lystfuld fastholdelse
 ## Oversættelser:
 - [[Sujato]]: approval
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/bodhi]]: delight
+- [[majjhima/01-Terminologi/bodhi]]: delight
 - [[Suddhāso]]: delight
 - [[Horner]]: delight
-- [[Clone/Suttaer/Suttaer/majjhima/01-terminologi/Ñāṇamoli]]: 
+- [[majjhima/01-Terminologi/Ñāṇamoli]]: 
 - [[Thanissaro]]: 
 - [[Lie]]: nytelse
 - [[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: 

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # iriyāpatha
 Dansk: kropsstilling
 Engelsk: posture (Bodhi), posture (Sujato), posture (Thanissaro), kroppsstilling (Lie)

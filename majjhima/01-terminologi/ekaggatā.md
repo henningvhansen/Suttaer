@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # ekaggatā
 Dansk: etpunktrettethed
 Engelsk: unification (Bodhi), singleness (Sujato), singleness (Thanissaro), ensporethet (Lie)

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # mettā
 Dansk: kærlig‑venlighed
 Engelsk: loving‑kindness (Bodhi), love (Sujato), goodwill (Thanissaro), kjærlighet (Lie)

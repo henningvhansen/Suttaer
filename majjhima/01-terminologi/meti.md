@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # meti
 ## Dansk:
 Negationspartikel; bruges til at understrege “ikke således”, “ikke på denne måde”.

@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # dhamma
 Dansk: fænomen; lære; tilstand
 Engelsk: phenomenon/teaching #Bodhi, teaching #Sujato principle #Thanissaro lære #Lie

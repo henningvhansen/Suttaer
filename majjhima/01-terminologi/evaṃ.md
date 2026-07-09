@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # evaṃ
 Dansk: således
 Engelsk: thus (Bodhi), thus (Sujato), thus (Thanissaro), slik (Lie)

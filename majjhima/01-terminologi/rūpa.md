@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # rūpa
 Dansk: form; krop
 Engelsk: form (Bodhi), form (Sujato), form (Thanissaro), form (Lie)

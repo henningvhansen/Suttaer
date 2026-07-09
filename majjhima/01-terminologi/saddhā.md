@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # saddhā
 Dansk: tillid; tro
 Engelsk: faith (Bodhi), confidence (Sujato), conviction (Thanissaro), tillit (Lie)

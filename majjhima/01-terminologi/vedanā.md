@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # vedanā
 Dansk: følelse; fornemmelse
 Engelsk: feeling (Bodhi), feeling (Sujato), feeling (Thanissaro), følelse (Lie)

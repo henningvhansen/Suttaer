@@ -1,3 +1,7 @@
+---
+layout: page
+type: begreb
+---
 # gati
 Dansk: destination; tilstand
 Engelsk: destiny (Bodhi), rebirth destination (Sujato), course (Thanissaro), skjebne (Lie)
