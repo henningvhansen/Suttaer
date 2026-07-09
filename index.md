@@ -18,6 +18,6 @@ Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
 - [Stilvalg](Clone/Suttaer/Suttaer/majjhima/01-terminologi/Stilvalg.md)
 
 ## 02 – Suttaer
-- [MN01](Clone/Suttaer/Suttaer/majjhima/02-suttaer/MN01.md)
-- [MN02](Clone/Suttaer/Suttaer/majjhima/02-suttaer/MN02.md)
-- [MN03](majjhima/02-suttaer/MN03)
+- [MN01](Suttaer/majjhima/02-suttaer/MN01.md)
+- [MN02](Suttaer/majjhima/02-suttaer/MN02.md)
+
