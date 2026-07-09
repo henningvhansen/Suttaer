@@ -8,9 +8,8 @@ type: begreb
 ---
 ## A
 
-anicca — ubestandighed; foranderlighed — [anicca](anicca)
-
-anattā — ikke‑selv — [anattā](anattā)
+anicca — ubestandighed; foranderlighed — [anicca](anicca.md)
+anattā — ikke‑selv — [anattā](./anattā)
 
 anicca‑saññā — perception af foranderlighed — [anicca‑saññā](anicca‑saññā)
 
