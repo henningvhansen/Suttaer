@@ -7,17 +7,17 @@ title: Suttaer
 Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
 
 ## 00 – Overblik
-- [Projektbeskrivelse](Clone/Suttaer/Suttaer/majjhima/00-overblik/Projektbeskrivelse.md)
-- [Arbejdsmetode](Clone/Suttaer/Suttaer/majjhima/00-overblik/Arbejdsmetode.md)
-- [Oversættelsesprincipper](Clone/Suttaer/Suttaer/majjhima/00-overblik/Oversættelsesprincipper.md)
-- [Statusliste](Clone/Suttaer/Suttaer/majjhima/00-overblik/Statusliste.md)
+- [Projektbeskrivelse](majjhima/00-overblik/Projektbeskrivelse.md)
+- [Arbejdsmetode](majjhima/00-overblik/Arbejdsmetode.md)
+- [Oversættelsesprincipper](majjhima/00-overblik/Oversættelsesprincipper.md)
 
 ## 01 – Terminologi
-- [Pāli–Dansk ordliste](majjhima/01-terminologi/Pali-Dansk-Ordlist)
-- [Problematiske termer](majjhima/01-terminologi/Problematiske-Termer)
-- [Stilvalg](Clone/Suttaer/Suttaer/majjhima/01-terminologi/Stilvalg.md)
+- [Pāli–Dansk ordliste](majjhima/01-terminologi/Pali-Dansk-Ordlist.md)
+- [Problematiske termer](majjhima/01-terminologi/Problematiske-Termer.md)
+- [Stilvalg](majjhima/01-terminologi/Stilvalg.md)
 
 ## 02 – Suttaer
-- [MN01](Suttaer/majjhima/02-suttaer/MN01.md)
-- [MN02](Suttaer/majjhima/02-suttaer/MN02.md)
+- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN02](majjhima/02-suttaer/MN02.md)
 
+Forlaget Karunā
