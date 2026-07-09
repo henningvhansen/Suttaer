@@ -21,3 +21,5 @@ Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
 - [MN02](majjhima/02-suttaer/MN02.md)
 
 Forlaget Karunā
+Send meget gerne kommentarer og rettelser til: hvaderbuddhisme@gmail.com
+#### Dette er et arbejde hvor både oversættelser og hjemmeside er under udvikling
