@@ -7,7 +7,7 @@ type: begreb
 ## Dansk: Luft, vind
 
 ## Oversættelser: 
-- [[majjhima/01-Terminologi/bodhi]]: Air
+- [[../../../../../majjhima/01-terminologi/bodhi]]: Air
 - [[Sujato]]: Air
 - [[Suddhāso]]: Wind 
 - [[Anālayo]]: Wind

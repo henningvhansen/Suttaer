@@ -6,7 +6,7 @@ type: begreb
 Dansk: Brahmā
 Engelsk: Brahmā #Bodhi, Divinity #Sujato 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 Den / de højeste guder i brahmaverdenen, knyttet til sublim ro og kosmisk overhøjhed.
 ## Kilder

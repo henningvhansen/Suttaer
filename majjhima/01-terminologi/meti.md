@@ -14,7 +14,7 @@ Negationspartikel; bruges til at understrege “ikke således”, “ikke på de
 - CST: meti (uoversat)
 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Partikler / Negation
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Partikler / Negation
 
 ## Kommentar:
 Forekommer i MN1 i den faste konstruktion *meti na maññati* — “han forestiller sig ikke”.  

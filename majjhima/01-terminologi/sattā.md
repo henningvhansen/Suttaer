@@ -6,7 +6,7 @@ type: begreb
 Dansk: Væsener
 Engelsk: creatures #Sujato, beings #Bodhi 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 Henviser til levende væsener.
 ## Kilder

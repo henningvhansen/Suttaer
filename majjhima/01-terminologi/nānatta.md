@@ -6,7 +6,7 @@ type: begreb
 Dansk: Mangfoldighed
 Engelsk: diversity #Bodhi #Sujato 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: 
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: 
 ## Kommentar
 Det at være mange, varieret eller differentieret.
 ## Kilder

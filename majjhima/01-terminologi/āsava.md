@@ -7,15 +7,15 @@ type: begreb
 ## Dansk:
 Gæring.
 ## Oversættelser:
-- [[majjhima/01-Terminologi/bodhi]]: Taint.
+- [[../../../../../majjhima/01-terminologi/bodhi]]: Taint.
 - [[Sujato]]: Defilement.
 - [[Thanissaro]]: Effluent (tidligere, i ældre udgaver: fermentation).
-- [[majjhima/01-Terminologi/Ñāṇamoli]]: Canker.
+- [[../../../../../majjhima/01-terminologi/Ñāṇamoli]]: Canker.
 - [[Lie]]: Urenhet.
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]
+[[../../../../../majjhima/00-moc/Begreber-MOC]]
 ## Definition
-**Āsava** betegner ikke en trang (_taṇhā_) eller en almindelig besmittelse (_kilesa_) i sig selv, men **kilesaens eller taṇhāens vedholdende, selvforstærkende karakter over tid** — det er samme grundlæggende begær eller uvidenhed, men betragtet som noget, der *gærer, ophobes og vedligeholder sig selv*, indtil det standses (_pahīyati_, se [[majjhima/01-Terminologi/pahīyati]]), snarere end som en enkeltstående, forbigående mental begivenhed.
+**Āsava** betegner ikke en trang (_taṇhā_) eller en almindelig besmittelse (_kilesa_) i sig selv, men **kilesaens eller taṇhāens vedholdende, selvforstærkende karakter over tid** — det er samme grundlæggende begær eller uvidenhed, men betragtet som noget, der *gærer, ophobes og vedligeholder sig selv*, indtil det standses (_pahīyati_, se [[../../../../../majjhima/01-terminologi/pahīyati]]), snarere end som en enkeltstående, forbigående mental begivenhed.
 ## Etymologi
 Pāli _āsava_ dækker over to oprindeligt adskilte sanskrit-ord, der er faldet sammen som homonymer i Pāli: (1) _āsrava_ (< _ā- + √sru_, "at flyde, strømme, sive ud" — attesteret som sårudflåd i AN 3.27, og som karmisk indstrømning i jainismens _Tattvārthasūtra_ 6.1–2), og (2) sanskrit _āsava_ (en anden rod, "berusende drik/bryg", en betydning der også findes andetsteds i Pāli, fx Bu Pc 51). Retningen af strømningen i (1) er selv omdiskuteret blandt oversættere: nogle læser _ā-_ som "ind" (jf. jainismens indstrømning af karmisk stof), andre som "ud" (jf. Thanissaros "effluent"). Det er altså strengt taget ikke to lag af samme ord, men to forskellige ord, der er faldet sammen som homonymer — en distinktion, som Bhikkhu Sujato har påpeget i sin egen oversættelsesnote (se Forum-diskussion nedenfor). Denne dobbelthed (to homonyme rødder) er baggrunden for, at både retningsbestemte oversættelser ("influx", "outflow", "effluent") og procesbetonede oversættelser ("fermentation") har en vis rod i teksttraditionen — omend "fermentation" filologisk hviler på det ord, der ikke betegner strømning — mens rene tilstandsord ("taint", "defilement", "urenhet") vælger at se bort fra begge og i stedet fremhæve resultatet: en besmittet tilstand.
 #### Forum-diskussion: etymologi vs. funktion (SuttaCentral, juli 2026)
@@ -24,7 +24,7 @@ Pāli _āsava_ dækker over to oprindeligt adskilte sanskrit-ord, der er faldet 
 
 En læser (BethL) har efterfølgende gjort opmærksom på, at formuleringen "once the etymology is set aside" i mit forumindlæg var upræcis: etymologien er ikke uklar (jf. P.S. Jainis "influx" for den beslægtede jain-term, og Wijayaratnas franske "écoulements toxiques"). Pointen er snarere, at etymologien alene ikke fastlægger, hvilket billede en oversætter bør vælge i målsproget — se "Metodisk konklusion" nedenfor.
 
-**Modargument (tekstnært, ikke etymologisk):** MN 2's egne verber — _uppajjati_ (opstår), _pavaḍḍhati_ (vokser/tiltager), _pahīyati_ (standses, se [[majjhima/01-Terminologi/pahīyati]]) — beskriver ikke en retningsbestemt strømning (ind/ud), men et selvstændigt, lukket procesforløb. Bekræftet af faujidoc1 (SC-bruger): MN 2's fokus er netop "the process by which asavas increase or decrease", ikke en flow-arkitektur udefra.
+**Modargument (tekstnært, ikke etymologisk):** MN 2's egne verber — _uppajjati_ (opstår), _pavaḍḍhati_ (vokser/tiltager), _pahīyati_ (standses, se [[../../../../../majjhima/01-terminologi/pahīyati]]) — beskriver ikke en retningsbestemt strømning (ind/ud), men et selvstændigt, lukket procesforløb. Bekræftet af faujidoc1 (SC-bruger): MN 2's fokus er netop "the process by which asavas increase or decrease", ikke en flow-arkitektur udefra.
 
 **Retningsspørgsmålet (faujidoc1's nuance):** Bredere kanonisk materiale (MN 18's proliferationskæde, DN 15) beskriver ganske vist en inflow/outflow-struktur via sansekontakt → mentale processer → viljeshandlinger mod saṃsāra. Men i MN 2 selv er den umiddelbare betingelse _ayoniso manasikāra_ (uhensigtsmæssigt fokus) — ikke sansekontakt som sådan. Konklusion: sansekontakt er nok en nødvendig baggrundsbetingelse for at der er noget at rette opmærksomhed mod, men MN 2 beskriver et yderligere, selvstændigt forløb inden i denne ramme.
 
@@ -37,9 +37,9 @@ Abhidhammattha Saṅgaha identificerer _kāmāsava_ og _bhavāsava_ direkte med 
 
 For _avijjāsava_ gælder en anden, cirkulær model: **MN9** beskriver *avijjā* og *āsava* i et gensidigt betingelsesforhold uden fast førsteårsag — "af gæringernes opståen, opstår uvidenhed; af uvidenhedens opståen, opstår gæringerne". Dette understøtter billedet af en selvforstærkende gæring frem for en lineær årsagskæde, og er formentlig den bedste model for hele *āsava*-begrebet, ikke kun for *avijjāsava*.
 ##### Tre- eller firdelt liste
-Den ældre og hyppigste liste (fx MN2, MN9's egen hovedformel, DN33) tæller **tre** gæringer: [[majjhima/01-Terminologi/kāmāsava]], [[majjhima/01-Terminologi/bhavāsava]], [[majjhima/01-Terminologi/avijjāsava]]. Enkelte tekster og Abhidhamma-traditionen (Dhammasaṅgaṇī, Vibhaṅga) opererer med **fire**, hvor _diṭṭhāsava_ ("anskuelsesgæring") indsættes mellem _bhava_ og _avijjā_. MN2 bruger konsekvent kun den trefoldige liste.
+Den ældre og hyppigste liste (fx MN2, MN9's egen hovedformel, DN33) tæller **tre** gæringer: [[../../../../../majjhima/01-terminologi/kāmāsava]], [[../../../../../majjhima/01-terminologi/bhavāsava]], [[../../../../../majjhima/01-terminologi/avijjāsava]]. Enkelte tekster og Abhidhamma-traditionen (Dhammasaṅgaṇī, Vibhaṅga) opererer med **fire**, hvor _diṭṭhāsava_ ("anskuelsesgæring") indsættes mellem _bhava_ og _avijjā_. MN2 bruger konsekvent kun den trefoldige liste.
 ## Tekstlig kontekst
-I **MN2** optræder ordet allerede i åbningsformlen (_sabbāsavasaṁvarapariyāyaṁ_, "fremgangsmåden for tilbageholdenhed i forhold til al gæring") og gennemgår derefter systematisk, hvordan hver af de syv metoder (se, tilbageholdenhed, brug, udholdenhed, undgåelse, fjernelse, udvikling) forholder sig til gæringens opståen, vækst og standsning. Suttaens konsekvente brug af procesverber (_uppajjati_ "opstår", _pavaḍḍhati_ "vokser/tiltager", _pahīyati_ "standses" — se [[majjhima/01-Terminologi/pahīyati]] for oversættelsesvalget og dets begrundelse) understøtter definitionen af *āsava* som en igangværende, kumulativ proces snarere end en statisk ting.
+I **MN2** optræder ordet allerede i åbningsformlen (_sabbāsavasaṁvarapariyāyaṁ_, "fremgangsmåden for tilbageholdenhed i forhold til al gæring") og gennemgår derefter systematisk, hvordan hver af de syv metoder (se, tilbageholdenhed, brug, udholdenhed, undgåelse, fjernelse, udvikling) forholder sig til gæringens opståen, vækst og standsning. Suttaens konsekvente brug af procesverber (_uppajjati_ "opstår", _pavaḍḍhati_ "vokser/tiltager", _pahīyati_ "standses" — se [[../../../../../majjhima/01-terminologi/pahīyati]] for oversættelsesvalget og dets begrundelse) understøtter definitionen af *āsava* som en igangværende, kumulativ proces snarere end en statisk ting.
 ## Oversættelsesproblematik
 Denne note er resultatet af en længere afklaring (juli 2026), der undersøgte tre konkurrerende oversætterfamilier:
 

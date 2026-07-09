@@ -6,7 +6,7 @@ type: begreb
 Dansk: Det erkendte, det han har erkjent #Lie
 Engelsk: the cognized #Bodhi, the known #Sujato  
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Sanserelateret
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sanserelateret
 ## Kommentar
 Det mentale erkendte indhold som sådan.
 ## Kilder

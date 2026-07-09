@@ -4,10 +4,10 @@
 - Stil: teknisk, konservativ
 - Typiske valg: “concentration”, “feeling”, “formations”
 - Relevante begreber:
-  - [[majjhima/01-Terminologi/sammasambuddha]] → **“Perfectly Enlightened One”**
+  - [[../../../../../majjhima/01-terminologi/sammasambuddha]] → **“Perfectly Enlightened One”**
   - [[samadhi]] → **“concentration”**
   - [[vedana]]- → **“feeling”**
-  -[[majjhima/01-Terminologi/saṅkhāra]] → **“formations”**
+  -[[../../../../../majjhima/01-terminologi/saṅkhāra]] → **“formations”**
 - Kommentarer:
 - Meget stabil terminologi    
 - God til præcision, mindre glat i sproget    
@@ -32,7 +32,7 @@
 - Centrale begreber:    
     - **[[vinnana]]**  → **“consciousness-element”**      
     - **[[vedana]]** → **“feeling-tones”**        
-    - **[[majjhima/01-Terminologi/dhamma]]** → **“mental objects”**
+    - **[[../../../../../majjhima/01-terminologi/dhamma]]** → **“mental objects”**
 - Kommentarer:    
     - Nogle termer virker forældede        
     - Stadig værdifuld for tekstnærhed        
@@ -55,8 +55,8 @@
 - Stil: meget tekstnær, enkel, direkte    
 - Typiske valg: “knowing”, “understanding”, “perceiving”    
 - Centrale begreber:    
-    - **[[majjhima/01-Terminologi/sammasambuddha]]** → **“Fully Awakened Buddha”**        
-    - **[[majjhima/01-Terminologi/nidana]]** → **“cause”**
+    - **[[../../../../../majjhima/01-terminologi/sammasambuddha]]** → **“Fully Awakened Buddha”**        
+    - **[[../../../../../majjhima/01-terminologi/nidana]]** → **“cause”**
     - [[**mannati**]] → **“conceives” / “imagines”**        
 - Kommentarer:    
     - God til at se grammatiske detaljer        
@@ -80,7 +80,7 @@
 - Typiske valg: “knowing”, “experience”, “perception”    
 - Centrale begreber:    
     - **[[vinnana]]** → **“knowing”**        
-    - **[[majjhima/01-Terminologi/sati]]** → **“mindfulness”**       
+    - **[[../../../../../majjhima/01-terminologi/sati]]** → **“mindfulness”**       
 - Kommentarer:    
     - God til at forklare baggrund og kontekst        
     - Meget brugbar til meditationstekster

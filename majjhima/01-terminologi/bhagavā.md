@@ -6,7 +6,7 @@ type: begreb
 Dansk: Den velsignede
 Engelsk: The Buddha #Sujato, The Blessed One #Bodhi #Suddhāso, The Lord #Horner 
 ## Kategori: 
-[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 
 ## Kilder

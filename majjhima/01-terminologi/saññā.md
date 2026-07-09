@@ -9,14 +9,14 @@ Perception; genkendelse; kategorisering; den mentale funktion der identificerer 
 ## Oversættelser:
 
 - **[[Sujato]]**: _perception_    
-- **[[majjhima/01-Terminologi/bodhi]]**: _perception_    
-- **[[majjhima/01-Terminologi/Ñāṇamoli]]**: _perception_    
+- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _perception_    
+- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _perception_    
 - **[[Lie]]**: _persepsjon; gjenkjennelse_    
-- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _saññā_ (uoversat)    
+- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _saññā_ (uoversat)    
 
 ## Kategori:
 
-[[majjhima/00-MOC/Begreber-MOC]]: Sindets funktioner / Aggregaterne (_khandha_)
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sindets funktioner / Aggregaterne (_khandha_)
 
 ## Etymologi:
 

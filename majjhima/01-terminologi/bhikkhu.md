@@ -9,7 +9,7 @@ Kategori: personkategorier
 ## Kommentar
 Ordinært medlem af sanghaen.
 ## Kategori
-[[majjhima/00-MOC/Begreber-MOC#Personkategorier]].
+[[../../../../../majjhima/00-moc/Begreber-MOC#Personkategorier]].
 ## Kilder
 #Bodhi #Sujato #Thanissaro #Lie
 

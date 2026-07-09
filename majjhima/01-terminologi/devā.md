@@ -6,7 +6,7 @@ type: begreb
 Dansk: Guder, devaer
 Engelsk: Gods #Bodhi #Sujato , devas #Suddhāso 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Kategori af væsener
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
 ## Kommentar
 Overordnet kategori for guddommelige væsener.
 ## Kilder

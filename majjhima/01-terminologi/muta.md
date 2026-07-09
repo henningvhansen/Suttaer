@@ -6,7 +6,7 @@ type: begreb
 Dansk: det sansede, Det tenkte #Lie
 Engelsk: the sensed #Bodhi, the thought #Sujato 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Sanserelateret
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sanserelateret
 ## Kommentar
 Det umiddelbart erfarne via sanserne eller direkte kontakt.
 ## Kilder

@@ -8,13 +8,13 @@ Vrede; modvilje; aversion; sindets tendens til at støde noget bort.
 ## Oversættelser:
 
 - **[[Sujato]]**: _anger; aversion_    
-- **[[majjhima/01-Terminologi/bodhi]]**: _ill will_    
-- **[[majjhima/01-Terminologi/Ñāṇamoli]]**: _ill will_    
+- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _ill will_    
+- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _ill will_    
 - **[[Lie]]**: _vrede; motvilje_    
-- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _dosa_ (uoversat)    
+- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _dosa_ (uoversat)    
 ## Kategori:
 
-[[majjhima/00-MOC/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
 ## Etymologi:
 
 - Rod: **√dus / duṣ** — “dårlig, skadelig, ond”    

@@ -6,7 +6,7 @@ type: begreb
 Dansk: Alt, altet
 Engelsk: all
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: 
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: 
 ## Kommentar
 Totaliteten af det, der kan erfares eller tænkes som “alt”.
 ## Kilder

@@ -9,13 +9,13 @@ At erkende klart; at forstå direkte; at indse uden at glide over i konceptualis
 ## Oversættelser:
 
 - **[[Sujato]]**: _understands; directly knows_    
-- **[[majjhima/01-Terminologi/bodhi]]**: _understands; comprehends_    
-- **[[majjhima/01-Terminologi/Ñāṇamoli]]**: _understands_    
+- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _understands; comprehends_    
+- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _understands_    
 - **[[Lie]]**: _forstår; innser_
-- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _abhijānāti_ (uoversat)    
+- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _abhijānāti_ (uoversat)    
 ## Kategori:
 
-[[majjhima/00-MOC/Begreber-MOC]]: Verber / Erkendelsesverber
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
 ## Etymologi:
 
 - Rod: **√jñā** — “at vide, erkende”    

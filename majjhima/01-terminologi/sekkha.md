@@ -9,13 +9,13 @@ En munk i træning.
 ## Oversættelser:
 
 - **[[Sujato]]**: _trainee_    
-- **[[majjhima/01-Terminologi/bodhi]]**: _a bhikkhu who is in higher training_     
+- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _a bhikkhu who is in higher training_     
 - **[[Lie]]**: en munk under opplæring    
-- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _sekkha_ (uoversat)    
+- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _sekkha_ (uoversat)    
 
 ## Kategori:
 
-[[majjhima/00-MOC/Begreber-MOC]]: Erkendelse / Personkategorier
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Erkendelse / Personkategorier
 
 ## Kommentar
 

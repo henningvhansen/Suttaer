@@ -6,7 +6,7 @@ type: begreb
 Dansk: sfæren for intethed, intethetens plan #Lie 
 Engelsk: the base of nothingness #Bodhi, the dimension of nothingness #Sujato 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Sfære
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sfære
 ## Kommentar
 Den tredje immaterielle sfære; intethed som meditationsobjekt.
 ## Kilder

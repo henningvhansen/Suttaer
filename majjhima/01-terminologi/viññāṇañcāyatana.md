@@ -6,7 +6,7 @@ type: begreb
 Dansk: sfæren for uendelig bevidsthed, den uendelige bevissthets plan #Lie 
 Engelsk: the base of infinite consciousness #Bodhi, the dimension of infinite consciousness #Sujato 
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Sfære
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sfære
 ## Kommentar
 Den anden immaterielle sfære; den grænseløse bevidsthed som meditationsobjekt.
 ## Kilder

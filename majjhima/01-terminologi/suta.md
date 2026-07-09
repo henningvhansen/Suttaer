@@ -6,7 +6,7 @@ type: begreb
 Dansk: Det hørte
 Engelsk: the heard
 ## Kategori:
-[[majjhima/00-MOC/Begreber-MOC]]: Sanserelateret
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sanserelateret
 ## Kommentar
 
 ## Kilder

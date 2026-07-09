@@ -9,14 +9,14 @@ Vildfarelse; uvidenhed; mental blindhed; manglende evne til at se tingene som de
 ## Oversættelser:
 
 - **[[Sujato]]**: _delusion_    
-- **[[majjhima/01-Terminologi/bodhi]]**: _delusion_    
-- **[[majjhima/01-Terminologi/Ñāṇamoli]]**: _delusion_    
+- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _delusion_    
+- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _delusion_    
 - **[[Lie]]**: _villfarelse; uvitenhet_    
-- **[[majjhima/00-MOC/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _moha_ (uoversat)    
+- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _moha_ (uoversat)    
 
 ## Kategori:
 
-[[majjhima/00-MOC/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
+[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
 
 ## Etymologi:
 

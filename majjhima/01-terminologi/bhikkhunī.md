@@ -11,7 +11,7 @@ Kategori: personkategorier
 Kvinde, der har modtaget fuld ordination.
 
 ## Kategori
-[[majjhima/00-MOC/Begreber-MOC#Personkategorier]].
+[[../../../../../majjhima/00-moc/Begreber-MOC#Personkategorier]].
 
 ## Kilder
 #Bodhi #Sujato #Thanissaro #Lie
