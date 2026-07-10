@@ -2,10 +2,10 @@
 layout: default
 title: Suttaer
 ---
-Projekt# Majjhima Nikāya – Oversigt 
+# Majjhima Nikāya – Oversigt 
 
-Velkommen til mit arbejdsmiljø for Projekt Majjhima Nikāya. Her finder du:
-Projekt
+Velkommen til mit arbejdsmiljø for 'Projekt Majjhima Nikāya'. Her finder du:
+
 ## 00 – Projektbeskrivelse
 - [Projektbeskrivelse](majjhima/00-overblik/projektbeskrivelse.md)
 
