@@ -2,7 +2,7 @@
 layout: default
 title: Suttaer
 ---
-# Majjhima Nikāya – Oversigt 
+# Projekt Majjhima Nikāya 
 
 Velkommen til mit arbejdsmiljø for 'Projekt Majjhima Nikāya'. Her finder du:
 
