@@ -69,4 +69,4 @@ Hvert centralt begreb - *āsava*, *saṁvara*, *upādāna* og mange flere - rumm
 
 Bodhi og Sujato o.a. bruges som faglige korrektiver, ikke som skabeloner. Sujatos oversættelser er CC0 og dermed frit tilgængelige at bygge videre på, mens Bodhis er underlagt en restriktiv licens, der udelukker bearbejdede udgaver. Praksis er derfor at oversætte direkte fra pali med alle de tilgængelige parallelle engelske oversættelser som findes på SuttaCentral, som fagligt referencepunkt - en arbejdsform, jeg mener både er metodisk og licensmæssigt velbegrundet.
 
-Forslag til korrektur mådtages gerne! hvad er hvaderbuddhisme@gmail.com
+Forslag til korrektur modtages gerne! Skriv til: hvaderbuddhisme@gmail.com
