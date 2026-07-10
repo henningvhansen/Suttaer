@@ -13,8 +13,8 @@ Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
 - [Pāli–Dansk ordliste](majjhima/01-terminologi/Pāli–dansk-ordliste.md) 
 
 ## 02 – Suttaer
-- [MN01](majjhima/02-suttaer/MN01.md)
-- [MN02](majjhima/02-suttaer/MN02.md)
+- [MN01](majjhima/02-suttaer/MN01.md) Mūlapariyāya Sutta — Erkendelsens rod 
+- [MN02](majjhima/02-suttaer/MN02.md) Sabbāsavasutta — Alle gæringer
 
 ## Forlaget Karunā
 **Send meget gerne kommentarer og rettelser til: hvaderbuddhisme@gmail.com**
