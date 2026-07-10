@@ -1,3 +1,7 @@
+---
+title: Projektbeskrivelse
+layout: default
+---
 **Rettet**: 20260710
 # Projektbeskrivelse
 
