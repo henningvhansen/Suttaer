@@ -2,10 +2,10 @@
 layout: default
 title: Suttaer
 ---
-# Majjhima Nikāya – Oversigt 
+Projekt# Majjhima Nikāya – Oversigt 
 
-Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
-
+Velkommen til mit arbejdsmiljø for Projekt Majjhima Nikāya. Her finder du:
+Projekt
 ## 00 – Projektbeskrivelse
 - [Projektbeskrivelse](majjhima/00-overblik/projektbeskrivelse.md)
 
@@ -18,4 +18,4 @@ Velkommen til mit arbejdsmiljø for Majjhima Nikāya. Her finder du:
 
 ## Forlaget Karunā
 **Send meget gerne kommentarer og rettelser til: hvaderbuddhisme@gmail.com**
-#### Dette er et arbejde hvor både oversættelser og hjemmeside er under udvikling
+#### Dette er et arProjektbejde hvor både oversættelser og hjemmeside er under udvikling
