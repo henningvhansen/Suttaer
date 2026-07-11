@@ -2,7 +2,7 @@
 layout: default
 title: Suttaer
 ---
-# Majjhima Nikāya – Oversigt 
+# Projekt Majjhima Nikāya 
 
 Velkommen til mit arbejdsmiljø for 'Projekt Majjhima Nikāya'. Her finder du:
 
@@ -18,4 +18,5 @@ Velkommen til mit arbejdsmiljø for 'Projekt Majjhima Nikāya'. Her finder du:
 
 ## Forlaget Karunā
 **Send meget gerne kommentarer og rettelser til: hvaderbuddhisme@gmail.com**
-#### Dette er et arProjektbejde hvor både oversættelser og hjemmeside er under udvikling
+
+#### OBS Dette er et projekt, hvor både oversættelser og hjemmeside er under udvikling, bær derfor over med fejl - men rapporter dem gerne 😉
