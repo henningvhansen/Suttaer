@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: pathavi
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

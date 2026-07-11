@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bhagavā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

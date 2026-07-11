@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kilesa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: papañca
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

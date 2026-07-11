@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nimitta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

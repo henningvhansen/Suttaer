@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: taṇhā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

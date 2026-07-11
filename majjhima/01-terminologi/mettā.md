@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: mettā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

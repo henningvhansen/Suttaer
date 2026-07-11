@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kāmāsava
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: Pajāpati
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

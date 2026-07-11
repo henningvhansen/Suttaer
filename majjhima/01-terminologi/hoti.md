@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: hoti
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

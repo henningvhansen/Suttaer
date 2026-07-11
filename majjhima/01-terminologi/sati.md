@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sati
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

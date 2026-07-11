@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: moha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: upādāna
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

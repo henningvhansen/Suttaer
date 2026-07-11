@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: saṅkhata
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

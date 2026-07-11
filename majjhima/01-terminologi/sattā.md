@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sattā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

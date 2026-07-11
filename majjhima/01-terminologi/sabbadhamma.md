@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sabbadhamma
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

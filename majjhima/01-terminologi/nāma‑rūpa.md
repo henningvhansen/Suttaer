@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nāma‑rūpa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

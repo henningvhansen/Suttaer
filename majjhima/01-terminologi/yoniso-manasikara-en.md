@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: yoniso-manasikara-en
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

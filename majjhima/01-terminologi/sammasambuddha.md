@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sammasambuddha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

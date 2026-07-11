@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: 00-Index
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

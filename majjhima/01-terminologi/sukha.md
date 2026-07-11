@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sukha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

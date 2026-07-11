@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: hiri
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

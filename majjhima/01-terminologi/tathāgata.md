@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: tathāgata
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

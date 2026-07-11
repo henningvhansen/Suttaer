@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sotāpanna
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

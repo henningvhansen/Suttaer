@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sañjānāti
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

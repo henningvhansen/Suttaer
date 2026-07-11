@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: Brahmā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

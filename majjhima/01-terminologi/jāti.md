@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: jāti
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: muta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

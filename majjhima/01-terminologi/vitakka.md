@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: vitakka
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

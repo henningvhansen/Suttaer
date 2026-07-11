@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: dosa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

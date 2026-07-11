@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: paṭisaṅkhā yoniso
 aliases:
   - paṭisaṅkhāyoniso
   - patisankha yoniso

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kāya
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

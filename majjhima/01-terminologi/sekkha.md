@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sekkha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

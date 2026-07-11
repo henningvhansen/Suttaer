@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: vedanānupassanā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

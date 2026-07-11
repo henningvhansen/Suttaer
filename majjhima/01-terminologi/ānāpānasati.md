@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ānāpānasati
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

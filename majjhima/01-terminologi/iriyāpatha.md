@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: iriyāpatha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

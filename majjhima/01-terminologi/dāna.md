@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: dāna
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

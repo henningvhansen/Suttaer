@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: Ñāṇamoli
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

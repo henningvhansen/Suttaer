@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nirodha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

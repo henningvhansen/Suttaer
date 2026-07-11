@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: khandha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

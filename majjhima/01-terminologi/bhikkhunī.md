@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bhikkhunī
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

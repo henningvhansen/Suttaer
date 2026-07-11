@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nidana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

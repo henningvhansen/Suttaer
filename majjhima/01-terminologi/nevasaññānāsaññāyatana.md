@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nevasaññānāsaññāyatana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

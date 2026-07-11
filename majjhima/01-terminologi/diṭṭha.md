@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: diṭṭha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

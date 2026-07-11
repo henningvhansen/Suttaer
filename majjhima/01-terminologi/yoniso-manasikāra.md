@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: yoniso-manasikāra
 aliases:
   - ayoniso manasikāra
 ---

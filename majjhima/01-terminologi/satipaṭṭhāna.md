@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: satipaṭṭhāna
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

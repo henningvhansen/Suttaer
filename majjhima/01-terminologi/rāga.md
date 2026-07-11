@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: rāga
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: tejo
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

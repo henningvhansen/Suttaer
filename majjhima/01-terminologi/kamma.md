@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kamma
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

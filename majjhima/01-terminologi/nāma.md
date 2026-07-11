@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nāma
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

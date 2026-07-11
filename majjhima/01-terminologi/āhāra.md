@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: āhāra
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

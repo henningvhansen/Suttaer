@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: avijjasava
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

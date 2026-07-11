@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: anantākāsānañcāyatana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bhavāsava
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

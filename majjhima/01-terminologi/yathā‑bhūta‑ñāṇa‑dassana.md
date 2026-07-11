@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: yathā‑bhūta‑ñāṇa‑dassana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

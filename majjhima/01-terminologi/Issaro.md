@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: Issaro
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

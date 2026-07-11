@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: puthujjana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

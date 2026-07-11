@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: vāyo
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

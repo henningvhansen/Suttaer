@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bodhi
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

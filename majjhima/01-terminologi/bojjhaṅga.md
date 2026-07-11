@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bojjhaṅga
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

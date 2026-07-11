@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: dhamma
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

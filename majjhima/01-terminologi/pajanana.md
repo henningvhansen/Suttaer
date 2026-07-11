@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: pajanana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

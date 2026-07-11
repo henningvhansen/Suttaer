@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: loma
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

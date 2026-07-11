@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: rūpa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

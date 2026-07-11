@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: anicca‑saññā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

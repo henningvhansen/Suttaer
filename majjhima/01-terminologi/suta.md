@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: suta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

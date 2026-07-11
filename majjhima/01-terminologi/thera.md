@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: thera
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

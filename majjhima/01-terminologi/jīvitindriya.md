@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: jīvitindriya
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

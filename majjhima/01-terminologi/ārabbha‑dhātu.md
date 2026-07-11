@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ārabbha‑dhātu
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

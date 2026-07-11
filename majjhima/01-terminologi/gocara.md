@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: gocara
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

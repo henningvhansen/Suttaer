@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: therī
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

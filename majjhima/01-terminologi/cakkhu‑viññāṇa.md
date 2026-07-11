@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: cakkhu‑viññāṇa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kāyānupassanā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

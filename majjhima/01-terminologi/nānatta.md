@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: nānatta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

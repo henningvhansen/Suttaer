@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kamasava
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

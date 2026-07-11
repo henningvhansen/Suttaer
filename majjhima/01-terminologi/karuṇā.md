@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: karuṇā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

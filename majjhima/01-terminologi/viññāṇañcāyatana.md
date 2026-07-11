@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: viññāṇañcāyatana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

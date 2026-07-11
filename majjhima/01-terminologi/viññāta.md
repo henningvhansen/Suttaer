@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: viññāta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: samudaya
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

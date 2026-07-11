@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: subhakiṇhādevā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

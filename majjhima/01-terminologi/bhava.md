@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bhava
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

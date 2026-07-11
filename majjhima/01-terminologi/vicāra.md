@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: vicāra
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

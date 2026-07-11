@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bhikkhu
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: upekkhā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

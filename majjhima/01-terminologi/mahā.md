@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: mahā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

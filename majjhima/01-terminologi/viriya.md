@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: viriya
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

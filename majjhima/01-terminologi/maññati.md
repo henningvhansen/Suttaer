@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: maññati
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

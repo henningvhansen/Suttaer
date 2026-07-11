@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: dukkha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

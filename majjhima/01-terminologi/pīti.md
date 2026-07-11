@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: pīti
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

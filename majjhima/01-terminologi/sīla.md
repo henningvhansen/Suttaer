@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sīla
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

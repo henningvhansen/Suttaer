@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: Pāli–dansk-ordliste
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

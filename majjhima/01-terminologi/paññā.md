@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: paññā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

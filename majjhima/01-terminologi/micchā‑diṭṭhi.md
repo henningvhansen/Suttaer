@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: micchā‑diṭṭhi
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ayoniso manasikāra
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

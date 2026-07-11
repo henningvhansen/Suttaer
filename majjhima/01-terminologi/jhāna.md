@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: jhāna
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

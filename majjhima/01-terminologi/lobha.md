@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: lobha
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

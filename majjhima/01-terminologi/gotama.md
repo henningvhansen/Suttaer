@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: gotama
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

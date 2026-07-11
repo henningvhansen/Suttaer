@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: saṁvara
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

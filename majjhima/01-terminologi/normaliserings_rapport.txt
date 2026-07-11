@@ -2,2289 +2,663 @@ Rapport for normalisering af begrebsnoter i: C:\Users\henni\Mit drev\DocumentsG\
 ============================================================
 
 00-Index.md:
-  - OBS: fandt H1 '# Ordlistens index' der IKKE matcher filnavnet '00-Index' - lod den stå. Tjek manuelt.
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: 00-Index' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet '00-Index' - lod den stå. Tjek manuelt.
 
 abhijānāti.md:
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: abhijānāti' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'abhijānāti' - lod den stå. Tjek manuelt.
 
 abhinandati.md:
-  - Fjernede indledende H1-titel '# abhinandati' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: abhinandati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'abhinandati' - lod den stå. Tjek manuelt.
 
 anantākāsānañcāyatana.md:
-  - Fjernede indledende H1-titel '# anantākāsānañcāyatana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: anantākāsānañcāyatana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'anantākāsānañcāyatana' - lod den stå. Tjek manuelt.
 
 anattā.md:
-  - Fjernede indledende H1-titel '# anattā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: anattā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'anattā' - lod den stå. Tjek manuelt.
 
 anattā‑saññā.md:
-  - Fjernede indledende H1-titel '# anattā‑saññā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: anattā‑saññā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'anattā‑saññā' - lod den stå. Tjek manuelt.
 
 anicca.md:
-  - Fjernede indledende H1-titel '# anicca' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: anicca' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'anicca' - lod den stå. Tjek manuelt.
 
 anicca‑saññā.md:
-  - Fjernede indledende H1-titel '# anicca‑saññā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: anicca‑saññā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'anicca‑saññā' - lod den stå. Tjek manuelt.
 
 arahaṁ.md:
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '### Etymologi' -> '## Etymologi:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: arahaṁ' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'arahaṁ' - lod den stå. Tjek manuelt.
 
 avijjasava.md:
-  - OBS: fandt H1 '# avijjāsava' der IKKE matcher filnavnet 'avijjasava' - lod den stå. Tjek manuelt.
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: avijjasava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'avijjasava' - lod den stå. Tjek manuelt.
 
 avijjā.md:
-  - Fjernede indledende H1-titel '# avijjā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: avijjā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'avijjā' - lod den stå. Tjek manuelt.
 
 avijjāsava.md:
-  - Fjernede indledende H1-titel '# avijjāsava' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: avijjāsava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'avijjāsava' - lod den stå. Tjek manuelt.
 
 ayoniso manasikāra.md:
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ayoniso manasikāra' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ayoniso manasikāra' - lod den stå. Tjek manuelt.
 
 bhagavā.md:
-  - Fjernede indledende H1-titel '# bhagavā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhagavā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhagavā' - lod den stå. Tjek manuelt.
 
 bhava.md:
-  - Fjernede indledende H1-titel '# bhava' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhava' - lod den stå. Tjek manuelt.
 
 bhavasava.md:
-  - OBS: fandt H1 '# bhavāsava' der IKKE matcher filnavnet 'bhavasava' - lod den stå. Tjek manuelt.
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhavasava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhavasava' - lod den stå. Tjek manuelt.
 
 bhava‑taṇhā.md:
-  - Fjernede indledende H1-titel '# bhava‑taṇhā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhava‑taṇhā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhava‑taṇhā' - lod den stå. Tjek manuelt.
 
 bhavāsava.md:
-  - Fjernede indledende H1-titel '# bhavāsava' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhavāsava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhavāsava' - lod den stå. Tjek manuelt.
 
 bhikkhu.md:
-  - Fjernede indledende H1-titel '# bhikkhu' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kategori' -> '## Kategori:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhikkhu' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhikkhu' - lod den stå. Tjek manuelt.
 
 bhikkhunī.md:
-  - Fjernede indledende H1-titel '# bhikkhunī' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kategori' -> '## Kategori:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bhikkhunī' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bhikkhunī' - lod den stå. Tjek manuelt.
 
 bodhi.md:
-  - Fjernede indledende H1-titel '# bodhi' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bodhi' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bodhi' - lod den stå. Tjek manuelt.
 
 bojjhaṅga.md:
-  - Fjernede indledende H1-titel '# bojjhaṅga' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: bojjhaṅga' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'bojjhaṅga' - lod den stå. Tjek manuelt.
 
 Brahmā.md:
-  - Fjernede indledende H1-titel '# Brahmā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Brahmā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Brahmā' - lod den stå. Tjek manuelt.
 
 cakkhu.md:
-  - Fjernede indledende H1-titel '# cakkhu' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: cakkhu' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'cakkhu' - lod den stå. Tjek manuelt.
 
 cakkhu‑viññāṇa.md:
-  - Fjernede indledende H1-titel '# cakkhu‑viññāṇa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: cakkhu‑viññāṇa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'cakkhu‑viññāṇa' - lod den stå. Tjek manuelt.
 
 cetanā.md:
-  - Fjernede indledende H1-titel '# cetanā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: cetanā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'cetanā' - lod den stå. Tjek manuelt.
 
 citta.md:
-  - Fjernede indledende H1-titel '# citta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: citta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'citta' - lod den stå. Tjek manuelt.
 
 devā.md:
-  - Fjernede indledende H1-titel '# devā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: devā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'devā' - lod den stå. Tjek manuelt.
 
 dhamma.md:
-  - Fjernede indledende H1-titel '# dhamma' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: dhamma' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'dhamma' - lod den stå. Tjek manuelt.
 
 dhammānupassanā.md:
-  - Fjernede indledende H1-titel '# dhammānupassanā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: dhammānupassanā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'dhammānupassanā' - lod den stå. Tjek manuelt.
 
 diṭṭha.md:
-  - Fjernede indledende H1-titel '# diṭṭha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: diṭṭha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'diṭṭha' - lod den stå. Tjek manuelt.
 
 dosa.md:
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: dosa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'dosa' - lod den stå. Tjek manuelt.
 
 dukkha.md:
-  - Fjernede indledende H1-titel '# dukkha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: dukkha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'dukkha' - lod den stå. Tjek manuelt.
 
 dukkha‑saññā.md:
-  - Fjernede indledende H1-titel '# dukkha‑saññā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: dukkha‑saññā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'dukkha‑saññā' - lod den stå. Tjek manuelt.
 
 dāna.md:
-  - Fjernede indledende H1-titel '# dāna' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: dāna' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'dāna' - lod den stå. Tjek manuelt.
 
 ekaggatā.md:
-  - Fjernede indledende H1-titel '# ekaggatā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ekaggatā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ekaggatā' - lod den stå. Tjek manuelt.
 
 ekatta.md:
-  - Fjernede indledende H1-titel '# ekatta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ekatta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ekatta' - lod den stå. Tjek manuelt.
 
 ekāyana.md:
-  - Fjernede indledende H1-titel '# ekāyana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ekāyana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ekāyana' - lod den stå. Tjek manuelt.
 
 evaṃ.md:
-  - Fjernede indledende H1-titel '# evaṃ' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: evaṃ' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'evaṃ' - lod den stå. Tjek manuelt.
 
 gati.md:
-  - Fjernede indledende H1-titel '# gati' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: gati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'gati' - lod den stå. Tjek manuelt.
 
 gocara.md:
-  - Fjernede indledende H1-titel '# gocara' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: gocara' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'gocara' - lod den stå. Tjek manuelt.
 
 gotama.md:
-  - Fjernede indledende H1-titel '# gotama' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: gotama' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'gotama' - lod den stå. Tjek manuelt.
 
 hetu.md:
-  - Fjernede indledende H1-titel '# hetu' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: hetu' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'hetu' - lod den stå. Tjek manuelt.
 
 hiri.md:
-  - Fjernede indledende H1-titel '# hiri' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: hiri' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'hiri' - lod den stå. Tjek manuelt.
 
 hiri‑ottappa.md:
-  - Fjernede indledende H1-titel '# hiri‑ottappa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: hiri‑ottappa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'hiri‑ottappa' - lod den stå. Tjek manuelt.
 
 hoti.md:
-  - Fjernede indledende H1-titel '# hoti' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: hoti' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'hoti' - lod den stå. Tjek manuelt.
 
 indriya.md:
-  - Fjernede indledende H1-titel '# indriya' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: indriya' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'indriya' - lod den stå. Tjek manuelt.
 
 iriyāpatha.md:
-  - Fjernede indledende H1-titel '# iriyāpatha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: iriyāpatha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'iriyāpatha' - lod den stå. Tjek manuelt.
 
 Issaro.md:
-  - Fjernede indledende H1-titel '# Issaro' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Issaro' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Issaro' - lod den stå. Tjek manuelt.
 
 jhāna.md:
-  - Fjernede indledende H1-titel '# jhāna' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: jhāna' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'jhāna' - lod den stå. Tjek manuelt.
 
 jāti.md:
-  - Fjernede indledende H1-titel '# jāti' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: jāti' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'jāti' - lod den stå. Tjek manuelt.
 
 jīvitindriya.md:
-  - Fjernede indledende H1-titel '# jīvitindriya' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: jīvitindriya' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'jīvitindriya' - lod den stå. Tjek manuelt.
 
 kamasava.md:
-  - OBS: fandt H1 '# kāmāsava' der IKKE matcher filnavnet 'kamasava' - lod den stå. Tjek manuelt.
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kamasava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kamasava' - lod den stå. Tjek manuelt.
 
 kamma.md:
-  - Fjernede indledende H1-titel '# kamma' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kamma' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kamma' - lod den stå. Tjek manuelt.
 
 kammavipāka.md:
-  - Fjernede indledende H1-titel '# kammavipāka' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kammavipāka' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kammavipāka' - lod den stå. Tjek manuelt.
 
 kappa.md:
-  - Fjernede indledende H1-titel '# kappa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kappa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kappa' - lod den stå. Tjek manuelt.
 
 karuṇā.md:
-  - Fjernede indledende H1-titel '# karuṇā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: karuṇā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'karuṇā' - lod den stå. Tjek manuelt.
 
 khandha.md:
-  - Fjernede indledende H1-titel '# khandha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: khandha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'khandha' - lod den stå. Tjek manuelt.
 
 kilesa.md:
-  - Fjernede indledende H1-titel '# kilesa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kilesa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kilesa' - lod den stå. Tjek manuelt.
 
 kāmāsava.md:
-  - Fjernede indledende H1-titel '# kāmāsava' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kāmāsava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kāmāsava' - lod den stå. Tjek manuelt.
 
 kāya.md:
-  - Fjernede indledende H1-titel '# kāya' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kāya' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kāya' - lod den stå. Tjek manuelt.
 
 kāyānupassanā.md:
-  - Fjernede indledende H1-titel '# kāyānupassanā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: kāyānupassanā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'kāyānupassanā' - lod den stå. Tjek manuelt.
 
 lobha.md:
-  - Fjernede indledende H1-titel '# lobha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: lobha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'lobha' - lod den stå. Tjek manuelt.
 
 loka.md:
-  - Fjernede indledende H1-titel '# loka' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: loka' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'loka' - lod den stå. Tjek manuelt.
 
 lokuttara.md:
-  - Fjernede indledende H1-titel '# lokuttara' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: lokuttara' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'lokuttara' - lod den stå. Tjek manuelt.
 
 loma.md:
-  - Fjernede indledende H1-titel '# loma' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: loma' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'loma' - lod den stå. Tjek manuelt.
 
 magga.md:
-  - Fjernede indledende H1-titel '# magga' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: magga' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'magga' - lod den stå. Tjek manuelt.
 
 mahā.md:
-  - Fjernede indledende H1-titel '# mahā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: mahā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'mahā' - lod den stå. Tjek manuelt.
 
 manas.md:
-  - Fjernede indledende H1-titel '# manas' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: manas' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'manas' - lod den stå. Tjek manuelt.
 
 mano‑viññāṇa.md:
-  - Fjernede indledende H1-titel '# mano‑viññāṇa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: mano‑viññāṇa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'mano‑viññāṇa' - lod den stå. Tjek manuelt.
 
 maññati.md:
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: maññati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'maññati' - lod den stå. Tjek manuelt.
 
 meti.md:
-  - Fjernede indledende H1-titel '# meti' (gentagelse af filnavnet)
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: meti' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'meti' - lod den stå. Tjek manuelt.
 
 mettā.md:
-  - Fjernede indledende H1-titel '# mettā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: mettā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'mettā' - lod den stå. Tjek manuelt.
 
 micchā‑diṭṭhi.md:
-  - Fjernede indledende H1-titel '# micchā‑diṭṭhi' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: micchā‑diṭṭhi' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'micchā‑diṭṭhi' - lod den stå. Tjek manuelt.
 
 moha.md:
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: moha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'moha' - lod den stå. Tjek manuelt.
 
 mula.md:
-  - OBS: fandt H1 '# mūla' der IKKE matcher filnavnet 'mula' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: mula' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'mula' - lod den stå. Tjek manuelt.
 
 muta.md:
-  - Fjernede indledende H1-titel '# muta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: muta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'muta' - lod den stå. Tjek manuelt.
 
 nandī.md:
-  - Fjernede indledende H1-titel '# nandī' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nandī' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nandī' - lod den stå. Tjek manuelt.
 
 nevasaññānāsaññāyatana.md:
-  - Fjernede indledende H1-titel '# nevasaññānāsaññāyatana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nevasaññānāsaññāyatana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nevasaññānāsaññāyatana' - lod den stå. Tjek manuelt.
 
 nibbāna.md:
-  - Fjernede indledende H1-titel '# nibbāna' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '### Kategori:' -> '## Kategori:'
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nibbāna' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nibbāna' - lod den stå. Tjek manuelt.
 
 nidana.md:
-  - OBS: fandt H1 '# nidāna' der IKKE matcher filnavnet 'nidana' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nidana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nidana' - lod den stå. Tjek manuelt.
 
 nimitta.md:
-  - Fjernede indledende H1-titel '# nimitta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nimitta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nimitta' - lod den stå. Tjek manuelt.
 
 nirodha.md:
-  - Fjernede indledende H1-titel '# nirodha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nirodha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nirodha' - lod den stå. Tjek manuelt.
 
 nāma.md:
-  - Fjernede indledende H1-titel '# nāma' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nāma' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nāma' - lod den stå. Tjek manuelt.
 
 nāma‑rūpa.md:
-  - Fjernede indledende H1-titel '# nāma‑rūpa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nāma‑rūpa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nāma‑rūpa' - lod den stå. Tjek manuelt.
 
 nānatta.md:
-  - Fjernede indledende H1-titel '# nānatta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: nānatta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'nānatta' - lod den stå. Tjek manuelt.
 
 pahīyati.md:
-  - Fjernede indledende H1-titel '# pahīyati' (gentagelse af filnavnet)
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: pahīyati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'pahīyati' - lod den stå. Tjek manuelt.
 
 pajanana.md:
-  - OBS: fandt H1 '# pajānana' der IKKE matcher filnavnet 'pajanana' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: pajanana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'pajanana' - lod den stå. Tjek manuelt.
 
 Pajāpati.md:
-  - OBS: fandt H1 '# pajapati' der IKKE matcher filnavnet 'Pajāpati' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Pajāpati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Pajāpati' - lod den stå. Tjek manuelt.
 
 papañca.md:
-  - Fjernede indledende H1-titel '# papañca' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: papañca' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'papañca' - lod den stå. Tjek manuelt.
 
 pariyāya.md:
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: pariyāya' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'pariyāya' - lod den stå. Tjek manuelt.
 
 pathavi.md:
-  - OBS: fandt H1 '# paṭhavi' der IKKE matcher filnavnet 'pathavi' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: pathavi' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'pathavi' - lod den stå. Tjek manuelt.
 
 pañcakkhandhā.md:
-  - Fjernede indledende H1-titel '# pañcakkhandhā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: pañcakkhandhā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'pañcakkhandhā' - lod den stå. Tjek manuelt.
 
 paññā.md:
-  - Fjernede indledende H1-titel '# paññā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: paññā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'paññā' - lod den stå. Tjek manuelt.
 
 paṭisaṅkhā yoniso.md:
-  - Fjernede indledende H1-titel '# paṭisaṅkhā yoniso' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: paṭisaṅkhā yoniso' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'paṭisaṅkhā yoniso' - lod den stå. Tjek manuelt.
 
 phassa.md:
-  - Fjernede indledende H1-titel '# phassa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: phassa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'phassa' - lod den stå. Tjek manuelt.
 
 puggala.md:
-  - Fjernede indledende H1-titel '# puggala' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: puggala' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'puggala' - lod den stå. Tjek manuelt.
 
 puthujjana.md:
-  - Fjernede indledende H1-titel '# puthujjana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: puthujjana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'puthujjana' - lod den stå. Tjek manuelt.
 
 puñña.md:
-  - Fjernede indledende H1-titel '# puñña' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: puñña' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'puñña' - lod den stå. Tjek manuelt.
 
 Pāli–dansk-ordliste.md:
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Pāli–dansk-ordliste' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Pāli–dansk-ordliste' - lod den stå. Tjek manuelt.
 
 pīti.md:
-  - Fjernede indledende H1-titel '# pīti' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: pīti' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'pīti' - lod den stå. Tjek manuelt.
 
 rasa.md:
-  - Fjernede indledende H1-titel '# rasa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: rasa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'rasa' - lod den stå. Tjek manuelt.
 
 rāga.md:
-  - Fjernede indledende H1-titel '# rāga' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: rāga' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'rāga' - lod den stå. Tjek manuelt.
 
 rūpa.md:
-  - Fjernede indledende H1-titel '# rūpa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: rūpa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'rūpa' - lod den stå. Tjek manuelt.
 
 sabba.md:
-  - Fjernede indledende H1-titel '# sabba' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sabba' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sabba' - lod den stå. Tjek manuelt.
 
 sabbadhamma.md:
-  - OBS: fandt H1 '# sabbadhammā' der IKKE matcher filnavnet 'sabbadhamma' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sabbadhamma' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sabbadhamma' - lod den stå. Tjek manuelt.
 
 sacca.md:
-  - Fjernede indledende H1-titel '# sacca' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sacca' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sacca' - lod den stå. Tjek manuelt.
 
 saddhā.md:
-  - Fjernede indledende H1-titel '# saddhā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: saddhā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'saddhā' - lod den stå. Tjek manuelt.
 
 sammasambuddha.md:
-  - OBS: fandt H1 '# sammāsambuddha' der IKKE matcher filnavnet 'sammasambuddha' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sammasambuddha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sammasambuddha' - lod den stå. Tjek manuelt.
 
 samudaya.md:
-  - Fjernede indledende H1-titel '# samudaya' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: samudaya' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'samudaya' - lod den stå. Tjek manuelt.
 
 sati.md:
-  - Fjernede indledende H1-titel '# sati' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sati' - lod den stå. Tjek manuelt.
 
 satipaṭṭhāna.md:
-  - Fjernede indledende H1-titel '# satipaṭṭhāna' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: satipaṭṭhāna' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'satipaṭṭhāna' - lod den stå. Tjek manuelt.
 
 sattā.md:
-  - Fjernede indledende H1-titel '# sattā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sattā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sattā' - lod den stå. Tjek manuelt.
 
 sañjānāti.md:
-  - Fjernede indledende H1-titel '# sañjānāti' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sañjānāti' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sañjānāti' - lod den stå. Tjek manuelt.
 
 saññā.md:
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: saññā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'saññā' - lod den stå. Tjek manuelt.
 
 saṁvara.md:
-  - Fjernede indledende H1-titel '# saṁvara' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: saṁvara' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'saṁvara' - lod den stå. Tjek manuelt.
 
 saṅkhata.md:
-  - Fjernede indledende H1-titel '# saṅkhata' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: saṅkhata' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'saṅkhata' - lod den stå. Tjek manuelt.
 
 saṅkhāra.md:
-  - Fjernede indledende H1-titel '# saṅkhāra' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: saṅkhāra' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'saṅkhāra' - lod den stå. Tjek manuelt.
 
 sekkha.md:
-  - Fjernede indledende H1-titel '# sekkha' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sekkha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sekkha' - lod den stå. Tjek manuelt.
 
 soka.md:
-  - Fjernede indledende H1-titel '# soka' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: soka' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'soka' - lod den stå. Tjek manuelt.
 
 sotāpanna.md:
-  - Fjernede indledende H1-titel '# sotāpanna' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sotāpanna' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sotāpanna' - lod den stå. Tjek manuelt.
 
 Stilvalg.md:
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Stilvalg' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Stilvalg' - lod den stå. Tjek manuelt.
 
 subhakiṇhādevā.md:
-  - OBS: fandt H1 '# subhakiṇhā devā' der IKKE matcher filnavnet 'subhakiṇhādevā' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: subhakiṇhādevā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'subhakiṇhādevā' - lod den stå. Tjek manuelt.
 
 sukha.md:
-  - Fjernede indledende H1-titel '# sukha' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sukha' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sukha' - lod den stå. Tjek manuelt.
 
 suta.md:
-  - Fjernede indledende H1-titel '# suta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: suta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'suta' - lod den stå. Tjek manuelt.
 
 sutta.md:
-  - Fjernede indledende H1-titel '# sutta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sutta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sutta' - lod den stå. Tjek manuelt.
 
 suññatā.md:
-  - Fjernede indledende H1-titel '# suññatā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: suññatā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'suññatā' - lod den stå. Tjek manuelt.
 
 sīla.md:
-  - Fjernede indledende H1-titel '# sīla' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: sīla' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'sīla' - lod den stå. Tjek manuelt.
 
 tathāgata.md:
-  - Fjernede indledende H1-titel '# tathāgata' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: tathāgata' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'tathāgata' - lod den stå. Tjek manuelt.
 
 taṇhā.md:
-  - Fjernede indledende H1-titel '# taṇhā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: taṇhā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'taṇhā' - lod den stå. Tjek manuelt.
 
 tejo.md:
-  - Fjernede indledende H1-titel '# tejo' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: tejo' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'tejo' - lod den stå. Tjek manuelt.
 
 thera.md:
-  - Fjernede indledende H1-titel '# thera' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: thera' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'thera' - lod den stå. Tjek manuelt.
 
 therī.md:
-  - Fjernede indledende H1-titel '# therī' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: therī' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'therī' - lod den stå. Tjek manuelt.
 
 tissa.md:
-  - Fjernede indledende H1-titel '# tissa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: tissa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'tissa' - lod den stå. Tjek manuelt.
 
 ti‑lakkhaṇa.md:
-  - Fjernede indledende H1-titel '# ti‑lakkhaṇa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ti‑lakkhaṇa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ti‑lakkhaṇa' - lod den stå. Tjek manuelt.
 
 Untitled.md:
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Untitled' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Untitled' - lod den stå. Tjek manuelt.
 
 upekkhā.md:
-  - Fjernede indledende H1-titel '# upekkhā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: upekkhā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'upekkhā' - lod den stå. Tjek manuelt.
 
 upādāna.md:
-  - Fjernede indledende H1-titel '# upādāna' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: upādāna' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'upādāna' - lod den stå. Tjek manuelt.
 
 upāsaka.md:
-  - Fjernede indledende H1-titel '# upāsaka' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: upāsaka' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'upāsaka' - lod den stå. Tjek manuelt.
 
 upāsikā.md:
-  - Fjernede indledende H1-titel '# upāsikā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: upāsikā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'upāsikā' - lod den stå. Tjek manuelt.
 
 vedanā.md:
-  - Fjernede indledende H1-titel '# vedanā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vedanā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vedanā' - lod den stå. Tjek manuelt.
 
 vedanānupassanā.md:
-  - Fjernede indledende H1-titel '# vedanānupassanā' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vedanānupassanā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vedanānupassanā' - lod den stå. Tjek manuelt.
 
 vehapphalādevā.md:
-  - OBS: fandt H1 '# vehapphalā devā' der IKKE matcher filnavnet 'vehapphalādevā' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vehapphalādevā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vehapphalādevā' - lod den stå. Tjek manuelt.
 
 vicāra.md:
-  - Fjernede indledende H1-titel '# vicāra' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vicāra' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vicāra' - lod den stå. Tjek manuelt.
 
 viriya.md:
-  - Fjernede indledende H1-titel '# viriya' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: viriya' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'viriya' - lod den stå. Tjek manuelt.
 
 vitakka.md:
-  - Fjernede indledende H1-titel '# vitakka' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vitakka' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vitakka' - lod den stå. Tjek manuelt.
 
 viññāta.md:
-  - Fjernede indledende H1-titel '# viññāta' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: viññāta' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'viññāta' - lod den stå. Tjek manuelt.
 
 viññāṇa.md:
-  - Fjernede indledende H1-titel '# viññāṇa' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: viññāṇa' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'viññāṇa' - lod den stå. Tjek manuelt.
 
 viññāṇañcāyatana.md:
-  - Fjernede indledende H1-titel '# viññāṇañcāyatana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: viññāṇañcāyatana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'viññāṇañcāyatana' - lod den stå. Tjek manuelt.
 
 vossagga.md:
-  - Fjernede indledende H1-titel '# vossagga' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vossagga' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vossagga' - lod den stå. Tjek manuelt.
 
 vāyo.md:
-  - Fjernede indledende H1-titel '# vāyo' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Kategori' -> '## Kategori:'
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: vāyo' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'vāyo' - lod den stå. Tjek manuelt.
 
 yathā‑bhūta‑ñāṇa‑dassana.md:
-  - Fjernede indledende H1-titel '# yathā‑bhūta‑ñāṇa‑dassana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: yathā‑bhūta‑ñāṇa‑dassana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'yathā‑bhūta‑ñāṇa‑dassana' - lod den stå. Tjek manuelt.
 
 yoniso-manasikara-en.md:
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: yoniso-manasikara-en' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'yoniso-manasikara-en' - lod den stå. Tjek manuelt.
 
 yoniso-manasikāra.md:
-  - OBS: fandt H1 '# yoniso manasikāra / ayoniso manasikāra' der IKKE matcher filnavnet 'yoniso-manasikāra' - lod den stå. Tjek manuelt.
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: yoniso-manasikāra' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'yoniso-manasikāra' - lod den stå. Tjek manuelt.
 
 Ñāṇamoli.md:
-  - Indsatte tom overskrift for manglende felt: '## Dansk:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
-  - Indsatte tom overskrift for manglende felt: '## Kategori:'
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: Ñāṇamoli' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'Ñāṇamoli' - lod den stå. Tjek manuelt.
 
 ābhassarādevā.md:
-  - OBS: fandt H1 '# ābhassarā devā' der IKKE matcher filnavnet 'ābhassarādevā' - lod den stå. Tjek manuelt.
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ābhassarādevā' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ābhassarādevā' - lod den stå. Tjek manuelt.
 
 āgama.md:
-  - Fjernede indledende H1-titel '# āgama' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: āgama' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'āgama' - lod den stå. Tjek manuelt.
 
 āhāra.md:
-  - Fjernede indledende H1-titel '# āhāra' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: āhāra' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'āhāra' - lod den stå. Tjek manuelt.
 
 ākiñcaññāyatana.md:
-  - Fjernede indledende H1-titel '# ākiñcaññāyatana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ākiñcaññāyatana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ākiñcaññāyatana' - lod den stå. Tjek manuelt.
 
 ānāpānasati.md:
-  - Fjernede indledende H1-titel '# ānāpānasati' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ānāpānasati' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ānāpānasati' - lod den stå. Tjek manuelt.
 
 āpo.md:
-  - Fjernede indledende H1-titel '# āpo' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: āpo' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'āpo' - lod den stå. Tjek manuelt.
 
 ārabbha‑dhātu.md:
-  - Fjernede indledende H1-titel '# ārabbha‑dhātu' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: ārabbha‑dhātu' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'ārabbha‑dhātu' - lod den stå. Tjek manuelt.
 
 āsava - Kopi.md:
-  - OBS: fandt H1 '# āsava' der IKKE matcher filnavnet 'āsava - Kopi' - lod den stå. Tjek manuelt.
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: āsava - Kopi' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'āsava - Kopi' - lod den stå. Tjek manuelt.
 
 āsava.md:
-  - Fjernede indledende H1-titel '# āsava' (gentagelse af filnavnet)
-  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
-  - Indsatte tom overskrift for manglende felt: '## Kilder:'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: āsava' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'āsava' - lod den stå. Tjek manuelt.
 
 āyatana.md:
-  - Fjernede indledende H1-titel '# āyatana' (gentagelse af filnavnet)
-  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
-  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
-  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
-  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
-  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
-  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
-  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
-  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
-  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
-  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
-  - Tilføjede '# Status: Under udarbejdelse' øverst
-  - Tilføjede '## Senest redigeret:' øverst
+  - Tilføjede 'title: āyatana' i frontmatter (undgår dobbelt titel på GitHub Pages)
+  - OBS: fandt H1 '# Status: Under udarbejdelse' der IKKE matcher filnavnet 'āyatana' - lod den stå. Tjek manuelt.
 
 Filer ændret: 165 af 165

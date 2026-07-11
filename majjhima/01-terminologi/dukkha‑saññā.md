@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: dukkha‑saññā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

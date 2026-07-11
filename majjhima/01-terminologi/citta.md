@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: citta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

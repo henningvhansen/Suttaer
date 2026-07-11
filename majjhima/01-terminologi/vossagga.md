@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: vossagga
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

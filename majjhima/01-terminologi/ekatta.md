@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ekatta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

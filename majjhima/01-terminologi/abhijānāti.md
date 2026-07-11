@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: abhijānāti
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

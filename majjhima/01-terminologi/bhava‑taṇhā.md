@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: bhava‑taṇhā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

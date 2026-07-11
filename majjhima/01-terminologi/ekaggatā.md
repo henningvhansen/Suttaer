@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ekaggatā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

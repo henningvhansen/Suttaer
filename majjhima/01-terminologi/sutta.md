@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: sutta
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

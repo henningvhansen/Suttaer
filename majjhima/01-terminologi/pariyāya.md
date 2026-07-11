@@ -1,6 +1,7 @@
 ---
 layout: page 
 type: begreb
+title: pariyāya
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

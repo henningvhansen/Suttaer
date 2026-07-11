@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ti‑lakkhaṇa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

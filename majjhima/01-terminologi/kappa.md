@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: kappa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

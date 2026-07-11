@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: loka
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: tissa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: dhammānupassanā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

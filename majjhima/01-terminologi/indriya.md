@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: indriya
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

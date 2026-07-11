@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: anattā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: ekāyana
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: soka
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: puñña
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

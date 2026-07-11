@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: mano‑viññāṇa
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

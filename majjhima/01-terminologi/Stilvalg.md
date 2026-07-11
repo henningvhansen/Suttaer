@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: Stilvalg
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

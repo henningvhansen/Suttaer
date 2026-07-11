@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: pañcakkhandhā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: vedanā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

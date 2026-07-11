@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: manas
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: saññā
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:

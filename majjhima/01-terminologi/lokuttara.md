@@ -1,6 +1,7 @@
 ---
 layout: page
 type: begreb
+title: lokuttara
 ---
 # Status: Under udarbejdelse
 ## Senest redigeret:
