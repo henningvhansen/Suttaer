@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# puñña
-Dansk: fortjeneste
-Engelsk: merit (Bodhi), merit (Sujato), merit (Thanissaro), fortjeneste (Lie)
-Kategori: etik
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+fortjeneste
+## Oversættelser:
+- Engelsk (samlet): merit (Bodhi), merit (Sujato), merit (Thanissaro), fortjeneste (Lie)
+
+## Kategori:
+etik
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Akkumuleres gennem gode handlinger, gavmildhed og moral.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

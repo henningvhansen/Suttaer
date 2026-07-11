@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# vedanā
-Dansk: følelse; fornemmelse
-Engelsk: feeling (Bodhi), feeling (Sujato), feeling (Thanissaro), følelse (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+følelse; fornemmelse
+## Oversættelser:
+- Engelsk (samlet): feeling (Bodhi), feeling (Sujato), feeling (Thanissaro), følelse (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et af de fem aggregater. Omfatter behagelige, ubehagelige og neutrale følelser.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# jhāna
-Dansk: fordybelse
-Engelsk: absorption (Bodhi), absorption (Sujato), jhana (Thanissaro), meditasjonsfordypning (Lie)
-Kategori: meditation
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+fordybelse
+## Oversættelser:
+- Engelsk (samlet): absorption (Bodhi), absorption (Sujato), jhana (Thanissaro), meditasjonsfordypning (Lie)
+
+## Kategori:
+meditation
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De fire jhāna‑tilstande er centrale i samatha‑meditation.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

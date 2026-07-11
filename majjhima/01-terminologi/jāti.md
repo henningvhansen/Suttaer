@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# jāti
-Dansk: fødsel
-Engelsk: birth (Bodhi), rebirth (Sujato), birth (Thanissaro), fødsel (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+fødsel
+## Oversættelser:
+- Engelsk (samlet): birth (Bodhi), rebirth (Sujato), birth (Thanissaro), fødsel (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et led i den afhængige oprindelse; kan betyde både fysisk fødsel og eksistentiel “opståen”.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

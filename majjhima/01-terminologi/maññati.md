@@ -2,6 +2,9 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ## Dansk:
 
 At tænke; at forestille sig; at konstruere; at danne en mental forestilling om noget.
@@ -9,19 +12,23 @@ At tænke; at forestille sig; at konstruere; at danne en mental forestilling om 
 ## Oversættelser:
 
 - **[[Sujato]]**: _conceives; imagines; identifies; thinks_    
-- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _conceives; imagines_    
-- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _conceives_    
+- **[[bodhi]]**: _conceives; imagines_    
+- **[[Ñāṇamoli]]**: _conceives_    
 - **[[Lie]]**: _forestiller seg; tenker; innbiller seg_    
-- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _maññati_ (uoversat)    
+- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _maññati_ (uoversat)    
 
 ## Kategori:
 
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
+[[../00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
 
 ## Etymologi:
 
 - Rod: **√man** — “at tænke, forestille sig, konstruere”    
 - _maññati_ (3. pers. sg.) → “han tænker, forestiller sig, konstruerer”    
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
 
 ## Kommentar:
 

@@ -2,9 +2,11 @@
 layout: page
 type: begreb
 ---
-# suññatā
-Dansk: tomhed, ubundethed
-Engelsk: emptiness, afvigelser: 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+tomhed, ubundethed
 |Oversætter|Typisk oversættelse|Nuance|Tradition|
 |---|---|---|---|
 |**[Bhikkhu Bodhi](ca://s?q=Bhikkhu_Bodhi_sunnata)**|“emptiness”|klassisk, neutral|Theravāda|
@@ -15,9 +17,18 @@ Engelsk: emptiness, afvigelser:
 |**[Sujato](ca://s?q=Sujato_sunnata)**|“emptiness”|minimalistisk|SuttaCentral|
 |**[Brahmali](ca://s?q=Brahmali_sunnata)**|“emptiness”|ikke‑identifikation|SuttaCentral|
 |**[Batchelor](ca://s?q=Stephen_Batchelor_sunnata)**|“openness”|relationel|Secular Buddhism|
-Kategori:
+## Oversættelser:
+- Engelsk (samlet): emptiness, afvigelser:
 
-## Kommentar
+## Kategori:
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 ## 🌿 Hvor talte vi om _ubundethed_?
 
 Vi havde en længere og ret fin diskussion om ordet **ubundethed** i forbindelse med citatet:
@@ -74,7 +85,7 @@ En kort måde at formulere det på kunne være:
 > “Ubundethed” er ikke den mest bogstavelige gengivelse af suññatā, men i denne kontekst kan den være den mest meningsbærende danske oversættelse, fordi den undgår nihilistiske associationer og rammer Ajahn Chahs praktiske pointe om ikke-klamren og ikke-identifikation.
 
 Det er i mine øjne en bedre og mere præcis konklusion end at sige, at “ubundethed” entydigt er den bedste oversættelse i alle tilfælde.
-## Kilder
+## Kilder:
 #Copilot #Perplexity
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

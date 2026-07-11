@@ -1,0 +1,2290 @@
+Rapport for normalisering af begrebsnoter i: C:\Users\henni\Mit drev\DocumentsG\HenningFritid\Buddha\Obsidian Vault\majjhima\01-terminologi
+============================================================
+
+00-Index.md:
+  - OBS: fandt H1 '# Ordlistens index' der IKKE matcher filnavnet '00-Index' - lod den stå. Tjek manuelt.
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+abhijānāti.md:
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+abhinandati.md:
+  - Fjernede indledende H1-titel '# abhinandati' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+anantākāsānañcāyatana.md:
+  - Fjernede indledende H1-titel '# anantākāsānañcāyatana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+anattā.md:
+  - Fjernede indledende H1-titel '# anattā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+anattā‑saññā.md:
+  - Fjernede indledende H1-titel '# anattā‑saññā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+anicca.md:
+  - Fjernede indledende H1-titel '# anicca' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+anicca‑saññā.md:
+  - Fjernede indledende H1-titel '# anicca‑saññā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+arahaṁ.md:
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '### Etymologi' -> '## Etymologi:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+avijjasava.md:
+  - OBS: fandt H1 '# avijjāsava' der IKKE matcher filnavnet 'avijjasava' - lod den stå. Tjek manuelt.
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+avijjā.md:
+  - Fjernede indledende H1-titel '# avijjā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+avijjāsava.md:
+  - Fjernede indledende H1-titel '# avijjāsava' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ayoniso manasikāra.md:
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhagavā.md:
+  - Fjernede indledende H1-titel '# bhagavā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhava.md:
+  - Fjernede indledende H1-titel '# bhava' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhavasava.md:
+  - OBS: fandt H1 '# bhavāsava' der IKKE matcher filnavnet 'bhavasava' - lod den stå. Tjek manuelt.
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhava‑taṇhā.md:
+  - Fjernede indledende H1-titel '# bhava‑taṇhā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhavāsava.md:
+  - Fjernede indledende H1-titel '# bhavāsava' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhikkhu.md:
+  - Fjernede indledende H1-titel '# bhikkhu' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kategori' -> '## Kategori:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bhikkhunī.md:
+  - Fjernede indledende H1-titel '# bhikkhunī' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kategori' -> '## Kategori:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bodhi.md:
+  - Fjernede indledende H1-titel '# bodhi' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+bojjhaṅga.md:
+  - Fjernede indledende H1-titel '# bojjhaṅga' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Brahmā.md:
+  - Fjernede indledende H1-titel '# Brahmā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+cakkhu.md:
+  - Fjernede indledende H1-titel '# cakkhu' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+cakkhu‑viññāṇa.md:
+  - Fjernede indledende H1-titel '# cakkhu‑viññāṇa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+cetanā.md:
+  - Fjernede indledende H1-titel '# cetanā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+citta.md:
+  - Fjernede indledende H1-titel '# citta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+devā.md:
+  - Fjernede indledende H1-titel '# devā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+dhamma.md:
+  - Fjernede indledende H1-titel '# dhamma' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+dhammānupassanā.md:
+  - Fjernede indledende H1-titel '# dhammānupassanā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+diṭṭha.md:
+  - Fjernede indledende H1-titel '# diṭṭha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+dosa.md:
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+dukkha.md:
+  - Fjernede indledende H1-titel '# dukkha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+dukkha‑saññā.md:
+  - Fjernede indledende H1-titel '# dukkha‑saññā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+dāna.md:
+  - Fjernede indledende H1-titel '# dāna' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ekaggatā.md:
+  - Fjernede indledende H1-titel '# ekaggatā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ekatta.md:
+  - Fjernede indledende H1-titel '# ekatta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ekāyana.md:
+  - Fjernede indledende H1-titel '# ekāyana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+evaṃ.md:
+  - Fjernede indledende H1-titel '# evaṃ' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+gati.md:
+  - Fjernede indledende H1-titel '# gati' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+gocara.md:
+  - Fjernede indledende H1-titel '# gocara' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+gotama.md:
+  - Fjernede indledende H1-titel '# gotama' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+hetu.md:
+  - Fjernede indledende H1-titel '# hetu' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+hiri.md:
+  - Fjernede indledende H1-titel '# hiri' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+hiri‑ottappa.md:
+  - Fjernede indledende H1-titel '# hiri‑ottappa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+hoti.md:
+  - Fjernede indledende H1-titel '# hoti' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+indriya.md:
+  - Fjernede indledende H1-titel '# indriya' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+iriyāpatha.md:
+  - Fjernede indledende H1-titel '# iriyāpatha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Issaro.md:
+  - Fjernede indledende H1-titel '# Issaro' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+jhāna.md:
+  - Fjernede indledende H1-titel '# jhāna' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+jāti.md:
+  - Fjernede indledende H1-titel '# jāti' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+jīvitindriya.md:
+  - Fjernede indledende H1-titel '# jīvitindriya' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kamasava.md:
+  - OBS: fandt H1 '# kāmāsava' der IKKE matcher filnavnet 'kamasava' - lod den stå. Tjek manuelt.
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kamma.md:
+  - Fjernede indledende H1-titel '# kamma' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kammavipāka.md:
+  - Fjernede indledende H1-titel '# kammavipāka' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kappa.md:
+  - Fjernede indledende H1-titel '# kappa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+karuṇā.md:
+  - Fjernede indledende H1-titel '# karuṇā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+khandha.md:
+  - Fjernede indledende H1-titel '# khandha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kilesa.md:
+  - Fjernede indledende H1-titel '# kilesa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kāmāsava.md:
+  - Fjernede indledende H1-titel '# kāmāsava' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kāya.md:
+  - Fjernede indledende H1-titel '# kāya' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+kāyānupassanā.md:
+  - Fjernede indledende H1-titel '# kāyānupassanā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+lobha.md:
+  - Fjernede indledende H1-titel '# lobha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+loka.md:
+  - Fjernede indledende H1-titel '# loka' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+lokuttara.md:
+  - Fjernede indledende H1-titel '# lokuttara' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+loma.md:
+  - Fjernede indledende H1-titel '# loma' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+magga.md:
+  - Fjernede indledende H1-titel '# magga' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+mahā.md:
+  - Fjernede indledende H1-titel '# mahā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+manas.md:
+  - Fjernede indledende H1-titel '# manas' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+mano‑viññāṇa.md:
+  - Fjernede indledende H1-titel '# mano‑viññāṇa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+maññati.md:
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+meti.md:
+  - Fjernede indledende H1-titel '# meti' (gentagelse af filnavnet)
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+mettā.md:
+  - Fjernede indledende H1-titel '# mettā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+micchā‑diṭṭhi.md:
+  - Fjernede indledende H1-titel '# micchā‑diṭṭhi' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+moha.md:
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+mula.md:
+  - OBS: fandt H1 '# mūla' der IKKE matcher filnavnet 'mula' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+muta.md:
+  - Fjernede indledende H1-titel '# muta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nandī.md:
+  - Fjernede indledende H1-titel '# nandī' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nevasaññānāsaññāyatana.md:
+  - Fjernede indledende H1-titel '# nevasaññānāsaññāyatana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nibbāna.md:
+  - Fjernede indledende H1-titel '# nibbāna' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '### Kategori:' -> '## Kategori:'
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nidana.md:
+  - OBS: fandt H1 '# nidāna' der IKKE matcher filnavnet 'nidana' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nimitta.md:
+  - Fjernede indledende H1-titel '# nimitta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nirodha.md:
+  - Fjernede indledende H1-titel '# nirodha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nāma.md:
+  - Fjernede indledende H1-titel '# nāma' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nāma‑rūpa.md:
+  - Fjernede indledende H1-titel '# nāma‑rūpa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+nānatta.md:
+  - Fjernede indledende H1-titel '# nānatta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+pahīyati.md:
+  - Fjernede indledende H1-titel '# pahīyati' (gentagelse af filnavnet)
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+pajanana.md:
+  - OBS: fandt H1 '# pajānana' der IKKE matcher filnavnet 'pajanana' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Pajāpati.md:
+  - OBS: fandt H1 '# pajapati' der IKKE matcher filnavnet 'Pajāpati' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+papañca.md:
+  - Fjernede indledende H1-titel '# papañca' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+pariyāya.md:
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+pathavi.md:
+  - OBS: fandt H1 '# paṭhavi' der IKKE matcher filnavnet 'pathavi' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+pañcakkhandhā.md:
+  - Fjernede indledende H1-titel '# pañcakkhandhā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+paññā.md:
+  - Fjernede indledende H1-titel '# paññā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+paṭisaṅkhā yoniso.md:
+  - Fjernede indledende H1-titel '# paṭisaṅkhā yoniso' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+phassa.md:
+  - Fjernede indledende H1-titel '# phassa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+puggala.md:
+  - Fjernede indledende H1-titel '# puggala' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+puthujjana.md:
+  - Fjernede indledende H1-titel '# puthujjana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+puñña.md:
+  - Fjernede indledende H1-titel '# puñña' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Pāli–dansk-ordliste.md:
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+pīti.md:
+  - Fjernede indledende H1-titel '# pīti' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+rasa.md:
+  - Fjernede indledende H1-titel '# rasa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+rāga.md:
+  - Fjernede indledende H1-titel '# rāga' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+rūpa.md:
+  - Fjernede indledende H1-titel '# rūpa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sabba.md:
+  - Fjernede indledende H1-titel '# sabba' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sabbadhamma.md:
+  - OBS: fandt H1 '# sabbadhammā' der IKKE matcher filnavnet 'sabbadhamma' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sacca.md:
+  - Fjernede indledende H1-titel '# sacca' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+saddhā.md:
+  - Fjernede indledende H1-titel '# saddhā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sammasambuddha.md:
+  - OBS: fandt H1 '# sammāsambuddha' der IKKE matcher filnavnet 'sammasambuddha' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+samudaya.md:
+  - Fjernede indledende H1-titel '# samudaya' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sati.md:
+  - Fjernede indledende H1-titel '# sati' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+satipaṭṭhāna.md:
+  - Fjernede indledende H1-titel '# satipaṭṭhāna' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sattā.md:
+  - Fjernede indledende H1-titel '# sattā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sañjānāti.md:
+  - Fjernede indledende H1-titel '# sañjānāti' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+saññā.md:
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+saṁvara.md:
+  - Fjernede indledende H1-titel '# saṁvara' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+saṅkhata.md:
+  - Fjernede indledende H1-titel '# saṅkhata' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+saṅkhāra.md:
+  - Fjernede indledende H1-titel '# saṅkhāra' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sekkha.md:
+  - Fjernede indledende H1-titel '# sekkha' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+soka.md:
+  - Fjernede indledende H1-titel '# soka' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sotāpanna.md:
+  - Fjernede indledende H1-titel '# sotāpanna' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Stilvalg.md:
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+subhakiṇhādevā.md:
+  - OBS: fandt H1 '# subhakiṇhā devā' der IKKE matcher filnavnet 'subhakiṇhādevā' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sukha.md:
+  - Fjernede indledende H1-titel '# sukha' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+suta.md:
+  - Fjernede indledende H1-titel '# suta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sutta.md:
+  - Fjernede indledende H1-titel '# sutta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+suññatā.md:
+  - Fjernede indledende H1-titel '# suññatā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+sīla.md:
+  - Fjernede indledende H1-titel '# sīla' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+tathāgata.md:
+  - Fjernede indledende H1-titel '# tathāgata' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+taṇhā.md:
+  - Fjernede indledende H1-titel '# taṇhā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+tejo.md:
+  - Fjernede indledende H1-titel '# tejo' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+thera.md:
+  - Fjernede indledende H1-titel '# thera' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+therī.md:
+  - Fjernede indledende H1-titel '# therī' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+tissa.md:
+  - Fjernede indledende H1-titel '# tissa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ti‑lakkhaṇa.md:
+  - Fjernede indledende H1-titel '# ti‑lakkhaṇa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Untitled.md:
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+upekkhā.md:
+  - Fjernede indledende H1-titel '# upekkhā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+upādāna.md:
+  - Fjernede indledende H1-titel '# upādāna' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+upāsaka.md:
+  - Fjernede indledende H1-titel '# upāsaka' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+upāsikā.md:
+  - Fjernede indledende H1-titel '# upāsikā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vedanā.md:
+  - Fjernede indledende H1-titel '# vedanā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vedanānupassanā.md:
+  - Fjernede indledende H1-titel '# vedanānupassanā' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vehapphalādevā.md:
+  - OBS: fandt H1 '# vehapphalā devā' der IKKE matcher filnavnet 'vehapphalādevā' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vicāra.md:
+  - Fjernede indledende H1-titel '# vicāra' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+viriya.md:
+  - Fjernede indledende H1-titel '# viriya' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vitakka.md:
+  - Fjernede indledende H1-titel '# vitakka' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+viññāta.md:
+  - Fjernede indledende H1-titel '# viññāta' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+viññāṇa.md:
+  - Fjernede indledende H1-titel '# viññāṇa' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+viññāṇañcāyatana.md:
+  - Fjernede indledende H1-titel '# viññāṇañcāyatana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vossagga.md:
+  - Fjernede indledende H1-titel '# vossagga' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+vāyo.md:
+  - Fjernede indledende H1-titel '# vāyo' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Kategori' -> '## Kategori:'
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+yathā‑bhūta‑ñāṇa‑dassana.md:
+  - Fjernede indledende H1-titel '# yathā‑bhūta‑ñāṇa‑dassana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+yoniso-manasikara-en.md:
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+yoniso-manasikāra.md:
+  - OBS: fandt H1 '# yoniso manasikāra / ayoniso manasikāra' der IKKE matcher filnavnet 'yoniso-manasikāra' - lod den stå. Tjek manuelt.
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Ñāṇamoli.md:
+  - Indsatte tom overskrift for manglende felt: '## Dansk:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelser:'
+  - Indsatte tom overskrift for manglende felt: '## Kategori:'
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Indsatte tom overskrift for manglende felt: '## Forekomster:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ābhassarādevā.md:
+  - OBS: fandt H1 '# ābhassarā devā' der IKKE matcher filnavnet 'ābhassarādevā' - lod den stå. Tjek manuelt.
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+āgama.md:
+  - Fjernede indledende H1-titel '# āgama' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+āhāra.md:
+  - Fjernede indledende H1-titel '# āhāra' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ākiñcaññāyatana.md:
+  - Fjernede indledende H1-titel '# ākiñcaññāyatana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ānāpānasati.md:
+  - Fjernede indledende H1-titel '# ānāpānasati' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+āpo.md:
+  - Fjernede indledende H1-titel '# āpo' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+ārabbha‑dhātu.md:
+  - Fjernede indledende H1-titel '# ārabbha‑dhātu' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+āsava - Kopi.md:
+  - OBS: fandt H1 '# āsava' der IKKE matcher filnavnet 'āsava - Kopi' - lod den stå. Tjek manuelt.
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+āsava.md:
+  - Fjernede indledende H1-titel '# āsava' (gentagelse af filnavnet)
+  - Omdøbte overskrift '## Etymologi' -> '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Kommentar:'
+  - Indsatte tom overskrift for manglende felt: '## Kilder:'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+āyatana.md:
+  - Fjernede indledende H1-titel '# āyatana' (gentagelse af filnavnet)
+  - Konverterede løs 'Dansk:'-linje til '## Dansk:'-overskrift
+  - Udtrak løst 'Engelsk:'-felt til fletning i Oversættelser
+  - Konverterede løs 'Kategori:'-linje til '## Kategori:'-overskrift
+  - Omdøbte overskrift '## Kommentar' -> '## Kommentar:'
+  - Omdøbte overskrift '## Kilder' -> '## Kilder:'
+  - Omdøbte overskrift '## Forekomster' -> '## Forekomster:'
+  - Oprettede ny Oversættelser-sektion for 'Engelsk:'-indholdet
+  - Indsatte tom overskrift for manglende felt: '## Etymologi:'
+  - Indsatte tom overskrift for manglende felt: '## Oversættelsesproblematik'
+  - Indsatte tom overskrift for manglende felt: '## Kort definition til brug i løbende tekst'
+  - Tilføjede '# Status: Under udarbejdelse' øverst
+  - Tilføjede '## Senest redigeret:' øverst
+
+Filer ændret: 165 af 165

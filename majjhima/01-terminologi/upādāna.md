@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# upādāna
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 **Dansk:** klamren (aktiv) / binding (tilstand)
 **Engelsk:** clinging / attachment (Bodhi), grasping (Sujato), clinging (Thanissaro), tilknytning (Lie)
 **Kategori:** årsagslære / bindinger / betinget tilblivelse 
 
-## Etymologi
+## Dansk:
+
+## Oversættelser:
+
+## Kategori:
+
+## Etymologi:
 *Upa + ādāna* – "det at tage fat, gribe, holde fast". Samme rod som brændstof der holder ilden i gang. Grundlæggende aktivt og gribende.
 
-## Kommentar
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et led i den afhængige oprindelse. Fire typer: sanselighed, synspunkter, ritualer og forestillingen om et selv – på pali: *kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, attavādupādāna*.
 
 Upādāna oversættes bevidst med to danske ord afhængigt af kontekst:
@@ -29,10 +41,10 @@ I [[MN1]] lader Buddha i stedet udviklingen fra **abhinandati** (den umiddelbare
 
 Suttaen analyserer dermed selve den psykologiske mekanisme, der fører til klamren, uden at anvende det tekniske ord _upādāna_.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Lie
 
-## Forekomster
+## Forekomster:
 - [[SN 12.2 – Paṭiccasamuppāda-vibhaṅga Sutta]]    
 - [[SN 12.52 – Upādāna Sutta]]    
 - [[MN 9 – Sammādiṭṭhi Sutta]]    

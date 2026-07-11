@@ -2,12 +2,24 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 # pajapati
-Dansk: Pajāpati
-Engelsk: Pajāpati #Bodhi , Progenitor #Sujato 
+## Dansk:
+Pajāpati
+## Oversættelser:
+- Engelsk (samlet): Pajāpati #Bodhi , Progenitor #Sujato
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Kategori af væsener
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Egennavn. skabergud i brahmansk tradition; i buddhismen et højt væsen, men ikke en absolut skaber.
 ## Pajāpati
 
@@ -47,5 +59,7 @@ MN01 viser dermed, at **intet** — selv ikke en skabergud — ligger uden for d
 - **Pajāpati** (ikke oversat, da det er en titel/egennavn)    
 - Evt. note: _“skabergud i brahmansk tradition; i buddhismen et højt væsen, men ikke en absolut skaber”_
 
-## Forekomster
+## Kilder:
+
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

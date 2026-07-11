@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# mano‑viññāṇa
-Dansk: sindbevidsthed
-Engelsk: mind consciousness (Bodhi), mind consciousness (Sujato), intellect consciousness (Thanissaro), sinnbevissthet (Lie)
-Kategori: bevidsthed
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+sindbevidsthed
+## Oversættelser:
+- Engelsk (samlet): mind consciousness (Bodhi), mind consciousness (Sujato), intellect consciousness (Thanissaro), sinnbevissthet (Lie)
+
+## Kategori:
+bevidsthed
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bevidsthed knyttet til mentale objekter (dhamma).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

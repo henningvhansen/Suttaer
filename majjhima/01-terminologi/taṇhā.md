@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# taṇhā
-Dansk: begær
-Engelsk: craving (Bodhi), craving (Sujato), craving (Thanissaro), begjær (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+begær
+## Oversættelser:
+- Engelsk (samlet): craving (Bodhi), craving (Sujato), craving (Thanissaro), begjær (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de mest centrale årsager til lidelse ifølge de fire ædle sandheder. Omfatter sanselig længsel, længsel efter tilblivelse og længsel efter ikke‑tilblivelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

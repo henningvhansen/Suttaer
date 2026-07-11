@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# dukkha
-Dansk: lidelse
-Engelsk: suffering (Bodhi), suffering (Sujato), stress (Thanissaro), lidelse (Lie)
-Kategori: de tre kendetegn
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+lidelse
+## Oversættelser:
+- Engelsk (samlet): suffering (Bodhi), suffering (Sujato), stress (Thanissaro), lidelse (Lie)
+
+## Kategori:
+de tre kendetegn
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et centralt begreb i buddhismen, der spænder fra almindelig utilfredshed til eksistentiel lidelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

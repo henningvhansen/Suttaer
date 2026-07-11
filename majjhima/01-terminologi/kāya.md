@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# kāya
-Dansk: krop
-Engelsk: body (Bodhi), body (Sujato), body (Thanissaro), kropp (Lie)
-Kategori: sanser
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+krop
+## Oversættelser:
+- Engelsk (samlet): body (Bodhi), body (Sujato), body (Thanissaro), kropp (Lie)
+
+## Kategori:
+sanser
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Kan betyde både fysisk krop og “gruppe” i visse kontekster.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

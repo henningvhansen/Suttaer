@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# hiri
-Dansk: skamfølelse (moralsk)
-Engelsk: conscience (Bodhi), conscience (Sujato), sense of shame (Thanissaro), skamfølelse (Lie)
-Kategori: etik
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+skamfølelse (moralsk)
+## Oversættelser:
+- Engelsk (samlet): conscience (Bodhi), conscience (Sujato), sense of shame (Thanissaro), skamfølelse (Lie)
+
+## Kategori:
+etik
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de to “indre vogtere” (hiri‑ottappa).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

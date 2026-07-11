@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# kammavipāka
-Dansk: karmisk resultat
-Engelsk: result of action (Bodhi), result of action (Sujato), result of action (Thanissaro), karmisk frukt (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+karmisk resultat
+## Oversættelser:
+- Engelsk (samlet): result of action (Bodhi), result of action (Sujato), result of action (Thanissaro), karmisk frukt (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Resultatet af tidligere intentionelle handlinger.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

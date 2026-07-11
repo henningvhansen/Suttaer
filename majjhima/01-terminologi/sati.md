@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# sati
-Dansk: opmærksomhed
-Engelsk: mindfulness (Bodhi), mindfulness (Sujato), mindfulness (Thanissaro), oppmerksomhet (Lie)
-Kategori: satipaṭṭhāna
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+opmærksomhed
+## Oversættelser:
+- Engelsk (samlet): mindfulness (Bodhi), mindfulness (Sujato), mindfulness (Thanissaro), oppmerksomhet (Lie)
+
+## Kategori:
+satipaṭṭhāna
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Grundbegreb i meditation. Betyder ikke blot opmærksomhed, men også hukommelse og tilstedeværelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

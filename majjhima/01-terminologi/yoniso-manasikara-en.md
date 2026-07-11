@@ -2,6 +2,9 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 For your information, this whole discussion — for which I humbly thank all of you for your input — has, with the help of AI, resulted in the concept note below, for use in my further work. I wanted to share it back as a small token of thanks for a genuinely illuminating exchange.
 
 ---
@@ -80,3 +83,21 @@ This note went through an extended clarification process in connection with the 
 Sujato writes: “Rational application of mind” (*yoniso manasikāra*) is a distinctively Buddhist term. It draws on the frequent Vedic image of the “womb of truth” (*yonāv ṛtasya*, Rig Veda 9.13.9), the source of the laws and patterns that govern the natural order. The idea is that by applying the mind by way of cause or reason the hidden truth can be uncovered. Here the meditator's insight is framed not as uncovering the objective truth about the world, but as reflexively understanding the means of insight itself.
 
 This reading was the starting point for the initial work on the concept, but has since been considerably nuanced through the discussion referenced above under “Translation problem.” The etymological connection to *yoni* as “source” remains interesting background knowledge, but should not in itself carry the weight of the translation choice.
+
+## Dansk:
+
+## Oversættelser:
+
+## Kategori:
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
+
+## Forekomster:

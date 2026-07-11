@@ -2,13 +2,14 @@
 layout: page
 type: begreb
 ---
-# pahīyati
+# Status: Under udarbejdelse
+## Senest redigeret:
 
 ## Dansk:
 Standses (med instrumentalled) / opgives (uden instrumentalled).
 
 ## Oversættelser:
-- [[../../../../../majjhima/01-terminologi/bodhi]]: abandoned.
+- [[bodhi]]: abandoned.
 - [[Sujato]]: given up.
 - [[Thanissaro]]: 
 - [[Lie]]: fjernes.
@@ -16,7 +17,7 @@ Standses (med instrumentalled) / opgives (uden instrumentalled).
 - Traditionel gengivelse hos flere oversættere: "is abandoned" / "ceases"
 
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]
+[[../00-moc/Begreber-MOC]]
 
 ## Definition
 **Pahīyati** er passiv 3. person ental af _pajahati_ (_pa- + √hā_, "at opgive, forlade, slippe"), og betegner det ophør, der indtræder, når en gæring (_āsava_), en lænke (_saṁyojana_) eller en anden uheldig mental tilstand ikke længere vedligeholdes. Ordet er beslægtet med gerundivet _pahātabbā_ ("bør standses/opgives"), som bruges i overskriftsformlen for hver af MN2's syv metoder (_āsavā ... pahātabbā_).
@@ -40,6 +41,16 @@ Samme betragtning gælder den beslægtede aktive form _pajahati_, når den bruge
 
 ## Tekstlig kontekst
 I **MN2** afgør denne regel oversættelsen syv gange i overskriftsformlen (_pahātabbā_ → "standses ved") samt i den afsluttende opsamlingssætning, mens den løsere brug af *pahīyati* i afsnit 1 (om selve gæringernes og lænkernes ophør, uden instrumentalled) og *pajahati* i afsnit 6 (om den enkelte tankes fjernelse) forbliver "opgives".
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
 
 ## Forekomster:
 - [[majjhima/02-suttaer/MN02]]

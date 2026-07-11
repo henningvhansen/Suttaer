@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# dhamma
-Dansk: fænomen; lære; tilstand
-Engelsk: phenomenon/teaching #Bodhi, teaching #Sujato principle #Thanissaro lære #Lie
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+fænomen; lære; tilstand
+## Oversættelser:
+- Engelsk (samlet): phenomenon/teaching #Bodhi, teaching #Sujato principle #Thanissaro lære #Lie
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et af de mest flertydige ord i Pāli. Kan betyde både fænomener, mentale objekter, Buddhas lære og lovmæssigheder.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

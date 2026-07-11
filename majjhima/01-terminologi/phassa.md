@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# phassa
-Dansk: kontakt
-Engelsk: contact (Bodhi), contact (Sujato), contact (Thanissaro), kontakt (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+kontakt
+## Oversættelser:
+- Engelsk (samlet): contact (Bodhi), contact (Sujato), contact (Thanissaro), kontakt (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Opstår når sans, objekt og bevidsthed mødes.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

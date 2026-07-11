@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# ti‑lakkhaṇa
-Dansk: de tre kendetegn
-Engelsk: three marks (Bodhi), three marks (Sujato), three characteristics (Thanissaro), tre kjennetegn (Lie)
-Kategori: de tre kendetegn
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+de tre kendetegn
+## Oversættelser:
+- Engelsk (samlet): three marks (Bodhi), three marks (Sujato), three characteristics (Thanissaro), tre kjennetegn (Lie)
+
+## Kategori:
+de tre kendetegn
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De tre universelle karakteristika: anicca, dukkha og anattā.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

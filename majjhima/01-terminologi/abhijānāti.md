@@ -2,6 +2,9 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ## Dansk:
 
 At erkende klart; at forstå direkte; at indse uden at glide over i konceptualisering.
@@ -9,18 +12,22 @@ At erkende klart; at forstå direkte; at indse uden at glide over i konceptualis
 ## Oversættelser:
 
 - **[[Sujato]]**: _understands; directly knows_    
-- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _understands; comprehends_    
-- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _understands_    
+- **[[Bodhi]]**: _understands; comprehends_    
+- **[[Ñāṇamoli]]**: _understands_    
 - **[[Lie]]**: _forstår; innser_
-- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _abhijānāti_ (uoversat)    
+- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _abhijānāti_ (uoversat)    
 ## Kategori:
 
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
+[[../00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
 ## Etymologi:
 
 - Rod: **√jñā** — “at vide, erkende”    
 - Præfiks: **abhi‑** — “hen imod; direkte; overfor”    
 - _abhijānāti_ → “han erkender direkte; han forstår klart”    
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
 
 ## Kommentar:
 

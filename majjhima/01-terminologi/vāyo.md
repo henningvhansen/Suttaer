@@ -2,21 +2,30 @@
 layout: page
 type: begreb
 ---
-# vāyo
+# Status: Under udarbejdelse
+## Senest redigeret:
 
 ## Dansk: Luft, vind
 
-## Oversættelser: 
-- [[../../../../../majjhima/01-terminologi/bodhi]]: Air
+## Dansk:
+
+## Oversættelser:
+- [[bodhi]]: Air
 - [[Sujato]]: Air
 - [[Suddhāso]]: Wind 
 - [[Anālayo]]: Wind
-## Kategori
+## Kategori:
 Element
-## Kommentar
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Luftelementet; bevægelses-, tryk- og vibrationsprincippet.
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Horner #Suddhaso
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

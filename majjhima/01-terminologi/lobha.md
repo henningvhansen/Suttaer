@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# lobha
-Dansk: begær
-Engelsk: greed (Bodhi), greed (Sujato), greed (Thanissaro), begjær (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+begær
+## Oversættelser:
+- Engelsk (samlet): greed (Bodhi), greed (Sujato), greed (Thanissaro), begjær (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de tre grundlæggende urenheder (lobha, dosa, moha).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

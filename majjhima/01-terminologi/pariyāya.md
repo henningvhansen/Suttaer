@@ -2,7 +2,10 @@
 layout: page 
 type: begreb
 ---
-Dansk:
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
 Fremgangsmåden / Metode / Perspektiv / Præsentationsform
 
 Oversættelser:
@@ -12,7 +15,9 @@ Bodhi: Sequence / Core / Systematias (oftest: "Discourse" eller "Exposition" alt
 Lie: Fremgangsmåde / Undervisningsmetode
 [Oversættere](../../00-moc/Oversættere_MOC.md) > Chattha Sangayana Tipitaka 4.1 (CST): pariyāya
 
-Kategori:
+## Oversættelser:
+
+## Kategori:
 [Begreber](../../00-moc/Begreber-MOC.md)
 
 Etymologi:
@@ -29,3 +34,15 @@ Pali Text Society (PTS) Dictionary, Bhikkhu Bodhis noter til Majjhima Nikāya.
 
 Forekomster:
 [MN01](../02-suttaer/MN01.md)
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
+
+## Forekomster:

@@ -2,19 +2,22 @@
 layout: page
 type: begreb
 ---
-# saṁvara
+# Status: Under udarbejdelse
+## Senest redigeret:
 
 ## Dansk:
 Tilbageholdenhed.
 ## Oversættelser (MN2):
-- [[../../../../../majjhima/01-terminologi/bodhi]]: Restraint.
+- [[bodhi]]: Restraint.
 - [[Sujato]]: Restraint.
-- [[../../../../../majjhima/01-terminologi/Ñāṇamoli]]: Restraint.
+- [[Ñāṇamoli]]: Restraint.
+## Oversættelser:
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]
+[[../00-moc/Begreber-MOC]]
 ## Definition
 **Saṁvara** betegner en bevidst **tilbageholdenhed eller lukning**, der forhindrer, at kontakten med et sanseobjekt udvikler sig til uro og begær. I MN2 er det specifikt **indriya-saṁvara** — tilbageholdenhed udøvet ved sanseindtrykets første kontakt, så reaktiv proces ikke får fodfæste - i forhold til de seks sanseevner (øje, øre, næse, tunge, krop, sind) — der er på spil: ikke en fysisk lukning af sanserne (at lukke øjnene), men en bestemt *måde* at forholde sig til det sansede på, som forhindrer, at kontakten fører videre til uro, sådan som en ikke-tilbageholdenhed typisk vil gøre.
-## Etymologi
+## Etymologi:
 _Saṁvara_ er dannet af _saṁ-_ ("sammen, fuldt ud") + roden _√vṛ_ ("at dække, tilbageholde, afværge, lukke til"). Grundbetydningen er "at holde noget tilbage/lukke noget til" — beslægtet med ord som _vṛti_ ("hegn, indhegning") og _āvaraṇa_ ("tilsløring, hindring", jf. de fem hindringer). Billedet er nærmest et dige eller en spærring, der forhindrer noget i at strømme ud eller ind.
 
 Der er her en fin, utilsigtet sammenhæng med den danske gengivelse af _āsava_ som "gæringer": hvis gæringer er det, der "bobler op," er _saṁvara_ bogstaveligt talt det, der **dæmmer op** for denne bevægelse. Det er ikke en påstand om ordets betydning (ligesom med *yoniso*-diskussionen bør etymologisk resonans ikke overfortolkes), men en bemærkning, der kan være nyttig at holde sig for øje i selve oversættelsen.
@@ -41,5 +44,7 @@ I **MN2** er _saṁvara_ den anden af de syv metoder til at opgive gæringer, og
 > _Saṁvara_ betegner en bevidst tilbageholdenhed, der forhindrer, at kontakten med et sanseobjekt udvikler sig til uro og begær eller videre kognitiv reaktion. I MN2 anvendes ordet både som titel for suttaens samlede metode og som teknisk betegnelse for tilbageholdenhed af de seks sanseevner specifikt.
 ## Kommentar:
 Bodhi bemærker (i sin note til MN2), at de syv metoder falder i to grupper: to, der **eliminerer** gæringer direkte (ved indsigt og ved udvikling), og fem, der **forebygger** dem ved tilbageholdenhed i bred forstand (heriblandt _saṁvara_ selv, samt brug, udholdenhed, undgåelse og fjernelse). _Saṁvara_ er dermed den første og mest grundlæggende af de fem forebyggende metoder — den, der retter sig mod selve sanseindtrykkets øjeblik, før nogen reaktion når at forme sig.
+## Kilder:
+
 ## Forekomster:
 - [[majjhima/02-suttaer/MN02]]

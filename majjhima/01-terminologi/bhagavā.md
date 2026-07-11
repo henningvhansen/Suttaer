@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# bhagavā
-Dansk: Den velsignede
-Engelsk: The Buddha #Sujato, The Blessed One #Bodhi #Suddhāso, The Lord #Horner 
-## Kategori: 
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
-## Kommentar
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kilder
+## Dansk:
+Den velsignede
+## Oversættelser:
+- Engelsk (samlet): The Buddha #Sujato, The Blessed One #Bodhi #Suddhāso, The Lord #Horner
+
+## Kategori:
+[[../00-moc/Begreber-MOC]]: Kategori af væsener
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
 #Bodhi #Sujato #Horner #Suddhaso
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

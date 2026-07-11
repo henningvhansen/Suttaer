@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# rāga
-Dansk: begær; lyst
-Engelsk: greed/lust (Bodhi), desire (Sujato), passion (Thanissaro), begjær (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+begær; lyst
+## Oversættelser:
+- Engelsk (samlet): greed/lust (Bodhi), desire (Sujato), passion (Thanissaro), begjær (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de tre grundlæggende urenheder (lobha/rāga, dosa, moha).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

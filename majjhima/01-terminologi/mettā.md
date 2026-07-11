@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# mettā
-Dansk: kærlig‑venlighed
-Engelsk: loving‑kindness (Bodhi), love (Sujato), goodwill (Thanissaro), kjærlighet (Lie)
-Kategori: brahmavihāra
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+kærlig‑venlighed
+## Oversættelser:
+- Engelsk (samlet): loving‑kindness (Bodhi), love (Sujato), goodwill (Thanissaro), kjærlighet (Lie)
+
+## Kategori:
+brahmavihāra
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de fire sublime tilstande; central i både samatha og etik.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

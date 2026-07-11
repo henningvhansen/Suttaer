@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# gati
-Dansk: destination; tilstand
-Engelsk: destiny (Bodhi), rebirth destination (Sujato), course (Thanissaro), skjebne (Lie)
-Kategori: kosmologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+destination; tilstand
+## Oversættelser:
+- Engelsk (samlet): destiny (Bodhi), rebirth destination (Sujato), course (Thanissaro), skjebne (Lie)
+
+## Kategori:
+kosmologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges om de forskellige eksistensområder i samsara.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

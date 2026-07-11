@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# sutta
-Dansk: diskurs
-Engelsk: discourse (Bodhi), discourse (Sujato), discourse (Thanissaro), sutra (Lie)
-Kategori: teksttyper
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+diskurs
+## Oversættelser:
+- Engelsk (samlet): discourse (Bodhi), discourse (Sujato), discourse (Thanissaro), sutra (Lie)
+
+## Kategori:
+teksttyper
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Henviser til Buddhas taler i Sutta‑piṭaka.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

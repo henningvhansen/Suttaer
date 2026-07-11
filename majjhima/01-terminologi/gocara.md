@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# gocara
-Dansk: område; domæne
-Engelsk: range (Bodhi), domain (Sujato), range (Thanissaro), område (Lie)
-Kategori: praksis
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+område; domæne
+## Oversættelser:
+- Engelsk (samlet): range (Bodhi), domain (Sujato), range (Thanissaro), område (Lie)
+
+## Kategori:
+praksis
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges om sindets “bevægeområde” eller passende meditationsobjekter.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

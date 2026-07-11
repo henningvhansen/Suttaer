@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# sabba
-Dansk: Alt, altet
-Engelsk: all
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Alt, altet
+## Oversættelser:
+- Engelsk (samlet): all
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: 
-## Kommentar
+[[../00-moc/Begreber-MOC]]: 
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Totaliteten af det, der kan erfares eller tænkes som “alt”.
-## Kilder
+## Kilder:
 
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

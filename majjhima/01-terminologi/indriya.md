@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# indriya
-Dansk: fakultet; evne
-Engelsk: faculty (Bodhi), faculty (Sujato), faculty (Thanissaro), evne (Lie)
-Kategori: mentale faktorer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+fakultet; evne
+## Oversættelser:
+- Engelsk (samlet): faculty (Bodhi), faculty (Sujato), faculty (Thanissaro), evne (Lie)
+
+## Kategori:
+mentale faktorer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De fem åndelige fakulteter er centrale i praksis.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

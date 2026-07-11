@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# iriyāpatha
-Dansk: kropsstilling
-Engelsk: posture (Bodhi), posture (Sujato), posture (Thanissaro), kroppsstilling (Lie)
-Kategori: praksis
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+kropsstilling
+## Oversættelser:
+- Engelsk (samlet): posture (Bodhi), posture (Sujato), posture (Thanissaro), kroppsstilling (Lie)
+
+## Kategori:
+praksis
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De fire kropsstillinger: gående, stående, siddende, liggende.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

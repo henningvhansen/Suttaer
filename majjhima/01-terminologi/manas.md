@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# manas
-Dansk: sind; tanke
-Engelsk: mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+sind; tanke
+## Oversættelser:
+- Engelsk (samlet): mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Relateret til citta og viññāṇa; bruges ofte om den konceptuelle tænkeevne.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

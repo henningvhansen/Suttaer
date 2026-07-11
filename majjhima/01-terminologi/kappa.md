@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# kappa
-Dansk: tidsalder
-Engelsk: aeon (Bodhi), eon (Sujato), aeon (Thanissaro), tidsalder (Lie)
-Kategori: kosmologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+tidsalder
+## Oversættelser:
+- Engelsk (samlet): aeon (Bodhi), eon (Sujato), aeon (Thanissaro), tidsalder (Lie)
+
+## Kategori:
+kosmologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En meget lang tidsperiode i buddhistisk kosmologi.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

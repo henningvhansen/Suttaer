@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# ākiñcaññāyatana
-Dansk: sfæren for intethed, intethetens plan #Lie 
-Engelsk: the base of nothingness #Bodhi, the dimension of nothingness #Sujato 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+sfæren for intethed, intethetens plan #Lie
+## Oversættelser:
+- Engelsk (samlet): the base of nothingness #Bodhi, the dimension of nothingness #Sujato
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sfære
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Sfære
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Den tredje immaterielle sfære; intethed som meditationsobjekt.
-## Kilder
+## Kilder:
 #Perplexity 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

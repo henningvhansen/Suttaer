@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# Brahmā
-Dansk: Brahmā
-Engelsk: Brahmā #Bodhi, Divinity #Sujato 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Brahmā
+## Oversættelser:
+- Engelsk (samlet): Brahmā #Bodhi, Divinity #Sujato
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Kategori af væsener
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Den / de højeste guder i brahmaverdenen, knyttet til sublim ro og kosmisk overhøjhed.
-## Kilder
+## Kilder:
 #Gemini: 
 ### 1. Brahmā som en klasse af guder (Brahmā-verdenen)
 
@@ -29,6 +40,6 @@ Selvom en Brahmā lever i milliarder af år, stråler af lys og har ufattelig st
 > En Brahmā er ikke udødelig. Når hans gode karma slipper op, vil han dø fra den høje himmel og blive genfødt et andet sted – i værste fald som et almindeligt menneske eller et dyr, hvis hans gamle, negative karma modnes.
 
 Den absolut højeste status i buddhismen tilhører derfor ikke guderne, men en **Buddha** eller en **Arahant** (en oplyst), fordi de har brudt ud af kredsløbet og opnået Nirvana, hvilket guderne i Brahmā-verdenen endnu ikke har.
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]
 - [[DN1]] Brahmajālasutta, The All-embracing Net of Views

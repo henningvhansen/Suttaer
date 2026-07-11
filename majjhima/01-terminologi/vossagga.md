@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# vossagga
-Dansk: opgivelse; slippen
-Engelsk: relinquishment (Bodhi), letting go (Sujato), release (Thanissaro), oppgivelse (Lie)
-Kategori: indsigt
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+opgivelse; slippen
+## Oversættelser:
+- Engelsk (samlet): relinquishment (Bodhi), letting go (Sujato), release (Thanissaro), oppgivelse (Lie)
+
+## Kategori:
+indsigt
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges både i indsigtstræning og som en af opvågningsfaktorerne (vossagga‑bojjhaṅga).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

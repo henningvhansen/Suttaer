@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# sattā
-Dansk: Væsener
-Engelsk: creatures #Sujato, beings #Bodhi 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Væsener
+## Oversættelser:
+- Engelsk (samlet): creatures #Sujato, beings #Bodhi
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Kategori af væsener
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Henviser til levende væsener.
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Horner #Suddhaso
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

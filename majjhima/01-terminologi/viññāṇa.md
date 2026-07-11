@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# viññāṇa
-Dansk: bevidsthed
-Engelsk: consciousness (Bodhi), consciousness (Sujato), consciousness (Thanissaro), bevissthet (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+bevidsthed
+## Oversættelser:
+- Engelsk (samlet): consciousness (Bodhi), consciousness (Sujato), consciousness (Thanissaro), bevissthet (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et af de fem aggregater og et led i den afhængige oprindelse. Bevidsthed opstår i afhængighed af sans og objekt.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

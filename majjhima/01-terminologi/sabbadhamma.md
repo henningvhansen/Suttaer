@@ -2,16 +2,29 @@
 layout: page
 type: begreb
 ---
-# sabbadhammā
-Dansk: alle ting; alle fænomener
-Engelsk: all phenomena; all things
-Kategori: ontologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+# sabbadhammā
+## Dansk:
+alle ting; alle fænomener
+## Oversættelser:
+- Engelsk (samlet): all phenomena; all things
+
+## Kategori:
+ontologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Kan betyde både mentale og fysiske fænomener. Kontekstafhængigt.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

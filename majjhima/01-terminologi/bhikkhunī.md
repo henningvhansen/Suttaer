@@ -2,18 +2,30 @@
 layout: page
 type: begreb
 ---
-# bhikkhunī
-Dansk: nonne
-Engelsk: nun (Bodhi), nun (Sujato), nun (Thanissaro), nonne (Lie)
-Kategori: personkategorier
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+nonne
+## Oversættelser:
+- Engelsk (samlet): nun (Bodhi), nun (Sujato), nun (Thanissaro), nonne (Lie)
+
+## Kategori:
+personkategorier
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Kvinde, der har modtaget fuld ordination.
 
-## Kategori
-[[../../../../../majjhima/00-moc/Begreber-MOC#Personkategorier]].
+## Kategori:
+[[../00-moc/Begreber-MOC#Personkategorier]].
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

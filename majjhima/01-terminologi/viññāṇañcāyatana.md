@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# viññāṇañcāyatana
-Dansk: sfæren for uendelig bevidsthed, den uendelige bevissthets plan #Lie 
-Engelsk: the base of infinite consciousness #Bodhi, the dimension of infinite consciousness #Sujato 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+sfæren for uendelig bevidsthed, den uendelige bevissthets plan #Lie
+## Oversættelser:
+- Engelsk (samlet): the base of infinite consciousness #Bodhi, the dimension of infinite consciousness #Sujato
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sfære
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Sfære
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Den anden immaterielle sfære; den grænseløse bevidsthed som meditationsobjekt.
-## Kilder
+## Kilder:
 #Perplexity 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

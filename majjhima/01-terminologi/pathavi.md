@@ -2,14 +2,26 @@
 layout: page
 type: begreb
 ---
-# paṭhavi
-Dansk: jord
-Engelsk: earth
-## Kategori: 
-element
-## Kommentar
-Jordelementet; det faste, bærende og udstrakte element.
-## Kilder
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Forekomster
+# paṭhavi
+## Dansk:
+jord
+## Oversættelser:
+- Engelsk (samlet): earth
+
+## Kategori:
+element
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+Jordelementet; det faste, bærende og udstrakte element.
+## Kilder:
+
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

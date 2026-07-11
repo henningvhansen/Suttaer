@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# citta
-Dansk: sind
-Engelsk: mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie),  heart mind (Sujato)
-Kategori: mentale faktorer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+sind
+## Oversættelser:
+- Engelsk (samlet): mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie),  heart mind (Sujato)
+
+## Kategori:
+mentale faktorer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Grundlæggende term for sindet i buddhistisk psykologi.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

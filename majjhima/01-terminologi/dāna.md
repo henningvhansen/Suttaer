@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# dāna
-Dansk: gavmildhed
-Engelsk: generosity (Bodhi), generosity (Sujato), giving (Thanissaro), gavmildhet (Lie)
-Kategori: etik
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+gavmildhed
+## Oversættelser:
+- Engelsk (samlet): generosity (Bodhi), generosity (Sujato), giving (Thanissaro), gavmildhet (Lie)
+
+## Kategori:
+etik
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de grundlæggende buddhistiske dyder og en vigtig del af lægpraksis.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

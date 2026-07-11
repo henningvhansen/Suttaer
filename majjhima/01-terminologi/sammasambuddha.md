@@ -2,17 +2,30 @@
 layout: page
 type: begreb
 ---
-# sammāsambuddha
-Dansk: fuldt oplyst; fuldkommen oplyst; helt opvågen
-Engelsk: fully awakened; perfectly awakened
-Kategori: titel, status
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+# sammāsambuddha
+## Dansk:
+fuldt oplyst; fuldkommen oplyst; helt opvågen
+## Oversættelser:
+- Engelsk (samlet): fully awakened; perfectly awakened
+
+## Kategori:
+titel, status
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges om Buddha efter oplysningen. Betoner både fuldstændighed og korrekthed i opvågningen.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Horner #Suddhaso
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]
 

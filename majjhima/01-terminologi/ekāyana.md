@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# ekāyana
-Dansk: én vej
-Engelsk: one way (Bodhi), one way (Sujato), one‑way (Thanissaro), én vei (Lie)
-Kategori: praksis
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+én vej
+## Oversættelser:
+- Engelsk (samlet): one way (Bodhi), one way (Sujato), one‑way (Thanissaro), én vei (Lie)
+
+## Kategori:
+praksis
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges bl.a. i Satipaṭṭhāna‑suttaen om den “eneste vej” til oplysning.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

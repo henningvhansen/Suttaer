@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# hoti
-Dansk: er; bliver
-Engelsk: is (Bodhi), is (Sujato), is (Thanissaro), er (Lie)
-Kategori: grammatik
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+er; bliver
+## Oversættelser:
+- Engelsk (samlet): is (Bodhi), is (Sujato), is (Thanissaro), er (Lie)
+
+## Kategori:
+grammatik
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Hyppigt forekommende kopulaverbum i Pāli.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

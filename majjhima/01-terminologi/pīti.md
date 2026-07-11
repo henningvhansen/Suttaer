@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# pīti
-Dansk: henrykkelse
-Engelsk: rapture (Bodhi), rapture (Sujato), rapture (Thanissaro), fryd (Lie)
-Kategori: meditation
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+henrykkelse
+## Oversættelser:
+- Engelsk (samlet): rapture (Bodhi), rapture (Sujato), rapture (Thanissaro), fryd (Lie)
+
+## Kategori:
+meditation
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af jhāna‑faktorerne; en energisk glæde, der opstår i fordybelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

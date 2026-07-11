@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# āpo
-Dansk: Vand
-Engelsk: Water
-## Kategori: 
-Element
-## Kommentar
-Vandelementet; Det sammenhængende, flydende og kohæsive element.
-## Kilder
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Forekomster
+## Dansk:
+Vand
+## Oversættelser:
+- Engelsk (samlet): Water
+
+## Kategori:
+Element
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+Vandelementet; Det sammenhængende, flydende og kohæsive element.
+## Kilder:
+
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# loka
-Dansk: verden
-Engelsk: world (Bodhi), world (Sujato), world (Thanissaro), verden (Lie)
-Kategori: kosmologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+verden
+## Oversættelser:
+- Engelsk (samlet): world (Bodhi), world (Sujato), world (Thanissaro), verden (Lie)
+
+## Kategori:
+kosmologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Kan betyde både fysisk verden og den oplevede verden.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

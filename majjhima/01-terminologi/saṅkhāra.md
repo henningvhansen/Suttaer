@@ -2,12 +2,24 @@
 layout: page
 type: begreb
 ---
-# saṅkhāra
-Dansk: formationer; viljesdannelser
-Engelsk: volitional formations (Bodhi), choices (Sujato), fabrications (Thanissaro), viljesdannelser (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+formationer; viljesdannelser
+## Oversættelser:
+- Engelsk (samlet): volitional formations (Bodhi), choices (Sujato), fabrications (Thanissaro), viljesdannelser (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et af de mest komplekse begreber i Pāli. Kan betyde:
 - mentale formationer
 - viljesimpulser
@@ -15,7 +27,7 @@ Et af de mest komplekse begreber i Pāli. Kan betyde:
 
 Indgår både som et aggregat og som et led i den afhængige oprindelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

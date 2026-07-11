@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# karuṇā
-Dansk: medfølelse
-Engelsk: compassion (Bodhi), compassion (Sujato), compassion (Thanissaro), medfølelse (Lie)
-Kategori: brahmavihāra
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+medfølelse
+## Oversættelser:
+- Engelsk (samlet): compassion (Bodhi), compassion (Sujato), compassion (Thanissaro), medfølelse (Lie)
+
+## Kategori:
+brahmavihāra
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de fire sublime tilstande (brahmavihāra).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# jīvitindriya
-Dansk: livsfakultet
-Engelsk: life faculty (Bodhi), life faculty (Sujato), life faculty (Thanissaro), livskraft (Lie)
-Kategori: mentale faktorer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+livsfakultet
+## Oversættelser:
+- Engelsk (samlet): life faculty (Bodhi), life faculty (Sujato), life faculty (Thanissaro), livskraft (Lie)
+
+## Kategori:
+mentale faktorer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Det mentale og fysiske princip, der opretholder livet.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

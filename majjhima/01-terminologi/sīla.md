@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# sīla
-Dansk: moral
-Engelsk: ethics (Bodhi), ethics (Sujato), virtue (Thanissaro), moral (Lie)
-Kategori: etik
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+moral
+## Oversættelser:
+- Engelsk (samlet): ethics (Bodhi), ethics (Sujato), virtue (Thanissaro), moral (Lie)
+
+## Kategori:
+etik
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et af de tre træningsområder (sīla, samādhi, paññā). Omfatter de fem forskrifter og generel etisk disciplin.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

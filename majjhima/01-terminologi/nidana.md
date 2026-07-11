@@ -2,16 +2,29 @@
 layout: page
 type: begreb
 ---
-# nidāna
-Dansk: årsag; oprindelse; betingelse
-Engelsk: cause; origin; source
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+# nidāna
+## Dansk:
+årsag; oprindelse; betingelse
+## Oversættelser:
+- Engelsk (samlet): cause; origin; source
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Ikke det samme som de tolv nidāna’er i betinget tilblivelse, men beslægtet.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# viriya
-Dansk: energi; flid
-Engelsk: energy (Bodhi), energy (Sujato), persistence (Thanissaro), energi (Lie)
-Kategori: mentale faktorer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+energi; flid
+## Oversættelser:
+- Engelsk (samlet): energy (Bodhi), energy (Sujato), persistence (Thanissaro), energi (Lie)
+
+## Kategori:
+mentale faktorer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de fem åndelige fakulteter og en af de syv opvågningsfaktorer.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

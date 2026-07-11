@@ -2,7 +2,9 @@
 layout: page
 type: begreb
 ---
-# meti
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ## Dansk:
 Negationspartikel; bruges til at understrege “ikke således”, “ikke på denne måde”.
 
@@ -14,11 +16,19 @@ Negationspartikel; bruges til at understrege “ikke således”, “ikke på de
 - CST: meti (uoversat)
 
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Partikler / Negation
+[[../00-moc/Begreber-MOC]]: Partikler / Negation
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
 
 ## Kommentar:
 Forekommer i MN1 i den faste konstruktion *meti na maññati* — “han forestiller sig ikke”.  
 Bruges til at understrege ophøret af konceptualisering.
+
+## Kilder:
 
 ## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

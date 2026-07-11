@@ -2,16 +2,37 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 # Ordlistens index
 
 ## MN01
-- [[../../../../../majjhima/01-terminologi/sammasambuddha]]
-- [[../../../../../majjhima/01-terminologi/mula]]
-- [[../../../../../majjhima/01-terminologi/nidana]]
-- [[../../../../../majjhima/01-terminologi/samudaya]]
-- [[../../../../../majjhima/01-terminologi/pajanana]]
-- [[../../../../../majjhima/01-terminologi/sabbadhamma]]
-- [[../../../../../majjhima/01-terminologi/puthujjana]]
-- [[../../../../../majjhima/01-terminologi/pathavi]]
-- [[../../../../../majjhima/01-terminologi/abhinandati]]
+- [[sammasambuddha]]
+- [[mula]]
+- [[nidana]]
+- [[samudaya]]
+- [[pajanana]]
+- [[sabbadhamma]]
+- [[puthujjana]]
+- [[pathavi]]
+- [[abhinandati]]
 - [[upadana]]
+
+## Dansk:
+
+## Oversættelser:
+
+## Kategori:
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
+
+## Forekomster:

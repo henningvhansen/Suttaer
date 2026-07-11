@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# saddhā
-Dansk: tillid; tro
-Engelsk: faith (Bodhi), confidence (Sujato), conviction (Thanissaro), tillit (Lie)
-Kategori: mentale faktorer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+tillid; tro
+## Oversættelser:
+- Engelsk (samlet): faith (Bodhi), confidence (Sujato), conviction (Thanissaro), tillit (Lie)
+
+## Kategori:
+mentale faktorer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af de fem åndelige fakulteter (indriya). Henviser til tillid baseret på erfaring, ikke blind tro.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

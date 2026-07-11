@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# devā
-Dansk: Guder, devaer
-Engelsk: Gods #Bodhi #Sujato , devas #Suddhāso 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Guder, devaer
+## Oversættelser:
+- Engelsk (samlet): Gods #Bodhi #Sujato , devas #Suddhāso
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Kategori af væsener
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Overordnet kategori for guddommelige væsener.
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Horner #Suddhaso
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

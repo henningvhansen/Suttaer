@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# nimitta
-Dansk: tegn
-Engelsk: sign (Bodhi), sign (Sujato), theme (Thanissaro), tegn (Lie)
-Kategori: meditation
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+tegn
+## Oversættelser:
+- Engelsk (samlet): sign (Bodhi), sign (Sujato), theme (Thanissaro), tegn (Lie)
+
+## Kategori:
+meditation
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges især om meditations‑tegn i jhāna‑praksis.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

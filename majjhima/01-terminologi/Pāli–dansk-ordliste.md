@@ -2,6 +2,9 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ---
 layout: page
 type: begreb
@@ -255,3 +258,21 @@ vossagga — opgivelse; slippen — [vossagga](vossagga.md)
 yoniso‑manasikāra — omhyggelig opmærksomhed — [yoniso-manasikāra](yoniso-manasikāra.md)
 
 yathā‑bhūta‑ñāṇa‑dassana — indsigt i tingene som de er — [yathā‑bhūta‑ñāṇa‑dassana](yathā‑bhūta‑ñāṇa‑dassana.md)
+
+## Dansk:
+
+## Oversættelser:
+
+## Kategori:
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
+
+## Forekomster:

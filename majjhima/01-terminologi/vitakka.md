@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# vitakka
-Dansk: initial tanke; rettethed
-Engelsk: thought (Bodhi), directed thought (Sujato), directed thought (Thanissaro), tanke (Lie)
-Kategori: meditation
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+initial tanke; rettethed
+## Oversættelser:
+- Engelsk (samlet): thought (Bodhi), directed thought (Sujato), directed thought (Thanissaro), tanke (Lie)
+
+## Kategori:
+meditation
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af jhāna‑faktorerne; den mentale bevægelse, der retter sindet mod objektet.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

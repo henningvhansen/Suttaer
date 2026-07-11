@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# loma
-Dansk: hår
-Engelsk: hair (Bodhi), hair (Sujato), hair (Thanissaro), hår (Lie)
-Kategori: sanser
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+hår
+## Oversættelser:
+- Engelsk (samlet): hair (Bodhi), hair (Sujato), hair (Thanissaro), hår (Lie)
+
+## Kategori:
+sanser
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Forekommer ofte i beskrivelser af kroppen.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

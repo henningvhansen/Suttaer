@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# āhāra
-Dansk: næring
-Engelsk: nutriment (Bodhi), nutriment (Sujato), food (Thanissaro), næring (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+næring
+## Oversættelser:
+- Engelsk (samlet): nutriment (Bodhi), nutriment (Sujato), food (Thanissaro), næring (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De fire næringer: fysisk føde, kontakt, intention og bevidsthed. Bruges både fysisk og metaforisk i afhængig oprindelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

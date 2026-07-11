@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# soka
-Dansk: sorg
-Engelsk: sorrow (Bodhi), sorrow (Sujato), sorrow (Thanissaro), sorg (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+sorg
+## Oversættelser:
+- Engelsk (samlet): sorrow (Bodhi), sorrow (Sujato), sorrow (Thanissaro), sorg (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Forekommer ofte i lister over mentale plager (soka‑parideva‑dukkha‑domanassa‑upāyāsa).
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

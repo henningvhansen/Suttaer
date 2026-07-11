@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# cetanā
-Dansk: intention; vilje
-Engelsk: intention (Bodhi), intention (Sujato), intention (Thanissaro), vilje (Lie)
-Kategori: mentale faktorer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+intention; vilje
+## Oversættelser:
+- Engelsk (samlet): intention (Bodhi), intention (Sujato), intention (Thanissaro), vilje (Lie)
+
+## Kategori:
+mentale faktorer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Ifølge Buddha: “cetanā er kamma”.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

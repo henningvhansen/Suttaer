@@ -2,4 +2,25 @@
 layout: page
 type: begreb
 ---
-Se [[../../../../../majjhima/01-terminologi/yoniso-manasikāra]]
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+Se [[yoniso-manasikāra]]
+
+## Dansk:
+
+## Oversættelser:
+
+## Kategori:
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
+
+## Forekomster:

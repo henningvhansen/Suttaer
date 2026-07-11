@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# nirodha
-Dansk: ophør
-Engelsk: cessation (Bodhi), cessation (Sujato), cessation (Thanissaro), opphør (Lie)
-Kategori: de fire ædle sandheder
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+ophør
+## Oversættelser:
+- Engelsk (samlet): cessation (Bodhi), cessation (Sujato), cessation (Thanissaro), opphør (Lie)
+
+## Kategori:
+de fire ædle sandheder
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Henviser både til lidelsens ophør og til den tredje ædle sandhed.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

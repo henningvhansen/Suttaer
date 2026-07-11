@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# āyatana
-Dansk: sanseområde
-Engelsk: sense sphere (Bodhi), sense field (Sujato), sense medium (Thanissaro), sanseområde (Lie)
-Kategori: sanser
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+sanseområde
+## Oversættelser:
+- Engelsk (samlet): sense sphere (Bodhi), sense field (Sujato), sense medium (Thanissaro), sanseområde (Lie)
+
+## Kategori:
+sanser
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De tolv āyatana’er: de seks sanser og deres seks objekter. Grundlæggende struktur i buddhistisk psykologi.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

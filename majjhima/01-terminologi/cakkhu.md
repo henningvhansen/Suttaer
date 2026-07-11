@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# cakkhu
-Dansk: øje
-Engelsk: eye (Bodhi), eye (Sujato), eye (Thanissaro), øye (Lie)
-Kategori: sanser
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+øje
+## Oversættelser:
+- Engelsk (samlet): eye (Bodhi), eye (Sujato), eye (Thanissaro), øye (Lie)
+
+## Kategori:
+sanser
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et af de seks sanseområder.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

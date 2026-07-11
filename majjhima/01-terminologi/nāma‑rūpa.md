@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# nāma‑rūpa
-Dansk: navn‑form
-Engelsk: name‑and‑form (Bodhi), name‑and‑form (Sujato), name‑and‑form (Thanissaro), navn‑og‑form (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+navn‑form
+## Oversættelser:
+- Engelsk (samlet): name‑and‑form (Bodhi), name‑and‑form (Sujato), name‑and‑form (Thanissaro), navn‑og‑form (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et centralt led i den afhængige oprindelse; beskriver den psykofysiske organisme.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

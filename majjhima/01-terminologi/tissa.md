@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# tissa
-Dansk: Tissa
-Engelsk: Tissa (Bodhi), Tissa (Sujato), Tissa (Thanissaro), Tissa (Lie)
-Kategori: personer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+Tissa
+## Oversættelser:
+- Engelsk (samlet): Tissa (Bodhi), Tissa (Sujato), Tissa (Thanissaro), Tissa (Lie)
+
+## Kategori:
+personer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et almindeligt navn i suttaerne, både for munke og lægfolk.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

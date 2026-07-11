@@ -2,6 +2,9 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ## Dansk:
 
 Perception; genkendelse; kategorisering; den mentale funktion der identificerer og navngiver et sanset objekt.
@@ -9,19 +12,23 @@ Perception; genkendelse; kategorisering; den mentale funktion der identificerer 
 ## Oversættelser:
 
 - **[[Sujato]]**: _perception_    
-- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _perception_    
-- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _perception_    
+- **[[bodhi]]**: _perception_    
+- **[[Ñāṇamoli]]**: _perception_    
 - **[[Lie]]**: _persepsjon; gjenkjennelse_    
-- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _saññā_ (uoversat)    
+- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _saññā_ (uoversat)    
 
 ## Kategori:
 
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sindets funktioner / Aggregaterne (_khandha_)
+[[../00-moc/Begreber-MOC]]: Sindets funktioner / Aggregaterne (_khandha_)
 
 ## Etymologi:
 
 - Rod: **√ñā** — “at vide, at genkende”    
 - _saññā_ → “det der gør genkendelse mulig; det der sætter et mærke”    
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
 
 ## Kommentar:
 

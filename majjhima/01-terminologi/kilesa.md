@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# kilesa
-Dansk: urenhed
-Engelsk: defilement (Bodhi), defilement (Sujato), defilement (Thanissaro), urenhet (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+urenhed
+## Oversættelser:
+- Engelsk (samlet): defilement (Bodhi), defilement (Sujato), defilement (Thanissaro), urenhet (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De mentale urenheder, der forhindrer oplysning.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

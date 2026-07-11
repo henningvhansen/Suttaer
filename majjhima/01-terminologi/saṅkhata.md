@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# saṅkhata
-Dansk: det betingede
-Engelsk: conditioned (Bodhi), conditioned (Sujato), fabricated (Thanissaro), det betingede (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+det betingede
+## Oversættelser:
+- Engelsk (samlet): conditioned (Bodhi), conditioned (Sujato), fabricated (Thanissaro), det betingede (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Modstykket til asaṅkhata (det ubetingede, dvs. nibbāna). Alt betinget er underlagt forandring.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

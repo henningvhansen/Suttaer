@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# suta
-Dansk: Det hørte
-Engelsk: the heard
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Det hørte
+## Oversættelser:
+- Engelsk (samlet): the heard
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sanserelateret
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Sanserelateret
+## Etymologi:
 
-## Kilder
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
 
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

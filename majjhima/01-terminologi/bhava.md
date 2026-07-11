@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# bhava
-Dansk: tilblivelse
-Engelsk: existence (Bodhi), existence (Sujato), becoming (Thanissaro), tilblivelse (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+tilblivelse
+## Oversættelser:
+- Engelsk (samlet): existence (Bodhi), existence (Sujato), becoming (Thanissaro), tilblivelse (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et led i den afhængige oprindelse, tæt knyttet til kamma og genfødsel.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

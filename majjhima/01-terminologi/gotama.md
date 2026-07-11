@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# gotama
-Dansk: Gotama
-Engelsk: Gotama (Bodhi), Gotama (Sujato), Gotama (Thanissaro), Gotama (Lie)
-Kategori: personer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+Gotama
+## Oversættelser:
+- Engelsk (samlet): Gotama (Bodhi), Gotama (Sujato), Gotama (Thanissaro), Gotama (Lie)
+
+## Kategori:
+personer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Buddhas slægtsnavn.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

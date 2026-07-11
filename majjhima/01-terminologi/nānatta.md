@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# nānatta
-Dansk: Mangfoldighed
-Engelsk: diversity #Bodhi #Sujato 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Mangfoldighed
+## Oversættelser:
+- Engelsk (samlet): diversity #Bodhi #Sujato
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: 
-## Kommentar
+[[../00-moc/Begreber-MOC]]: 
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Det at være mange, varieret eller differentieret.
-## Kilder
+## Kilder:
 
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

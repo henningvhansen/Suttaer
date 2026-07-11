@@ -4,6 +4,9 @@ type: begreb
 aliases:
   - ayoniso manasikāra
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 # yoniso manasikāra / ayoniso manasikāra
 
 ## Dansk:
@@ -21,7 +24,7 @@ Grundigt fokus / overfladisk fokus.
 **Yoniso manasikāra** betegner en specifik måde at rette sindet mod et fænomen på, hvor fokus orienteres **grundigt**, dvs. **fuldstændigt og uden at blive stående ved overfladen**. Det modsatte, **ayoniso manasikāra**, betegner et **overfladisk** fokus, som tager fænomenets umiddelbare fremtræden for pålydende og fastholder vanemæssig perception og reaktivitet.
 
 Denne definition er bevidst mere tilbageholdende end tidligere udkast til denne note (se “Oversættelsesproblematik” nedenfor for hele forløbet). Ordet *yoniso* optræder på tværs af meget forskellige sammenhænge — brug af klædestykker ([[Kd21]]), spørgeteknik ([[AN 3.5]]), måltidsrefleksion (spisemåde-formlen), foruden *manasikāra* — og en oversættelse, der skal dække alle disse, bør ikke bygge på en snæver, doktrinært motiveret betydning, som kun holder i nogle af dem.
-## Etymologi
+## Etymologi:
 ##### yoni
 Pāli/Sanskrit _yoni_ betyder “livmoder, kilde, oprindelse, matrix”. I vedisk poesi optræder udtrykket _yonāv ṛtasya_ (“sandhedens livmoder”), som viser brugen af _yoni_ som metafor for den kosmiske kilde til orden og sandhed. Denne etymologi er historisk interessant og er baggrunden for, at flere oversættere (bl.a. Sujato, samt tidligere udkast til denne note) har foreslået en kausal/“til-kilden”-betydning af *yoniso*. **Denne slutning er dog omdiskuteret** (se nedenfor) og bør ikke tillægges afgørende vægt i selve oversættelsen af ordet — kun nævnes som en mulig, men ikke sikker, semantisk baggrund.
 ##### manasikāra
@@ -70,5 +73,7 @@ Denne note gennemgik en længere afklaring i forbindelse med oversættelsen af M
 Sujato skriver: “Rational application of mind” (_yoniso manasikāra_) is a distinctively Buddhist term. It draws on the frequent Vedic image of the “womb of truth” (_yonāv ṛtasya_, Rig Veda 9.13.9), the source of the laws and patterns that govern the natural order. The idea is that by applying the mind by way of cause or reason the hidden truth can be uncovered. Here the meditator’s insight is framed not as uncovering the objective truth about the world, but as reflexively understanding the means of insight itself.
 
 Denne læsning var udgangspunktet for det indledende arbejde med begrebet, men er siden blevet nuanceret betydeligt gennem diskussionen refereret ovenfor under “Oversættelsesproblematik”. Den etymologiske forbindelse til *yoni* som “kilde” forbliver interessant baggrundsviden, men bør ikke i sig selv bære vægten af oversættelsesvalget.
+## Kilder:
+
 ## Forekomster:
 - [[majjhima/02-suttaer/MN02]]

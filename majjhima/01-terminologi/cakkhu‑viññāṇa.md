@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# cakkhu‑viññāṇa
-Dansk: øjenbevidsthed
-Engelsk: eye consciousness (Bodhi), eye consciousness (Sujato), eye consciousness (Thanissaro), øyebevissthet (Lie)
-Kategori: bevidsthed
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+øjenbevidsthed
+## Oversættelser:
+- Engelsk (samlet): eye consciousness (Bodhi), eye consciousness (Sujato), eye consciousness (Thanissaro), øyebevissthet (Lie)
+
+## Kategori:
+bevidsthed
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bevidsthed knyttet til synssansen.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

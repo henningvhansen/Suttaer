@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# nāma
-Dansk: navn; mental faktor
-Engelsk: mentality (Bodhi), name (Sujato), name (Thanissaro), navn (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+navn; mental faktor
+## Oversættelser:
+- Engelsk (samlet): mentality (Bodhi), name (Sujato), name (Thanissaro), navn (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 I nāma‑rūpa betegner det de mentale aspekter af oplevelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

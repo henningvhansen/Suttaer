@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# rūpa
-Dansk: form; krop
-Engelsk: form (Bodhi), form (Sujato), form (Thanissaro), form (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+form; krop
+## Oversættelser:
+- Engelsk (samlet): form (Bodhi), form (Sujato), form (Thanissaro), form (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Det materielle aspekt af oplevelse; et af de fem aggregater.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

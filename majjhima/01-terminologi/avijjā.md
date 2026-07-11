@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# avijjā
-Dansk: uvidenhed
-Engelsk: ignorance (Bodhi), ignorance (Sujato), ignorance (Thanissaro), uvitenhet (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+uvidenhed
+## Oversættelser:
+- Engelsk (samlet): ignorance (Bodhi), ignorance (Sujato), ignorance (Thanissaro), uvitenhet (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Rodårsagen til samsara ifølge afhængig oprindelse.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

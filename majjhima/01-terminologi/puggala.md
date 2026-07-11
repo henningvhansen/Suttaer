@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# puggala 
-Dansk: person
-Engelsk: person (Bodhi), individual (Sujato), individual (Thanissaro), person (Lie)
-Kategori: personkategorier
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+person
+## Oversættelser:
+- Engelsk (samlet): person (Bodhi), individual (Sujato), individual (Thanissaro), person (Lie)
+
+## Kategori:
+personkategorier
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges i klassifikationer af mennesketyper i Abhidhamma og suttaer. (+ariya-puggala)
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

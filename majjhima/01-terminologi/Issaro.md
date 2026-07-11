@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# Issaro
-Dansk: Herskeren, Herren #Lie 
-Engelsk: the Overlord #Bodhi, the Vanquisher #Sujato 
-## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: 
-## Kommentar
-Den øverste styrende myndighed eller herre.
-## Kilder
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Forekomster
+## Dansk:
+Herskeren, Herren #Lie
+## Oversættelser:
+- Engelsk (samlet): the Overlord #Bodhi, the Vanquisher #Sujato
+
+## Kategori:
+[[../00-moc/Begreber-MOC]]: 
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+Den øverste styrende myndighed eller herre.
+## Kilder:
+
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

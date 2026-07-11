@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# nibbāna
-Dansk: Nibbāna
-Engelsk: Nibbāna #Bodhi, extinguishment #Sujato, unbinding #Thanissaro, 
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-### Kategori: 
+## Dansk:
+Nibbāna
+
+## Oversættelser:
+- Engelsk (samlet): Nibbāna #Bodhi, extinguishment #Sujato, unbinding #Thanissaro,
+
+## Kategori:
 indsigt
-## Kommentar
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Målet for den buddhistiske vej; ophør af begær, had og vildfarelse.
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

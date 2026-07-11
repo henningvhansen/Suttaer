@@ -2,16 +2,29 @@
 layout: page
 type: begreb
 ---
-# pajānana
-Dansk: forståelse; erkendelse; indsigt
-Engelsk: understanding; comprehension
-Kategori: erkendelse
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+# pajānana
+## Dansk:
+forståelse; erkendelse; indsigt
+## Oversættelser:
+- Engelsk (samlet): understanding; comprehension
+
+## Kategori:
+erkendelse
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Relateret til verbet pajānāti — “at forstå direkte”.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

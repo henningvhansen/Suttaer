@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# hetu
-Dansk: årsag
-Engelsk: cause (Bodhi), cause (Sujato), cause (Thanissaro), årsak (Lie)
-Kategori: årsagslære
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+årsag
+## Oversættelser:
+- Engelsk (samlet): cause (Bodhi), cause (Sujato), cause (Thanissaro), årsak (Lie)
+
+## Kategori:
+årsagslære
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Grundlæggende term i afhængig oprindelse og logik.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

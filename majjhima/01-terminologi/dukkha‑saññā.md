@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# dukkha‑saññā
-Dansk: perception af lidelse
-Engelsk: perception of suffering (Bodhi), perception of suffering (Sujato), perception of stress (Thanissaro), oppfatning av lidelse (Lie)
-Kategori: perceptioner
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+perception af lidelse
+## Oversættelser:
+- Engelsk (samlet): perception of suffering (Bodhi), perception of suffering (Sujato), perception of stress (Thanissaro), oppfatning av lidelse (Lie)
+
+## Kategori:
+perceptioner
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Bruges i indsigtstræning til at se utilfredshedens karakter i alle betingede fænomener.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

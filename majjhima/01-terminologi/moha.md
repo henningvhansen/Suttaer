@@ -2,6 +2,9 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ## Dansk:
 
 Vildfarelse; uvidenhed; mental blindhed; manglende evne til at se tingene som de er.
@@ -9,19 +12,23 @@ Vildfarelse; uvidenhed; mental blindhed; manglende evne til at se tingene som de
 ## Oversættelser:
 
 - **[[Sujato]]**: _delusion_    
-- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _delusion_    
-- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _delusion_    
+- **[[bodhi]]**: _delusion_    
+- **[[Ñāṇamoli]]**: _delusion_    
 - **[[Lie]]**: _villfarelse; uvitenhet_    
-- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _moha_ (uoversat)    
+- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _moha_ (uoversat)    
 
 ## Kategori:
 
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
+[[../00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
 
 ## Etymologi:
 
 - Rod: **√muh** — “at være forvirret, omtåget, blindet”    
 - Afledt form: _moha_ → “forvirring; blindhed; vildfarelse”    
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
 
 ## Kommentar:
 

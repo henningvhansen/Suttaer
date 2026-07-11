@@ -2,23 +2,30 @@
 layout: page
 type: begreb
 ---
+# Status: Under udarbejdelse
+## Senest redigeret:
+
 ## Dansk:
 
 Vrede; modvilje; aversion; sindets tendens til at støde noget bort.
 ## Oversættelser:
 
 - **[[Sujato]]**: _anger; aversion_    
-- **[[../../../../../majjhima/01-terminologi/bodhi]]**: _ill will_    
-- **[[../../../../../majjhima/01-terminologi/Ñāṇamoli]]**: _ill will_    
+- **[[bodhi]]**: _ill will_    
+- **[[Ñāṇamoli]]**: _ill will_    
 - **[[Lie]]**: _vrede; motvilje_    
-- **[[../../../../../majjhima/00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _dosa_ (uoversat)    
+- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _dosa_ (uoversat)    
 ## Kategori:
 
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
+[[../00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
 ## Etymologi:
 
 - Rod: **√dus / duṣ** — “dårlig, skadelig, ond”    
 - Afledt form: _dosa_ → “det der gør sindet hårdt, aggressivt eller afvisende”   
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
 ## Kommentar:
 
 **Dosa** er en af de tre grundlæggende mentale urenheder (_kilesā_) i buddhistisk psykologi:

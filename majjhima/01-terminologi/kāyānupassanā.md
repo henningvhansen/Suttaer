@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# kāyānupassanā
-Dansk: opmærksomhed på kroppen
-Engelsk: mindfulness of body (Bodhi), mindfulness of body (Sujato), mindfulness of the body (Thanissaro), oppmerksomhet på kroppen (Lie)
-Kategori: satipaṭṭhāna
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+opmærksomhed på kroppen
+## Oversættelser:
+- Engelsk (samlet): mindfulness of body (Bodhi), mindfulness of body (Sujato), mindfulness of the body (Thanissaro), oppmerksomhet på kroppen (Lie)
+
+## Kategori:
+satipaṭṭhāna
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Det første af de fire satipaṭṭhāna‑områder.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

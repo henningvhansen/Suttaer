@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# bhikkhu
-Dansk: munk
-Engelsk: monk (Bodhi), monk (Sujato), monk (Thanissaro), munk (Lie)
-Kategori: personkategorier
-## Kommentar
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+munk
+## Oversættelser:
+- Engelsk (samlet): monk (Bodhi), monk (Sujato), monk (Thanissaro), munk (Lie)
+
+## Kategori:
+personkategorier
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Ordinært medlem af sanghaen.
-## Kategori
-[[../../../../../majjhima/00-moc/Begreber-MOC#Personkategorier]].
-## Kilder
+## Kategori:
+[[../00-moc/Begreber-MOC#Personkategorier]].
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# tejo
-Dansk: Ild
-Engelsk: Fire
-## Kategori: 
-Element
-## Kommentar
-Ildelementet; varme-, modenheds- og transformationsprincippet.
-## Kilder
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Forekomster
+## Dansk:
+Ild
+## Oversættelser:
+- Engelsk (samlet): Fire
+
+## Kategori:
+Element
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+Ildelementet; varme-, modenheds- og transformationsprincippet.
+## Kilder:
+
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

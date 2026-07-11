@@ -2,20 +2,31 @@
 layout: page
 type: begreb
 ---
-# abhinandati
-Dansk: glæder sig ved; hæfter sig ved; finder behag i
-Engelsk: delights in; takes pleasure in
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kategori: 
+## Dansk:
+glæder sig ved; hæfter sig ved; finder behag i
+
+## Oversættelser:
+- Engelsk (samlet): delights in; takes pleasure in
+
+## Kategori:
 tilknytning
 
-## Kommentar
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Et centralt ord i tilknytningens psykologi. Hvor der er glæde, er der binding.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]
 # Referencer
 

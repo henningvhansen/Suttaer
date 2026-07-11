@@ -2,15 +2,26 @@
 layout: page
 type: begreb
 ---
-# ekatta
-Dansk: Enhed, enhet #Lie 
-Engelsk: unity #Bodhi,  oneness #Sujato 
+# Status: Under udarbejdelse
+## Senest redigeret:
+
+## Dansk:
+Enhed, enhet #Lie
+## Oversættelser:
+- Engelsk (samlet): unity #Bodhi,  oneness #Sujato
+
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Sanserelateret
-## Kommentar
+[[../00-moc/Begreber-MOC]]: Sanserelateret
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Det at være ét, ensartethed eller enhedsaspekt.
-## Kilder
+## Kilder:
 #Perplexity 
 
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

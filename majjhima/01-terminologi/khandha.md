@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# khandha
-Dansk: aggregat
-Engelsk: aggregate (Bodhi), aggregate (Sujato), aggregate (Thanissaro), gruppe (Lie)
-Kategori: centrale begreber
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+aggregat
+## Oversættelser:
+- Engelsk (samlet): aggregate (Bodhi), aggregate (Sujato), aggregate (Thanissaro), gruppe (Lie)
+
+## Kategori:
+centrale begreber
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De fem khandha beskriver den menneskelige oplevelsesstruktur.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# thera
-Dansk: ældre munk
-Engelsk: elder (Bodhi), elder (Sujato), elder (Thanissaro), eldre munk (Lie)
-Kategori: personkategorier
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+ældre munk
+## Oversættelser:
+- Engelsk (samlet): elder (Bodhi), elder (Sujato), elder (Thanissaro), eldre munk (Lie)
+
+## Kategori:
+personkategorier
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Titel for en munk med mindst 10 års ordination.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# sukha
-Dansk: velvære; glæde
-Engelsk: happiness (Bodhi), pleasure (Sujato), pleasure (Thanissaro), glede (Lie)
-Kategori: psykologi
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+velvære; glæde
+## Oversættelser:
+- Engelsk (samlet): happiness (Bodhi), pleasure (Sujato), pleasure (Thanissaro), glede (Lie)
+
+## Kategori:
+psykologi
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 En af jhāna‑faktorerne; også almindelig glæde og velvære i daglig praksis.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

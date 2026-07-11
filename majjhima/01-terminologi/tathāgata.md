@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# tathāgata
-Dansk: således‑kommen
-Engelsk: Realized One (Bodhi), Truth‑finder (Sujato), Tathāgata (Thanissaro), Tathagata (Lie)
-Kategori: personer
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+således‑kommen
+## Oversættelser:
+- Engelsk (samlet): Realized One (Bodhi), Truth‑finder (Sujato), Tathāgata (Thanissaro), Tathagata (Lie)
+
+## Kategori:
+personer
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 Buddhas egen foretrukne betegnelse for sig selv. Fortolkes på flere måder, bl.a. “den der er kommet således” eller “den der er gået således”.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:

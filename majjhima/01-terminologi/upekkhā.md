@@ -2,14 +2,25 @@
 layout: page
 type: begreb
 ---
-# upekkhā
-Dansk: sindsligevægt 
-Engelsk: equanimity
-Kategori:
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+sindsligevægt
+## Oversættelser:
+- Engelsk (samlet): equanimity
 
-## Kilder
+## Kategori:
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
+
+## Kilder:
 equanimity #Bodhi equanimity #Sujato  #Lie likevekt
-## Forekomster
+## Forekomster:
 - [[majjhima/02-suttaer/MN01]]

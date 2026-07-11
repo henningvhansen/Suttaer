@@ -2,15 +2,27 @@
 layout: page
 type: begreb
 ---
-# satipaṭṭhāna
-Dansk: grundlag for opmærksomhed
-Engelsk: foundations of mindfulness (Bodhi), foundations of mindfulness (Sujato), frames of reference (Thanissaro), oppmerksomhetsgrunnlag (Lie)
-Kategori: satipaṭṭhāna
+# Status: Under udarbejdelse
+## Senest redigeret:
 
-## Kommentar
+## Dansk:
+grundlag for opmærksomhed
+## Oversættelser:
+- Engelsk (samlet): foundations of mindfulness (Bodhi), foundations of mindfulness (Sujato), frames of reference (Thanissaro), oppmerksomhetsgrunnlag (Lie)
+
+## Kategori:
+satipaṭṭhāna
+
+## Etymologi:
+
+## Oversættelsesproblematik
+
+## Kort definition til brug i løbende tekst
+
+## Kommentar:
 De fire områder for opmærksomhed: krop, følelser, sind og fænomener.
 
-## Kilder
+## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 
-## Forekomster
+## Forekomster:
