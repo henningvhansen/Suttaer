@@ -10,7 +10,7 @@ Velkommen til mit arbejdsmiljø for 'Projekt Majjhima Nikāya'. Her finder du:
 - [Projektbeskrivelse](majjhima/00-overblik/projektbeskrivelse.md)
 
 ## 01 – Terminologi
-- [Pāli–Dansk ordliste](majjhima/01-terminologi/Pāli–dansk-ordliste.md) 
+- [Pāli–Dansk ordliste](../../../majjhima/01-terminologi/Pāli_dansk-ordliste.md) 
 
 ## 02 – Suttaer
 - [MN01](majjhima/02-suttaer/MN01.md) Mūlapariyāya Sutta — Erkendelsens rod 
