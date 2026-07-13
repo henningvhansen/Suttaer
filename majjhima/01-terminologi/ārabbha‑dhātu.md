@@ -9,7 +9,10 @@ title: ārabbha‑dhātu
 ## Dansk:
 energi‑element
 ## Oversættelser:
-- Engelsk (samlet): element of exertion (Bodhi), element of initiative (Sujato), element of arousal (Thanissaro), energiprinsipp (Lie)
+* **Bodhi**: element of exertion
+* **Sujato**: element of initiative
+* **Thanissaro**: element of arousal
+* **Lie**: energiprinsipp
 
 ## Kategori:
 mentale faktorer

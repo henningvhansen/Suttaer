@@ -9,7 +9,10 @@ title: viññāṇa
 ## Dansk:
 bevidsthed
 ## Oversættelser:
-- Engelsk (samlet): consciousness (Bodhi), consciousness (Sujato), consciousness (Thanissaro), bevissthet (Lie)
+* **Bodhi**: consciousness
+* **Sujato**: consciousness
+* **Thanissaro**: consciousness
+* **Lie**: bevissthet
 
 ## Kategori:
 centrale begreber

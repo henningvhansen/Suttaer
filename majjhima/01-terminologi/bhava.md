@@ -9,7 +9,10 @@ title: bhava
 ## Dansk:
 tilblivelse
 ## Oversættelser:
-- Engelsk (samlet): existence (Bodhi), existence (Sujato), becoming (Thanissaro), tilblivelse (Lie)
+* **Bodhi**: existence
+* **Sujato**: existence
+* **Thanissaro**: becoming
+* **Lie**: tilblivelse
 
 ## Kategori:
 årsagslære

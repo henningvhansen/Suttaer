@@ -11,14 +11,14 @@ title: dosa
 Vrede; modvilje; aversion; sindets tendens til at støde noget bort.
 ## Oversættelser:
 
-- **[[Sujato]]**: _anger; aversion_    
-- **[[bodhi]]**: _ill will_    
-- **[[Ñāṇamoli]]**: _ill will_    
-- **[[Lie]]**: _vrede; motvilje_    
-- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _dosa_ (uoversat)    
+- **Sujato:** anger; aversion
+- **bodhi:** ill will
+- **Ñāṇamoli:** ill will
+- **Lie:** vrede; motvilje
+- **../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST):** _dosa_ (uoversat)    
 ## Kategori:
 
-[[../00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sindets urenheder / De tre rodårsager
 ## Etymologi:
 
 - Rod: **√dus / duṣ** — “dårlig, skadelig, ond”    
@@ -69,4 +69,4 @@ Dosa er derfor en central del af den tredelte struktur, der beskriver sindets re
 
 ## Forekomster:
 
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

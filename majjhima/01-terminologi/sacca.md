@@ -9,7 +9,10 @@ title: sacca
 ## Dansk:
 sandhed
 ## Oversættelser:
-- Engelsk (samlet): truth (Bodhi), truth (Sujato), truth (Thanissaro), sannhet (Lie)
+* **Bodhi**: truth
+* **Sujato**: truth
+* **Thanissaro**: truth
+* **Lie**: sannhet
 
 ## Kategori:
 de fire ædle sandheder

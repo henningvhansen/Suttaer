@@ -9,7 +9,10 @@ title: indriya
 ## Dansk:
 fakultet; evne
 ## Oversættelser:
-- Engelsk (samlet): faculty (Bodhi), faculty (Sujato), faculty (Thanissaro), evne (Lie)
+* **Bodhi**: faculty
+* **Sujato**: faculty
+* **Thanissaro**: faculty
+* **Lie**: evne
 
 ## Kategori:
 mentale faktorer

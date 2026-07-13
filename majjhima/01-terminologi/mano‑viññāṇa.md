@@ -9,7 +9,10 @@ title: mano‑viññāṇa
 ## Dansk:
 sindbevidsthed
 ## Oversættelser:
-- Engelsk (samlet): mind consciousness (Bodhi), mind consciousness (Sujato), intellect consciousness (Thanissaro), sinnbevissthet (Lie)
+* **Bodhi**: mind consciousness
+* **Sujato**: mind consciousness
+* **Thanissaro**: intellect consciousness
+* **Lie**: sinnbevissthet
 
 ## Kategori:
 bevidsthed

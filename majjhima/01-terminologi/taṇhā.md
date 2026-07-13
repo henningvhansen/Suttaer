@@ -9,7 +9,10 @@ title: taṇhā
 ## Dansk:
 begær
 ## Oversættelser:
-- Engelsk (samlet): craving (Bodhi), craving (Sujato), craving (Thanissaro), begjær (Lie)
+* **Bodhi**: craving
+* **Sujato**: craving
+* **Thanissaro**: craving
+* **Lie**: begjær
 
 ## Kategori:
 centrale begreber

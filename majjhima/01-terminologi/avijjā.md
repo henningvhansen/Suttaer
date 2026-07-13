@@ -9,7 +9,10 @@ title: avijjā
 ## Dansk:
 uvidenhed
 ## Oversættelser:
-- Engelsk (samlet): ignorance (Bodhi), ignorance (Sujato), ignorance (Thanissaro), uvitenhet (Lie)
+* **Bodhi**: ignorance
+* **Sujato**: ignorance
+* **Thanissaro**: ignorance
+* **Lie**: uvitenhet
 
 ## Kategori:
 årsagslære

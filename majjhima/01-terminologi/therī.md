@@ -9,7 +9,10 @@ title: therī
 ## Dansk:
 ældre nonne
 ## Oversættelser:
-- Engelsk (samlet): elder nun (Bodhi), elder nun (Sujato), elder nun (Thanissaro), eldre nonne (Lie)
+* **Bodhi**: elder nun
+* **Sujato**: elder nun
+* **Thanissaro**: elder nun
+* **Lie**: eldre nonne
 
 ## Kategori:
 personkategorier

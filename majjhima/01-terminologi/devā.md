@@ -12,7 +12,7 @@ Guder, devaer
 - Engelsk (samlet): Gods #Bodhi #Sujato , devas #Suddhāso
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +25,4 @@ Overordnet kategori for guddommelige væsener.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

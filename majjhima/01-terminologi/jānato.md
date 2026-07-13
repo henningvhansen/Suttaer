@@ -1,22 +1,18 @@
 ---
 layout: page
 type: begreb
-title: cakkhu
 ---
 # Status: Under udarbejdelse
-## Senest redigeret:
-
-## Dansk:
-øje
+## Senest redigeret: 
+## Dansk: 
+Den der ved
 ## Oversættelser:
-* **Bodhi**: eye
-* **Sujato**: eye
-* **Thanissaro**: eye
-* **Lie**: øye
-
+- Sujato:   
+- Bodhi: 
+- Ñāṇamoli:
+- Lie:
 ## Kategori:
-sanser
-
+[Begreber MOC](../majjhima/00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -24,9 +20,8 @@ sanser
 ## Kort definition til brug i løbende tekst
 
 ## Kommentar:
-Et af de seks sanseområder.
 
 ## Kilder:
-#Bodhi #Sujato #Thanissaro #Lie
-
+- 
 ## Forekomster:
+- 

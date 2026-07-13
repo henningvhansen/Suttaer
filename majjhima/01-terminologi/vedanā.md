@@ -9,7 +9,10 @@ title: vedanā
 ## Dansk:
 følelse; fornemmelse
 ## Oversættelser:
-- Engelsk (samlet): feeling (Bodhi), feeling (Sujato), feeling (Thanissaro), følelse (Lie)
+* **Bodhi**: feeling
+* **Sujato**: feeling
+* **Thanissaro**: feeling
+* **Lie**: følelse
 
 ## Kategori:
 centrale begreber

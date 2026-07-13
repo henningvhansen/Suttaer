@@ -12,7 +12,7 @@ Alt, altet
 - Engelsk (samlet): all
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: 
+[Begreber MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +25,4 @@ Totaliteten af det, der kan erfares eller tænkes som “alt”.
 
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

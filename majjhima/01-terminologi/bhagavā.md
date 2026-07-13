@@ -12,7 +12,7 @@ Den velsignede
 - Engelsk (samlet): The Buddha #Sujato, The Blessed One #Bodhi #Suddhāso, The Lord #Horner
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +25,4 @@ Den velsignede
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

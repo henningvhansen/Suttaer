@@ -9,7 +9,10 @@ title: micchā‑diṭṭhi
 ## Dansk:
 forkert anskuelse
 ## Oversættelser:
-- Engelsk (samlet): wrong view (Bodhi), wrong view (Sujato), wrong view (Thanissaro), feil syn (Lie)
+* **Bodhi**: wrong view
+* **Sujato**: wrong view
+* **Thanissaro**: wrong view
+* **Lie**: feil syn
 
 ## Kategori:
 etik; psykologi

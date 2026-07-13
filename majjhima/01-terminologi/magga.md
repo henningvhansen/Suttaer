@@ -9,7 +9,10 @@ title: magga
 ## Dansk:
 vej
 ## Oversættelser:
-- Engelsk (samlet): path (Bodhi), path (Sujato), path (Thanissaro), vei (Lie)
+* **Bodhi**: path
+* **Sujato**: path
+* **Thanissaro**: path
+* **Lie**: vei
 
 ## Kategori:
 de fire ædle sandheder

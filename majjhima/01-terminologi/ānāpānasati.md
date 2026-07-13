@@ -9,7 +9,10 @@ title: ānāpānasati
 ## Dansk:
 opmærksomhed på åndedrættet
 ## Oversættelser:
-- Engelsk (samlet): mindfulness of breathing (Bodhi), mindfulness of breathing (Sujato), mindfulness of breathing (Thanissaro), oppmerksomhet på pust (Lie)
+* **Bodhi**: mindfulness of breathing
+* **Sujato**: mindfulness of breathing
+* **Thanissaro**: mindfulness of breathing
+* **Lie**: oppmerksomhet på pust
 
 ## Kategori:
 meditation

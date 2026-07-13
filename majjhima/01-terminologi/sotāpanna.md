@@ -9,7 +9,10 @@ title: sotāpanna
 ## Dansk:
 strømindtrådt
 ## Oversættelser:
-- Engelsk (samlet): stream-enterer (Bodhi), stream-enterer (Sujato), stream-winner (Thanissaro), strøminntrådt (Lie)
+* **Bodhi**: stream-enterer
+* **Sujato**: stream-enterer
+* **Thanissaro**: stream-winner
+* **Lie**: strøminntrådt
 
 ## Kategori:
 oplysningsstadier

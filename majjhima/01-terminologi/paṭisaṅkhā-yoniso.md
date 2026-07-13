@@ -14,15 +14,15 @@ aliases:
 Reflekterer grundigt.
 
 ## Oversættelser:
-- [[bodhi]]: reflecting wisely
-- [[Sujato]]: reflecting rationally
-- [[Thanissaro]]: wisely reflecting 
-- [[Lie]]: 'når en munk har tenkt seg godt om' (MN02)
+- **Bodhi:** reflecting wisely
+- **Sujato:** reflecting rationally
+- **Thanissaro:** wisely reflecting 
+- **Lie:** 'når en munk har tenkt seg godt om' (MN02)
 - Traditionel "fire-requisitters"-recitation: "Wisely reflecting" (Tilskrives Thanissaro?)
 - Access to Insight (ældre BPS-udgave): "Reflecting properly" / "Considers properly"
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 
 ## Definition
 **Paṭisaṅkhā** er et absolutiv/gerundium af _paṭisaṅkhāti_ (_paṭi- + saṁ- + √khyā_, "at betragte, gennemtænke, regne igennem"). Præfikset _paṭi-_ ("tilbage, igen, imod") peger på en tilbagevendende, gennemgribende eftertanke — ikke blot en almindelig, flygtig overvejelse. Kombineret med **yoniso** ("grundigt", jf. [[yoniso-manasikāra]]) danner _paṭisaṅkhā yoniso_ en fast, indledende formel: "idet han grundigt reflekterer/gennemtænker."
@@ -51,4 +51,4 @@ I **MN2** indleder _paṭisaṅkhā yoniso_ hvert af de fem underafsnit i afsnit
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

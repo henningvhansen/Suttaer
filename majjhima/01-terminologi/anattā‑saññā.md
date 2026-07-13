@@ -9,7 +9,10 @@ title: anattā‑saññā
 ## Dansk:
 perception af ikke‑selv
 ## Oversættelser:
-- Engelsk (samlet): perception of not‑self (Bodhi), perception of not‑self (Sujato), perception of not‑self (Thanissaro), oppfatning av ikke‑selv (Lie)
+* **Bodhi**: perception of not‑self
+* **Sujato**: perception of not‑self
+* **Thanissaro**: perception of not‑self
+* **Lie**: oppfatning av ikke‑selv
 
 ## Kategori:
 perceptioner

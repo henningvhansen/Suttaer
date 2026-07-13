@@ -9,11 +9,11 @@ title: kāmāsava
 ## Dansk:
 Sansegæring.
 ## Oversættelser:
-- [[bodhi]]: The taint of sensual desire.
-- [[Sujato]]: The defilement of sensuality.
-- [[Ñāṇamoli]]: The canker of sense-desire.
+- **Bodhi:** The taint of sensual desire.
+- **Sujato:** The defilement of sensuality.
+- **Ñāṇamoli:** The canker of sense-desire.
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 ## Definition
 **Kāmāsava** er den af de tre grundlæggende gæringer (_āsava_, se [[āsava]]) der udspringer af **sanselig begær** (_kāma_). Ifølge Abhidhammattha Saṅgaha er kāmāsava ikke en selvstændig, forudgående årsag til _kāmataṇhā_ ("sanselig higen") — de to betegner **samme grundfaktor** (_lobha_), blot betragtet under to forskellige synsvinkler: som _taṇhā_ fremhæves higens trækkende kraft; som _āsava_ fremhæves dens vedholdende, selvforstærkende gæring over tid, indtil den aktivt opgives.
 ## Etymologi:
@@ -31,4 +31,4 @@ Se den samlede diskussion i [[āsava]]. "Sansegæring" (sammensætning) er valgt
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

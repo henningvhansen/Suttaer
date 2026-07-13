@@ -9,7 +9,10 @@ title: nāma‑rūpa
 ## Dansk:
 navn‑form
 ## Oversættelser:
-- Engelsk (samlet): name‑and‑form (Bodhi), name‑and‑form (Sujato), name‑and‑form (Thanissaro), navn‑og‑form (Lie)
+* **Bodhi**: name‑and‑form
+* **Sujato**: name‑and‑form
+* **Thanissaro**: name‑and‑form
+* **Lie**: navn‑og‑form
 
 ## Kategori:
 årsagslære

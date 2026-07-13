@@ -9,7 +9,10 @@ title: jhāna
 ## Dansk:
 fordybelse
 ## Oversættelser:
-- Engelsk (samlet): absorption (Bodhi), absorption (Sujato), jhana (Thanissaro), meditasjonsfordypning (Lie)
+* **Bodhi**: absorption
+* **Sujato**: absorption
+* **Thanissaro**: jhana
+* **Lie**: meditasjonsfordypning
 
 ## Kategori:
 meditation

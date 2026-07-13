@@ -9,7 +9,10 @@ title: cakkhu‑viññāṇa
 ## Dansk:
 øjenbevidsthed
 ## Oversættelser:
-- Engelsk (samlet): eye consciousness (Bodhi), eye consciousness (Sujato), eye consciousness (Thanissaro), øyebevissthet (Lie)
+* **Bodhi**: eye consciousness
+* **Sujato**: eye consciousness
+* **Thanissaro**: eye consciousness
+* **Lie**: øyebevissthet
 
 ## Kategori:
 bevidsthed

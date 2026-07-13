@@ -9,7 +9,10 @@ title: hiri‑ottappa
 ## Dansk:
 skam og blufærdighed
 ## Oversættelser:
-- Engelsk (samlet): conscience & prudence (Bodhi), conscience & prudence (Sujato), shame & fear of wrongdoing (Thanissaro), skam og blygsel (Lie)
+* **Bodhi**: conscience & prudence
+* **Sujato**: conscience & prudence
+* **Thanissaro**: shame & fear of wrongdoing
+* **Lie**: skam og blygsel
 
 ## Kategori:
 etik

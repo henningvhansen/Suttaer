@@ -9,7 +9,10 @@ title: gotama
 ## Dansk:
 Gotama
 ## Oversættelser:
-- Engelsk (samlet): Gotama (Bodhi), Gotama (Sujato), Gotama (Thanissaro), Gotama (Lie)
+* **Bodhi**: Gotama
+* **Sujato**: Gotama
+* **Thanissaro**: Gotama
+* **Lie**: Gotama
 
 ## Kategori:
 personer

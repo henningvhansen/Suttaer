@@ -9,7 +9,10 @@ title: lobha
 ## Dansk:
 begær
 ## Oversættelser:
-- Engelsk (samlet): greed (Bodhi), greed (Sujato), greed (Thanissaro), begjær (Lie)
+* **Bodhi**: greed
+* **Sujato**: greed
+* **Thanissaro**: greed
+* **Lie**: begjær
 
 ## Kategori:
 psykologi

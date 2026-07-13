@@ -9,7 +9,10 @@ title: lokuttara
 ## Dansk:
 verdensoverskridende
 ## Oversættelser:
-- Engelsk (samlet): supramundane (Bodhi), transcendent (Sujato), supramundane (Thanissaro), oververdslig (Lie)
+* **Bodhi**: supramundane
+* **Sujato**: transcendent
+* **Thanissaro**: supramundane
+* **Lie**: oververdslig
 
 ## Kategori:
 indsigt

@@ -24,4 +24,4 @@ Ildelementet; varme-, modenheds- og transformationsprincippet.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

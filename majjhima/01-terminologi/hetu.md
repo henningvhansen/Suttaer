@@ -9,7 +9,10 @@ title: hetu
 ## Dansk:
 årsag
 ## Oversættelser:
-- Engelsk (samlet): cause (Bodhi), cause (Sujato), cause (Thanissaro), årsak (Lie)
+* **Bodhi**: cause
+* **Sujato**: cause
+* **Thanissaro**: cause
+* **Lie**: årsak
 
 ## Kategori:
 årsagslære

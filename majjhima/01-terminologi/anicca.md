@@ -9,7 +9,10 @@ title: anicca
 ## Dansk:
 ubestandighed; foranderlighed
 ## Oversættelser:
-- Engelsk (samlet): impermanent (Bodhi), impermanent (Sujato), inconstant (Thanissaro), forgjengelig (Lie)
+* **Bodhi**: impermanent
+* **Sujato**: impermanent
+* **Thanissaro**: inconstant
+* **Lie**: forgjengelig
 
 ## Kategori:
 de tre kendetegn

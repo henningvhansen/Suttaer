@@ -9,7 +9,10 @@ title: vedanānupassanā
 ## Dansk:
 opmærksomhed på følelser
 ## Oversættelser:
-- Engelsk (samlet): mindfulness of feelings (Bodhi), mindfulness of feelings (Sujato), mindfulness of feelings (Thanissaro), oppmerksomhet på følelser (Lie)
+* **Bodhi**: mindfulness of feelings
+* **Sujato**: mindfulness of feelings
+* **Thanissaro**: mindfulness of feelings
+* **Lie**: oppmerksomhet på følelser
 
 ## Kategori:
 satipaṭṭhāna

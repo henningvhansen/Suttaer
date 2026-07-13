@@ -9,7 +9,10 @@ title: āyatana
 ## Dansk:
 sanseområde
 ## Oversættelser:
-- Engelsk (samlet): sense sphere (Bodhi), sense field (Sujato), sense medium (Thanissaro), sanseområde (Lie)
+* **Bodhi**: sense sphere
+* **Sujato**: sense field
+* **Thanissaro**: sense medium
+* **Lie**: sanseområde
 
 ## Kategori:
 sanser

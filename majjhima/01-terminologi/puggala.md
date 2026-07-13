@@ -9,7 +9,10 @@ title: puggala
 ## Dansk:
 person
 ## Oversættelser:
-- Engelsk (samlet): person (Bodhi), individual (Sujato), individual (Thanissaro), person (Lie)
+* **Bodhi**: person
+* **Sujato**: individual
+* **Thanissaro**: individual
+* **Lie**: person
 
 ## Kategori:
 personkategorier

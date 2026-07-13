@@ -9,7 +9,10 @@ title: loma
 ## Dansk:
 hår
 ## Oversættelser:
-- Engelsk (samlet): hair (Bodhi), hair (Sujato), hair (Thanissaro), hår (Lie)
+* **Bodhi**: hair
+* **Sujato**: hair
+* **Thanissaro**: hair
+* **Lie**: hår
 
 ## Kategori:
 sanser

@@ -28,5 +28,5 @@ Betegner det dybeste grundlag for et fænomen. I MN01: “roden til alle ting”
 #Bodhi #Sujato #Horner
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)
 - [[AN3.69 Akusalamūlasutta]] - Unskillful Roots - De tre usunde rødder

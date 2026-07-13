@@ -9,7 +9,10 @@ title: thera
 ## Dansk:
 ældre munk
 ## Oversættelser:
-- Engelsk (samlet): elder (Bodhi), elder (Sujato), elder (Thanissaro), eldre munk (Lie)
+* **Bodhi**: elder
+* **Sujato**: elder
+* **Thanissaro**: elder
+* **Lie**: eldre munk
 
 ## Kategori:
 personkategorier

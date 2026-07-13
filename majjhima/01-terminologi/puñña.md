@@ -9,7 +9,10 @@ title: puñña
 ## Dansk:
 fortjeneste
 ## Oversættelser:
-- Engelsk (samlet): merit (Bodhi), merit (Sujato), merit (Thanissaro), fortjeneste (Lie)
+* **Bodhi**: merit
+* **Sujato**: merit
+* **Thanissaro**: merit
+* **Lie**: fortjeneste
 
 ## Kategori:
 etik

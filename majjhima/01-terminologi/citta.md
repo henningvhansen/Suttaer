@@ -9,7 +9,11 @@ title: citta
 ## Dansk:
 sind
 ## Oversættelser:
-- Engelsk (samlet): mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie),  heart mind (Sujato)
+* **Bodhi**: mind
+* **Sujato**: mind
+* **Thanissaro**: mind
+* **Lie**: sinn
+* **Sujato**: heart mind
 
 ## Kategori:
 mentale faktorer

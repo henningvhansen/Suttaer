@@ -9,7 +9,10 @@ title: kamma
 ## Dansk:
 handling
 ## Oversættelser:
-- Engelsk (samlet): action (Bodhi), deed (Sujato), action (Thanissaro), handling (Lie)
+* **Bodhi**: action
+* **Sujato**: deed
+* **Thanissaro**: action
+* **Lie**: handling
 
 ## Kategori:
 etik

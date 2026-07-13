@@ -12,7 +12,7 @@ Det sete, det han har sett #Lie
 - Engelsk (samlet): The seen
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sanseevne
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sanseevne
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -24,4 +24,4 @@ Det, der erkendes gennem synet.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

@@ -7,18 +7,18 @@ title: nandī
 ## Senest redigeret:
 
 ## Dansk:
-glæde; tilfredsstillelse; lystfuld fastholdelse
+lystfuld fastholdelse
 ## Oversættelser:
-- [[Sujato]]: approval
-- [[bodhi]]: delight
-- [[Suddhāso]]: delight
-- [[Horner]]: delight
-- [[Ñāṇamoli]]: 
-- [[Thanissaro]]: 
-- [[Lie]]: nytelse
-- [[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: 
+- **Sujato:** approval
+- **Bodhi:** delight
+- **Suddhāso:** delight
+- **Horner:** delight
+- **Ñāṇamoli:** 
+- **Thanissaro:** 
+- **Lie:** nytelse
+- [Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)](../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST).md): 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: 
+[Begreber MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 Begge ord stammer fra samme rod **√nand** — “at glædes, frydes, finde tilfredsstillelse”. Heraf:
 
@@ -37,4 +37,4 @@ _Nandī_ er den **tilstand** af tilfredsstillelse, der opstår, når man _abhina
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

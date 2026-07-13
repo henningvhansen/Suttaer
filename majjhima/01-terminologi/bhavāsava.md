@@ -9,11 +9,11 @@ title: bhavāsava
 ## Dansk:
 Tilblivelsesgæring.
 ## Oversættelser:
-- [[bodhi]]: The taint of being.
-- [[Sujato]]: The defilement of continued existence.
-- [[Ñāṇamoli]]: The canker of becoming.
+- **Bodhi:** The taint of being.
+- **Sujato:** The defilement of continued existence.
+- **Ñāṇamoli:** The canker of becoming.
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 ## Definition
 **Bhavāsava** er den af de tre grundlæggende gæringer (_āsava_, se [[āsava]]) der udspringer af **tilblivelse** (_bhava_) — den dybtliggende tilbøjelighed til at ville *blive til*, *fortsætte med at eksistere*, *vedblive som nogen* i en eller anden form for tilværelse. Ifølge Abhidhammattha Saṅgaha er bhavāsava ikke en selvstændig, forudgående årsag til _bhavataṇhā_ ("higen efter tilblivelse") — de to betegner **samme grundfaktor** (_lobha_), blot betragtet under to forskellige synsvinkler (se [[āsava]] for den fulde diskussion).
 
@@ -33,4 +33,4 @@ Se den samlede diskussion i [[āsava]]. "Tilblivelsesgæring" (sammensætning) e
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

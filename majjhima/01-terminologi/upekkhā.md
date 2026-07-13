@@ -24,4 +24,4 @@ sindsligevægt
 ## Kilder:
 equanimity #Bodhi equanimity #Sujato  #Lie likevekt
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

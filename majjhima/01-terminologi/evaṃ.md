@@ -9,7 +9,10 @@ title: evaṃ
 ## Dansk:
 således
 ## Oversættelser:
-- Engelsk (samlet): thus (Bodhi), thus (Sujato), thus (Thanissaro), slik (Lie)
+* **Bodhi**: thus
+* **Sujato**: thus
+* **Thanissaro**: thus
+* **Lie**: slik
 
 ## Kategori:
 formelsprog

@@ -25,4 +25,4 @@ Jordelementet; det faste, bærende og udstrakte element.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

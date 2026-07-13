@@ -9,7 +9,10 @@ title: nāma
 ## Dansk:
 navn; mental faktor
 ## Oversættelser:
-- Engelsk (samlet): mentality (Bodhi), name (Sujato), name (Thanissaro), navn (Lie)
+* **Bodhi**: mentality
+* **Sujato**: name
+* **Thanissaro**: name
+* **Lie**: navn
 
 ## Kategori:
 psykologi

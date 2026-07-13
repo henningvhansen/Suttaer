@@ -9,7 +9,10 @@ title: anattā
 ## Dansk:
 ikke‑selv
 ## Oversættelser:
-- Engelsk (samlet): not‑self (Bodhi), not‑self (Sujato), not‑self (Thanissaro), ikke‑selv (Lie)
+* **Bodhi**: not‑self
+* **Sujato**: not‑self
+* **Thanissaro**: not‑self
+* **Lie**: ikke‑selv
 
 ## Kategori:
 de tre kendetegn

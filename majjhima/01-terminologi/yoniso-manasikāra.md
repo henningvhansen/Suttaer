@@ -13,14 +13,14 @@ aliases:
 ## Dansk:
 Grundigt fokus / overfladisk fokus.
 ## Oversættelser:
-- [[Sujato]]: Rational application of mind and irrational application of mind.
-- [[bodhi]]: Wise attention and unwise attention.
-- [[Horner]]: Wise attention and unwise attention.
-- [[Lie]]: “Man kan bruke tankene fornuftig og man kan bruke dem ufornuftig.”
-- [[Suddhāso]]: Application of mind based on an understanding of causality, and application of mind not based on an understanding of causality.
-- [[Anālayo]]: “Attention purposely directed, in a manner that is wise, thorough, and appropriate.”
+- **Sujato:** Rational application of mind and irrational application of mind.
+- **Bodhi:** Wise attention and unwise attention.
+- **Horner:** Wise attention and unwise attention.
+- **Lie:** “Man kan bruke tankene fornuftig og man kan bruke dem ufornuftig.”
+- **Suddhāso:** Application of mind based on an understanding of causality, and application of mind not based on an understanding of causality.
+- **Anālayo:** “Attention purposely directed, in a manner that is wise, thorough, and appropriate.”
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 ## Definition
 **Yoniso manasikāra** betegner en specifik måde at rette sindet mod et fænomen på, hvor fokus orienteres **grundigt**, dvs. **fuldstændigt og uden at blive stående ved overfladen**. Det modsatte, **ayoniso manasikāra**, betegner et **overfladisk** fokus, som tager fænomenets umiddelbare fremtræden for pålydende og fastholder vanemæssig perception og reaktivitet.
 
@@ -58,7 +58,7 @@ Denne note gennemgik en længere afklaring i forbindelse med oversættelsen af M
 2. **En bruger (Pasanna) pegede på et modeksempel fra [[Kd21]]** (Vinaya), der viste *yoniso* brugt om munkes fuldstændige udnyttelse af klædestykker (“intet spildes”) — en konkret, ikke-mental brug, der pegede på en bredere betydning: “fuldstændigt/grundigt”, snarere end en specifik kausal reference.
 3. **En bruger (Dogen)** foreslog, at *yoniso manasikāra* er selv-validerende: hvis konklusionen er forkert, var man pr. definition ikke *yoniso* — hvilket kunne forenes med den kausale læsning ved at antage, at et betinget fænomens “bund” netop er dets betingelser.
 4. **Et afgørende metodisk modspil (Sunyo, med henvisning til [[Anālayo]]):** At praksis fungerer på en bestemt måde (fx at overvinde hindringer kræver forståelse af deres årsager), beviser intet om, hvad *ordet* yoniso selv betyder. At basere en ords betydning på praksis frem for sproglig analyse er en glidebane, meget udsat for bekræftelsesbias. Til støtte for dette blev fremhævet:
-   - [[AN 3.5]] / [[DN 4]]: *yoniso pañhaṃ pucchati* (“at stille et spørgsmål *yoniso*”) — handler om et velformet, relevant spørgsmål, ikke oplagt om kausalitet.
+   - [[AN 3.5]] / **DN 4:** *yoniso pañhaṃ pucchati* (“at stille et spørgsmål *yoniso*”) — handler om et velformet, relevant spørgsmål, ikke oplagt om kausalitet.
    - Et formelmæssigt slægtskab mellem *yoniso manasikāra* ([[SN 12.10]]), *sādhukaṃ manasikāra* (“grundigt/omhyggeligt”, [[Ud 1.1]]) og den kombinerede *yoniso sādhukaṃ manasikāra* ([[SN 12.62]]), som tyder på, at *yoniso* fungerer som tilnærmet synonym til *sādhukaṃ*.
    - **Spisemåde-formlen** (*bhojane mattaññutā*): en munk reflekterer *yoniso* over sin mad — ikke for sjov eller pynt, men kun for at opretholde kroppen. Dette er en refleksion over **formål og motivation**, ikke en sporing af årsagskæder, og et forsøg på at læse kausalitet ind her virker tvunget.
    - **Anālayos definition**, valgt som den mest forsigtige og filologisk velbegrundede: *“attention purposely directed, in a manner that is wise, thorough, and appropriate”* — uden kausal komponent.
@@ -77,4 +77,4 @@ Denne læsning var udgangspunktet for det indledende arbejde med begrebet, men e
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

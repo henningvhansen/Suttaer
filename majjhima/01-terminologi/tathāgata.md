@@ -9,7 +9,10 @@ title: tathāgata
 ## Dansk:
 således‑kommen
 ## Oversættelser:
-- Engelsk (samlet): Realized One (Bodhi), Truth‑finder (Sujato), Tathāgata (Thanissaro), Tathagata (Lie)
+* **Bodhi**: Realized One
+* **Sujato**: Truth‑finder
+* **Thanissaro**: Tathāgata
+* **Lie**: Tathagata
 
 ## Kategori:
 personer

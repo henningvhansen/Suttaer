@@ -9,7 +9,10 @@ title: rāga
 ## Dansk:
 begær; lyst
 ## Oversættelser:
-- Engelsk (samlet): greed/lust (Bodhi), desire (Sujato), passion (Thanissaro), begjær (Lie)
+* **Bodhi**: greed/lust
+* **Sujato**: desire
+* **Thanissaro**: passion
+* **Lie**: begjær
 
 ## Kategori:
 psykologi

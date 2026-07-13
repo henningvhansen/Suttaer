@@ -9,10 +9,11 @@ title: Brahmā
 ## Dansk:
 Brahmā
 ## Oversættelser:
-- Engelsk (samlet): Brahmā #Bodhi, Divinity #Sujato
+* **Bodhi**: Brahmā
+* **Sujato**: Divinity
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -42,5 +43,5 @@ Selvom en Brahmā lever i milliarder af år, stråler af lys og har ufattelig st
 
 Den absolut højeste status i buddhismen tilhører derfor ikke guderne, men en **Buddha** eller en **Arahant** (en oplyst), fordi de har brudt ud af kredsløbet og opnået Nirvana, hvilket guderne i Brahmā-verdenen endnu ikke har.
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)
 - [[DN1]] Brahmajālasutta, The All-embracing Net of Views

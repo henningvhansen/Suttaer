@@ -9,7 +9,10 @@ title: ekāyana
 ## Dansk:
 én vej
 ## Oversættelser:
-- Engelsk (samlet): one way (Bodhi), one way (Sujato), one‑way (Thanissaro), én vei (Lie)
+* **Bodhi**: one way
+* **Sujato**: one way
+* **Thanissaro**: one‑way
+* **Lie**: én vei
 
 ## Kategori:
 praksis

@@ -9,7 +9,10 @@ title: khandha
 ## Dansk:
 aggregat
 ## Oversættelser:
-- Engelsk (samlet): aggregate (Bodhi), aggregate (Sujato), aggregate (Thanissaro), gruppe (Lie)
+* **Bodhi**: aggregate
+* **Sujato**: aggregate
+* **Thanissaro**: aggregate
+* **Lie**: gruppe
 
 ## Kategori:
 centrale begreber

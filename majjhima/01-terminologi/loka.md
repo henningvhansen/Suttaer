@@ -9,7 +9,10 @@ title: loka
 ## Dansk:
 verden
 ## Oversættelser:
-- Engelsk (samlet): world (Bodhi), world (Sujato), world (Thanissaro), verden (Lie)
+* **Bodhi**: world
+* **Sujato**: world
+* **Thanissaro**: world
+* **Lie**: verden
 
 ## Kategori:
 kosmologi

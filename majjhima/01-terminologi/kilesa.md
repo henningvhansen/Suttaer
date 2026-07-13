@@ -9,7 +9,10 @@ title: kilesa
 ## Dansk:
 urenhed
 ## Oversættelser:
-- Engelsk (samlet): defilement (Bodhi), defilement (Sujato), defilement (Thanissaro), urenhet (Lie)
+* **Bodhi**: defilement
+* **Sujato**: defilement
+* **Thanissaro**: defilement
+* **Lie**: urenhet
 
 ## Kategori:
 psykologi

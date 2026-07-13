@@ -9,13 +9,13 @@ title: āsava
 ## Dansk:
 Gæring.
 ## Oversættelser:
-- [[bodhi]]: Taint.
-- [[Sujato]]: Defilement.
-- [[Thanissaro]]: Effluent (tidligere, i ældre udgaver: fermentation).
-- [[Ñāṇamoli]]: Canker.
-- [[Lie]]: Urenhet.
+- **Bodhi:** Taint.
+- **Sujato:** Defilement.
+- **Thanissaro:** Effluent (tidligere, i ældre udgaver: fermentation).
+- **Ñāṇamoli:** Canker.
+- **Lie:** Urenhet.
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 ## Definition
 **Āsava** betegner ikke en trang (_taṇhā_) eller en almindelig besmittelse (_kilesa_) i sig selv, men **kilesaens eller taṇhāens vedholdende, selvforstærkende karakter over tid** — det er samme grundlæggende begær eller uvidenhed, men betragtet som noget, der *gærer, ophobes og vedligeholder sig selv*, indtil det standses (_pahīyati_, se [[pahīyati]]), snarere end som en enkeltstående, forbigående mental begivenhed.
 ## Etymologi:
@@ -57,4 +57,4 @@ Denne note er resultatet af en længere afklaring (juli 2026), der undersøgte t
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

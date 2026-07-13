@@ -7,7 +7,10 @@ title: upādāna
 ## Senest redigeret:
 
 **Dansk:** klamren (aktiv) / binding (tilstand)
-**Engelsk:** clinging / attachment (Bodhi), grasping (Sujato), clinging (Thanissaro), tilknytning (Lie)
+* **Bodhi**: ** clinging / attachment
+* **Sujato**: grasping
+* **Thanissaro**: clinging
+* **Lie**: tilknytning
 **Kategori:** årsagslære / bindinger / betinget tilblivelse 
 
 ## Dansk:
@@ -52,4 +55,4 @@ Suttaen analyserer dermed selve den psykologiske mekanisme, der fører til klamr
 - [[MN 38 – Mahātaṇhāsaṅkhaya Sutta]]    
 - [[SN 22.121 – Upādāna-paripavatta Sutta]]    
 - [[SN 23.2 – Upādāna Sutta]]    
-- [[majjhima/02-suttaer/MN01]] (som kontrast: begrebet forekommer ikke, men mekanismen analyseres)
+- [MN01](majjhima/02-suttaer/MN01.md) (som kontrast: begrebet forekommer ikke, men mekanismen analyseres)

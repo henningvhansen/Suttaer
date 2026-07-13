@@ -9,7 +9,10 @@ title: jāti
 ## Dansk:
 fødsel
 ## Oversættelser:
-- Engelsk (samlet): birth (Bodhi), rebirth (Sujato), birth (Thanissaro), fødsel (Lie)
+* **Bodhi**: birth
+* **Sujato**: rebirth
+* **Thanissaro**: birth
+* **Lie**: fødsel
 
 ## Kategori:
 årsagslære

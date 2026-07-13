@@ -9,7 +9,10 @@ title: cetanā
 ## Dansk:
 intention; vilje
 ## Oversættelser:
-- Engelsk (samlet): intention (Bodhi), intention (Sujato), intention (Thanissaro), vilje (Lie)
+* **Bodhi**: intention
+* **Sujato**: intention
+* **Thanissaro**: intention
+* **Lie**: vilje
 
 ## Kategori:
 mentale faktorer

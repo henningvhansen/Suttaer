@@ -9,7 +9,10 @@ title: satipaṭṭhāna
 ## Dansk:
 grundlag for opmærksomhed
 ## Oversættelser:
-- Engelsk (samlet): foundations of mindfulness (Bodhi), foundations of mindfulness (Sujato), frames of reference (Thanissaro), oppmerksomhetsgrunnlag (Lie)
+* **Bodhi**: foundations of mindfulness
+* **Sujato**: foundations of mindfulness
+* **Thanissaro**: frames of reference
+* **Lie**: oppmerksomhetsgrunnlag
 
 ## Kategori:
 satipaṭṭhāna

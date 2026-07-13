@@ -9,7 +9,10 @@ title: bhava‑taṇhā
 ## Dansk:
 længsel efter tilblivelse
 ## Oversættelser:
-- Engelsk (samlet): craving for existence (Bodhi), craving for existence (Sujato), craving for becoming (Thanissaro), begjær etter tilblivelse (Lie)
+* **Bodhi**: craving for existence
+* **Sujato**: craving for existence
+* **Thanissaro**: craving for becoming
+* **Lie**: begjær etter tilblivelse
 
 ## Kategori:
 tilknytning

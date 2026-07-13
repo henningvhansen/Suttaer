@@ -9,7 +9,10 @@ title: dāna
 ## Dansk:
 gavmildhed
 ## Oversættelser:
-- Engelsk (samlet): generosity (Bodhi), generosity (Sujato), giving (Thanissaro), gavmildhet (Lie)
+* **Bodhi**: generosity
+* **Sujato**: generosity
+* **Thanissaro**: giving
+* **Lie**: gavmildhet
 
 ## Kategori:
 etik

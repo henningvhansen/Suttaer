@@ -9,7 +9,10 @@ title: nirodha
 ## Dansk:
 ophør
 ## Oversættelser:
-- Engelsk (samlet): cessation (Bodhi), cessation (Sujato), cessation (Thanissaro), opphør (Lie)
+* **Bodhi**: cessation
+* **Sujato**: cessation
+* **Thanissaro**: cessation
+* **Lie**: opphør
 
 ## Kategori:
 de fire ædle sandheder

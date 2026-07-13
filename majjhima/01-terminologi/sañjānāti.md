@@ -13,12 +13,12 @@ Oversættelser:
 - **[[bodhi]]** — perceives    
 - **[[Ñāṇamoli]]** — perceives    
 - **[[Thanissaro]]** — perceives / identifies
-- [[Lie]]:  betrakter
-- [[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]: To think, suppose; to recognize, perceive, comprehend; to call, name
+- **Lie:**  betrakter
+- [Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)](../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST).md): To think, suppose; to recognize, perceive, comprehend; to call, name
 ## Oversættelser:
 
 ## Kategori:
-[[../00-moc/Begreber-MOC#Erkendelse]]: Erkendelse
+[Begreber MOC#Erkendelse](../00-moc/Begreber-MOC#Erkendelse.md): Erkendelse
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -27,7 +27,7 @@ Oversættelser:
 
 ## Kommentar:
 (saṅ + jānāti) — perceptuel genkendelse, tæt knyttet til _saññā_. I MN1 kan det beskrives som “at opfatte X som X”, altså den første registrering, før den selvorienterede konceptualisering i _maññati_ tager over.
-[[Perplexity]]:
+**Perplexity:**
 - _jānāti_ = kende, være klar over    
 - _sañjānāti_ = opfatte, genkende, identificere    
 - _vijānāti / pajānāti_ = forstå, kende mere analytisk    
@@ -35,4 +35,4 @@ Oversættelser:
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

@@ -12,7 +12,7 @@ Mangfoldighed
 - Engelsk (samlet): diversity #Bodhi #Sujato
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: 
+[Begreber MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +25,4 @@ Det at være mange, varieret eller differentieret.
 
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

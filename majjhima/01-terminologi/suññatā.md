@@ -89,4 +89,4 @@ Det er i mine øjne en bedre og mere præcis konklusion end at sige, at “ubund
 ## Kilder:
 #Copilot #Perplexity
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

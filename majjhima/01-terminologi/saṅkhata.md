@@ -9,7 +9,10 @@ title: saṅkhata
 ## Dansk:
 det betingede
 ## Oversættelser:
-- Engelsk (samlet): conditioned (Bodhi), conditioned (Sujato), fabricated (Thanissaro), det betingede (Lie)
+* **Bodhi**: conditioned
+* **Sujato**: conditioned
+* **Thanissaro**: fabricated
+* **Lie**: det betingede
 
 ## Kategori:
 centrale begreber

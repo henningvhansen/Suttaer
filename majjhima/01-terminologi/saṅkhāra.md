@@ -9,7 +9,10 @@ title: saṅkhāra
 ## Dansk:
 formationer; viljesdannelser
 ## Oversættelser:
-- Engelsk (samlet): volitional formations (Bodhi), choices (Sujato), fabrications (Thanissaro), viljesdannelser (Lie)
+* **Bodhi**: volitional formations
+* **Sujato**: choices
+* **Thanissaro**: fabrications
+* **Lie**: viljesdannelser
 
 ## Kategori:
 centrale begreber

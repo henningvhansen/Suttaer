@@ -9,7 +9,10 @@ title: vossagga
 ## Dansk:
 opgivelse; slippen
 ## Oversættelser:
-- Engelsk (samlet): relinquishment (Bodhi), letting go (Sujato), release (Thanissaro), oppgivelse (Lie)
+* **Bodhi**: relinquishment
+* **Sujato**: letting go
+* **Thanissaro**: release
+* **Lie**: oppgivelse
 
 ## Kategori:
 indsigt

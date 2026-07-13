@@ -9,11 +9,11 @@ title: avijjāsava
 ## Dansk:
 Uvidenhedsgæring.
 ## Oversættelser:
-- [[bodhi]]: The taint of ignorance.
-- [[Sujato]]: The defilement of ignorance.
-- [[Ñāṇamoli]]: The canker of ignorance.
+- **Bodhi:** The taint of ignorance.
+- **Sujato:** The defilement of ignorance.
+- **Ñāṇamoli:** The canker of ignorance.
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 ## Definition
 **Avijjāsava** er den af de tre grundlæggende gæringer (_āsava_, se [[āsava]]) der udspringer af **uvidenhed** (_avijjā_) — grundlæggende ikke-forståelse af de fire ædle sandheder. Hvor kāmāsava og bhavāsava er gæringer af *begær* (og ifølge Abhidhammattha Saṅgaha identiske med de tilsvarende former for taṇhā, se [[kāmāsava]]/[[bhavāsava]]), er avijjāsava af en anden orden: den er ikke et begær, men den kognitive uklarhed, der ligger til grund for, at begær overhovedet kan opstå.
 ## Etymologi:
@@ -33,4 +33,4 @@ Se den samlede diskussion i [[āsava]]. "Uvidenhedsgæring" (sammensætning) er 
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

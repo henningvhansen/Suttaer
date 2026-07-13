@@ -9,7 +9,10 @@ title: kāyānupassanā
 ## Dansk:
 opmærksomhed på kroppen
 ## Oversættelser:
-- Engelsk (samlet): mindfulness of body (Bodhi), mindfulness of body (Sujato), mindfulness of the body (Thanissaro), oppmerksomhet på kroppen (Lie)
+* **Bodhi**: mindfulness of body
+* **Sujato**: mindfulness of body
+* **Thanissaro**: mindfulness of the body
+* **Lie**: oppmerksomhet på kroppen
 
 ## Kategori:
 satipaṭṭhāna

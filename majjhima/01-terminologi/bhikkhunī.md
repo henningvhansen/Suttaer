@@ -9,7 +9,10 @@ title: bhikkhunī
 ## Dansk:
 nonne
 ## Oversættelser:
-- Engelsk (samlet): nun (Bodhi), nun (Sujato), nun (Thanissaro), nonne (Lie)
+* **Bodhi**: nun
+* **Sujato**: nun
+* **Thanissaro**: nun
+* **Lie**: nonne
 
 ## Kategori:
 personkategorier
@@ -24,7 +27,7 @@ personkategorier
 Kvinde, der har modtaget fuld ordination.
 
 ## Kategori:
-[[../00-moc/Begreber-MOC#Personkategorier]].
+[Begreber MOC#Personkategorier](../00-moc/Begreber-MOC#Personkategorier.md).
 
 ## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie

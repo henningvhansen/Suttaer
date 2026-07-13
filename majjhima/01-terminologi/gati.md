@@ -9,7 +9,10 @@ title: gati
 ## Dansk:
 destination; tilstand
 ## Oversættelser:
-- Engelsk (samlet): destiny (Bodhi), rebirth destination (Sujato), course (Thanissaro), skjebne (Lie)
+* **Bodhi**: destiny
+* **Sujato**: rebirth destination
+* **Thanissaro**: course
+* **Lie**: skjebne
 
 ## Kategori:
 kosmologi

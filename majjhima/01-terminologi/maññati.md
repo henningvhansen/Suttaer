@@ -8,19 +8,19 @@ title: maññati
 
 ## Dansk:
 
-At tænke; at forestille sig; at konstruere; at danne en mental forestilling om noget.
+At forestille sig; at konstruere; at danne en mental forestilling om noget.
 
 ## Oversættelser:
 
-- **[[Sujato]]**: _conceives; imagines; identifies; thinks_    
-- **[[bodhi]]**: _conceives; imagines_    
-- **[[Ñāṇamoli]]**: _conceives_    
-- **[[Lie]]**: _forestiller seg; tenker; innbiller seg_    
-- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _maññati_ (uoversat)    
+- **Sujato:** conceives; imagines; identifies; thinks
+- **bodhi:** conceives; imagines
+- **Ñāṇamoli:** conceives
+- **Lie:** forestiller seg; tenker; innbiller seg
+- **../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST):** _maññati_ (uoversat)    
 
 ## Kategori:
 
-[[../00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
+[Begreber MOC](../00-moc/Begreber-MOC.md): Verber / Erkendelsesverber
 
 ## Etymologi:
 
@@ -49,4 +49,4 @@ Verbet betegner den mentale handling, hvor et objekt gøres til genstand for tan
 
 ## Forekomster:
 
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

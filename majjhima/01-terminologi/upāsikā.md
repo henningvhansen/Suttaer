@@ -9,7 +9,10 @@ title: upāsikā
 ## Dansk:
 kvindelig lægtilhænger
 ## Oversættelser:
-- Engelsk (samlet): lay follower (Bodhi), lay follower (Sujato), lay follower (Thanissaro), legkvinne (Lie)
+* **Bodhi**: lay follower
+* **Sujato**: lay follower
+* **Thanissaro**: lay follower
+* **Lie**: legkvinne
 
 ## Kategori:
 personkategorier

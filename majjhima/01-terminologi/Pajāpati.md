@@ -13,7 +13,7 @@ Pajāpati
 - Engelsk (samlet): Pajāpati #Bodhi , Progenitor #Sujato
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -63,4 +63,4 @@ MN01 viser dermed, at **intet** — selv ikke en skabergud — ligger uden for d
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

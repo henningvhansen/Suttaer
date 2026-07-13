@@ -9,7 +9,10 @@ title: pañcakkhandhā
 ## Dansk:
 de fem aggregater
 ## Oversættelser:
-- Engelsk (samlet): five aggregates (Bodhi), five aggregates (Sujato), five aggregates (Thanissaro), fem grupper (Lie)
+* **Bodhi**: five aggregates
+* **Sujato**: five aggregates
+* **Thanissaro**: five aggregates
+* **Lie**: fem grupper
 
 ## Kategori:
 centrale begreber

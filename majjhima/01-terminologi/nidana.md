@@ -28,4 +28,4 @@ Ikke det samme som de tolv nidāna’er i betinget tilblivelse, men beslægtet.
 #Bodhi #Sujato
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

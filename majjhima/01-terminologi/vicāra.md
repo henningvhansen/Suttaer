@@ -9,7 +9,10 @@ title: vicāra
 ## Dansk:
 vedvarende tanke; undersøgelse
 ## Oversættelser:
-- Engelsk (samlet): examination (Bodhi), evaluation (Sujato), evaluation (Thanissaro), vurdering (Lie)
+* **Bodhi**: examination
+* **Sujato**: evaluation
+* **Thanissaro**: evaluation
+* **Lie**: vurdering
 
 ## Kategori:
 meditation

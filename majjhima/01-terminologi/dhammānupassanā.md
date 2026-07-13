@@ -9,7 +9,10 @@ title: dhammānupassanā
 ## Dansk:
 opmærksomhed på fænomener
 ## Oversættelser:
-- Engelsk (samlet): mindfulness of phenomena (Bodhi), mindfulness of phenomena (Sujato), mindfulness of mental qualities (Thanissaro), oppmerksomhet på fenomener (Lie)
+* **Bodhi**: mindfulness of phenomena
+* **Sujato**: mindfulness of phenomena
+* **Thanissaro**: mindfulness of mental qualities
+* **Lie**: oppmerksomhet på fenomener
 
 ## Kategori:
 satipaṭṭhāna

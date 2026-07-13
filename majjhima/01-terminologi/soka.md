@@ -9,7 +9,10 @@ title: soka
 ## Dansk:
 sorg
 ## Oversættelser:
-- Engelsk (samlet): sorrow (Bodhi), sorrow (Sujato), sorrow (Thanissaro), sorg (Lie)
+* **Bodhi**: sorrow
+* **Sujato**: sorrow
+* **Thanissaro**: sorrow
+* **Lie**: sorg
 
 ## Kategori:
 psykologi

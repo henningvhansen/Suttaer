@@ -9,7 +9,10 @@ title: sati
 ## Dansk:
 opmærksomhed
 ## Oversættelser:
-- Engelsk (samlet): mindfulness (Bodhi), mindfulness (Sujato), mindfulness (Thanissaro), oppmerksomhet (Lie)
+* **Bodhi**: mindfulness
+* **Sujato**: mindfulness
+* **Thanissaro**: mindfulness
+* **Lie**: oppmerksomhet
 
 ## Kategori:
 satipaṭṭhāna

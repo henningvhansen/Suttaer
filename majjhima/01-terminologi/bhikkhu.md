@@ -9,7 +9,10 @@ title: bhikkhu
 ## Dansk:
 munk
 ## Oversættelser:
-- Engelsk (samlet): monk (Bodhi), monk (Sujato), monk (Thanissaro), munk (Lie)
+* **Bodhi**: monk
+* **Sujato**: monk
+* **Thanissaro**: monk
+* **Lie**: munk
 
 ## Kategori:
 personkategorier
@@ -22,7 +25,7 @@ personkategorier
 ## Kommentar:
 Ordinært medlem af sanghaen.
 ## Kategori:
-[[../00-moc/Begreber-MOC#Personkategorier]].
+[Begreber MOC#Personkategorier](../00-moc/Begreber-MOC#Personkategorier.md).
 ## Kilder:
 #Bodhi #Sujato #Thanissaro #Lie
 

@@ -9,7 +9,10 @@ title: paññā
 ## Dansk:
 visdom
 ## Oversættelser:
-- Engelsk (samlet): wisdom (Bodhi), wisdom (Sujato), discernment (Thanissaro), visdom (Lie)
+* **Bodhi**: wisdom
+* **Sujato**: wisdom
+* **Thanissaro**: discernment
+* **Lie**: visdom
 
 ## Kategori:
 indsigt

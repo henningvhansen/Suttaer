@@ -9,13 +9,13 @@ title: saṁvara
 ## Dansk:
 Tilbageholdenhed.
 ## Oversættelser (MN2):
-- [[bodhi]]: Restraint.
-- [[Sujato]]: Restraint.
-- [[Ñāṇamoli]]: Restraint.
+- **Bodhi:** Restraint.
+- **Sujato:** Restraint.
+- **Ñāṇamoli:** Restraint.
 ## Oversættelser:
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]
+[Begreber MOC](../00-moc/Begreber-MOC.md)
 ## Definition
 **Saṁvara** betegner en bevidst **tilbageholdenhed eller lukning**, der forhindrer, at kontakten med et sanseobjekt udvikler sig til uro og begær. I MN2 er det specifikt **indriya-saṁvara** — tilbageholdenhed udøvet ved sanseindtrykets første kontakt, så reaktiv proces ikke får fodfæste - i forhold til de seks sanseevner (øje, øre, næse, tunge, krop, sind) — der er på spil: ikke en fysisk lukning af sanserne (at lukke øjnene), men en bestemt *måde* at forholde sig til det sansede på, som forhindrer, at kontakten fører videre til uro, sådan som en ikke-tilbageholdenhed typisk vil gøre.
 ## Etymologi:
@@ -48,4 +48,4 @@ Bodhi bemærker (i sin note til MN2), at de syv metoder falder i to grupper: to,
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN02]]
+- [MN02](majjhima/02-suttaer/MN02.md)

@@ -9,10 +9,11 @@ title: ākiñcaññāyatana
 ## Dansk:
 sfæren for intethed, intethetens plan #Lie
 ## Oversættelser:
-- Engelsk (samlet): the base of nothingness #Bodhi, the dimension of nothingness #Sujato
+* **Bodhi**: the base of nothingness
+* **Sujato**: the dimension of nothingness
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sfære
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sfære
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -24,4 +25,4 @@ Den tredje immaterielle sfære; intethed som meditationsobjekt.
 ## Kilder:
 #Perplexity 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

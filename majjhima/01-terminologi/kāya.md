@@ -9,7 +9,10 @@ title: kāya
 ## Dansk:
 krop
 ## Oversættelser:
-- Engelsk (samlet): body (Bodhi), body (Sujato), body (Thanissaro), kropp (Lie)
+* **Bodhi**: body
+* **Sujato**: body
+* **Thanissaro**: body
+* **Lie**: kropp
 
 ## Kategori:
 sanser

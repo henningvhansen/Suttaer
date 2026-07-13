@@ -9,7 +9,10 @@ title: rasa
 ## Dansk:
 smag
 ## Oversættelser:
-- Engelsk (samlet): taste (Bodhi), taste (Sujato), taste (Thanissaro), smak (Lie)
+* **Bodhi**: taste
+* **Sujato**: taste
+* **Thanissaro**: taste
+* **Lie**: smak
 
 ## Kategori:
 sanser

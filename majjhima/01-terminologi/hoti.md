@@ -9,7 +9,10 @@ title: hoti
 ## Dansk:
 er; bliver
 ## Oversættelser:
-- Engelsk (samlet): is (Bodhi), is (Sujato), is (Thanissaro), er (Lie)
+* **Bodhi**: is
+* **Sujato**: is
+* **Thanissaro**: is
+* **Lie**: er
 
 ## Kategori:
 grammatik

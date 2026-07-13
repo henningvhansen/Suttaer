@@ -9,7 +9,10 @@ title: manas
 ## Dansk:
 sind; tanke
 ## Oversættelser:
-- Engelsk (samlet): mind (Bodhi), mind (Sujato), mind (Thanissaro), sinn (Lie)
+* **Bodhi**: mind
+* **Sujato**: mind
+* **Thanissaro**: mind
+* **Lie**: sinn
 
 ## Kategori:
 psykologi

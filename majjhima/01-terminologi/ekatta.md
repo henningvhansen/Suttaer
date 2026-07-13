@@ -9,10 +9,11 @@ title: ekatta
 ## Dansk:
 Enhed, enhet #Lie
 ## Oversættelser:
-- Engelsk (samlet): unity #Bodhi,  oneness #Sujato
+* **Bodhi**: unity
+* **Sujato**: oneness
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sanserelateret
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ Det at være ét, ensartethed eller enhedsaspekt.
 #Perplexity 
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

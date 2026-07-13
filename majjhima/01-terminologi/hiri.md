@@ -9,7 +9,10 @@ title: hiri
 ## Dansk:
 skamfølelse (moralsk)
 ## Oversættelser:
-- Engelsk (samlet): conscience (Bodhi), conscience (Sujato), sense of shame (Thanissaro), skamfølelse (Lie)
+* **Bodhi**: conscience
+* **Sujato**: conscience
+* **Thanissaro**: sense of shame
+* **Lie**: skamfølelse
 
 ## Kategori:
 etik

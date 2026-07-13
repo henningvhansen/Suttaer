@@ -9,7 +9,10 @@ title: ti‑lakkhaṇa
 ## Dansk:
 de tre kendetegn
 ## Oversættelser:
-- Engelsk (samlet): three marks (Bodhi), three marks (Sujato), three characteristics (Thanissaro), tre kjennetegn (Lie)
+* **Bodhi**: three marks
+* **Sujato**: three marks
+* **Thanissaro**: three characteristics
+* **Lie**: tre kjennetegn
 
 ## Kategori:
 de tre kendetegn

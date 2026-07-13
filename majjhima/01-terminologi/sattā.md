@@ -9,10 +9,11 @@ title: sattā
 ## Dansk:
 Væsener
 ## Oversættelser:
-- Engelsk (samlet): creatures #Sujato, beings #Bodhi
+* **Sujato**: creatures
+* **Bodhi**: beings
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ Henviser til levende væsener.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

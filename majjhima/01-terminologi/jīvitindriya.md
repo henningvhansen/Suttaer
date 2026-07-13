@@ -9,7 +9,10 @@ title: jīvitindriya
 ## Dansk:
 livsfakultet
 ## Oversættelser:
-- Engelsk (samlet): life faculty (Bodhi), life faculty (Sujato), life faculty (Thanissaro), livskraft (Lie)
+* **Bodhi**: life faculty
+* **Sujato**: life faculty
+* **Thanissaro**: life faculty
+* **Lie**: livskraft
 
 ## Kategori:
 mentale faktorer

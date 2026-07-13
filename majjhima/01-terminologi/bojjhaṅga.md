@@ -9,7 +9,10 @@ title: bojjhaṅga
 ## Dansk:
 opvågningsfaktor
 ## Oversættelser:
-- Engelsk (samlet): awakening factor (Bodhi), awakening factor (Sujato), factor for awakening (Thanissaro), oppvåkningsfaktor (Lie)
+* **Bodhi**: awakening factor
+* **Sujato**: awakening factor
+* **Thanissaro**: factor for awakening
+* **Lie**: oppvåkningsfaktor
 
 ## Kategori:
 mentale faktorer

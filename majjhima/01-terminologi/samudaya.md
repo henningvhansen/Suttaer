@@ -27,5 +27,5 @@ Bruges ofte i forbindelse med lidelsens opståen (dukkhasamudaya).
 #Bodhi #Sujato
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)
 - - Saṁyutta Nikāya 22.131- 13. Avijjāvagga - Samudayasutta

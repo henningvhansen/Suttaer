@@ -9,7 +9,10 @@ title: kammavipāka
 ## Dansk:
 karmisk resultat
 ## Oversættelser:
-- Engelsk (samlet): result of action (Bodhi), result of action (Sujato), result of action (Thanissaro), karmisk frukt (Lie)
+* **Bodhi**: result of action
+* **Sujato**: result of action
+* **Thanissaro**: result of action
+* **Lie**: karmisk frukt
 
 ## Kategori:
 årsagslære

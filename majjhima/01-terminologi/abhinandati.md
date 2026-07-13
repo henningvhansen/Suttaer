@@ -28,7 +28,7 @@ Et centralt ord i tilknytningens psykologi. Hvor der er glæde, er der binding.
 #Bodhi #Sujato
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)
 # Referencer
 
 #Kovilo/Nisabho:

@@ -12,15 +12,15 @@ Vildfarelse; uvidenhed; mental blindhed; manglende evne til at se tingene som de
 
 ## Oversættelser:
 
-- **[[Sujato]]**: _delusion_    
-- **[[bodhi]]**: _delusion_    
-- **[[Ñāṇamoli]]**: _delusion_    
-- **[[Lie]]**: _villfarelse; uvitenhet_    
-- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _moha_ (uoversat)    
+- **Sujato:** delusion
+- **bodhi:** delusion
+- **Ñāṇamoli:** delusion
+- **Lie:** villfarelse; uvitenhet
+- **../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST):** _moha_ (uoversat)    
 
 ## Kategori:
 
-[[../00-moc/Begreber-MOC]]: Sindets urenheder / De tre rodårsager
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sindets urenheder / De tre rodårsager
 
 ## Etymologi:
 
@@ -70,4 +70,4 @@ Moha er derfor den **dybeste binding**, og dens ophør markerer fuld udfrielse.
 - _Abhidhamma_: moha som en af de tre urodårsager    
 
 ## Forekomster:
-[[majjhima/02-suttaer/MN01]]
+[MN01](majjhima/02-suttaer/MN01.md)

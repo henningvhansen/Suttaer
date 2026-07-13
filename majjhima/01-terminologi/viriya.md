@@ -9,7 +9,10 @@ title: viriya
 ## Dansk:
 energi; flid
 ## Oversættelser:
-- Engelsk (samlet): energy (Bodhi), energy (Sujato), persistence (Thanissaro), energi (Lie)
+* **Bodhi**: energy
+* **Sujato**: energy
+* **Thanissaro**: persistence
+* **Lie**: energi
 
 ## Kategori:
 mentale faktorer

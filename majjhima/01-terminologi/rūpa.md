@@ -9,7 +9,10 @@ title: rūpa
 ## Dansk:
 form; krop
 ## Oversættelser:
-- Engelsk (samlet): form (Bodhi), form (Sujato), form (Thanissaro), form (Lie)
+* **Bodhi**: form
+* **Sujato**: form
+* **Thanissaro**: form
+* **Lie**: form
 
 ## Kategori:
 centrale begreber

@@ -9,7 +9,10 @@ title: sukha
 ## Dansk:
 velvære; glæde
 ## Oversættelser:
-- Engelsk (samlet): happiness (Bodhi), pleasure (Sujato), pleasure (Thanissaro), glede (Lie)
+* **Bodhi**: happiness
+* **Sujato**: pleasure
+* **Thanissaro**: pleasure
+* **Lie**: glede
 
 ## Kategori:
 psykologi

@@ -9,7 +9,10 @@ title: kappa
 ## Dansk:
 tidsalder
 ## Oversættelser:
-- Engelsk (samlet): aeon (Bodhi), eon (Sujato), aeon (Thanissaro), tidsalder (Lie)
+* **Bodhi**: aeon
+* **Sujato**: eon
+* **Thanissaro**: aeon
+* **Lie**: tidsalder
 
 ## Kategori:
 kosmologi

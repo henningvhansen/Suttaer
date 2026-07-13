@@ -9,7 +9,10 @@ title: pīti
 ## Dansk:
 henrykkelse
 ## Oversættelser:
-- Engelsk (samlet): rapture (Bodhi), rapture (Sujato), rapture (Thanissaro), fryd (Lie)
+* **Bodhi**: rapture
+* **Sujato**: rapture
+* **Thanissaro**: rapture
+* **Lie**: fryd
 
 ## Kategori:
 meditation

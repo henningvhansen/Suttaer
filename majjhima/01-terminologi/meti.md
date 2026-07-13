@@ -17,7 +17,7 @@ Negationspartikel; bruges til at understrege “ikke således”, “ikke på de
 - CST: meti (uoversat)
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Partikler / Negation
+[Begreber MOC](../00-moc/Begreber-MOC.md): Partikler / Negation
 
 ## Etymologi:
 
@@ -32,4 +32,4 @@ Bruges til at understrege ophøret af konceptualisering.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

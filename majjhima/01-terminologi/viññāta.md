@@ -9,10 +9,11 @@ title: viññāta
 ## Dansk:
 Det erkendte, det han har erkjent #Lie
 ## Oversættelser:
-- Engelsk (samlet): the cognized #Bodhi, the known #Sujato
+* **Bodhi**: the cognized
+* **Sujato**: the known
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sanserelateret
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ Det mentale erkendte indhold som sådan.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

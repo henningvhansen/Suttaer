@@ -9,7 +9,10 @@ title: dukkha‑saññā
 ## Dansk:
 perception af lidelse
 ## Oversættelser:
-- Engelsk (samlet): perception of suffering (Bodhi), perception of suffering (Sujato), perception of stress (Thanissaro), oppfatning av lidelse (Lie)
+* **Bodhi**: perception of suffering
+* **Sujato**: perception of suffering
+* **Thanissaro**: perception of stress
+* **Lie**: oppfatning av lidelse
 
 ## Kategori:
 perceptioner

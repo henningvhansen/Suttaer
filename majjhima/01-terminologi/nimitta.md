@@ -9,7 +9,10 @@ title: nimitta
 ## Dansk:
 tegn
 ## Oversættelser:
-- Engelsk (samlet): sign (Bodhi), sign (Sujato), theme (Thanissaro), tegn (Lie)
+* **Bodhi**: sign
+* **Sujato**: sign
+* **Thanissaro**: theme
+* **Lie**: tegn
 
 ## Kategori:
 meditation

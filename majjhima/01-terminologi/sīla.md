@@ -9,7 +9,10 @@ title: sīla
 ## Dansk:
 moral
 ## Oversættelser:
-- Engelsk (samlet): ethics (Bodhi), ethics (Sujato), virtue (Thanissaro), moral (Lie)
+* **Bodhi**: ethics
+* **Sujato**: ethics
+* **Thanissaro**: virtue
+* **Lie**: moral
 
 ## Kategori:
 etik

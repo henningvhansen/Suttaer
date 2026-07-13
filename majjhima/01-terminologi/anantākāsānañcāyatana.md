@@ -9,10 +9,11 @@ title: anantākāsānañcāyatana
 ## Dansk:
 sfæren for uendeligt rum, det uendelige roms plan #Lie
 ## Oversættelser:
-- Engelsk (samlet): the base of infinite space #Bodhi, the dimension of infinite space #Sujato
+* **Bodhi**: the base of infinite space
+* **Sujato**: the dimension of infinite space
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sfære
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sfære
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -24,4 +25,4 @@ Den første af de immaterielle sfærer; grænseløst rum som meditationsobjekt.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

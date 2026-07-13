@@ -11,10 +11,10 @@ title: vāyo
 ## Dansk:
 
 ## Oversættelser:
-- [[bodhi]]: Air
-- [[Sujato]]: Air
-- [[Suddhāso]]: Wind 
-- [[Anālayo]]: Wind
+- **Bodhi:** Air
+- **Sujato:** Air
+- **Suddhāso:** Wind 
+- **Anālayo:** Wind
 ## Kategori:
 Element
 ## Etymologi:
@@ -29,4 +29,4 @@ Luftelementet; bevægelses-, tryk- og vibrationsprincippet.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

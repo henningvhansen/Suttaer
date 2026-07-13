@@ -8,18 +8,17 @@ title: abhijānāti
 
 ## Dansk:
 
-At erkende klart; at forstå direkte; at indse uden at glide over i konceptualisering.
+At erkende direkte; at forstå direkte; at indse uden at glide over i konceptualisering.
 
 ## Oversættelser:
 
-- **[[Sujato]]**: _understands; directly knows_    
-- **[[Bodhi]]**: _understands; comprehends_    
-- **[[Ñāṇamoli]]**: _understands_    
-- **[[Lie]]**: _forstår; innser_
-- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _abhijānāti_ (uoversat)    
+- **Sujato:** understands; directly knows
+- **Bodhi:** understands; comprehends
+- **Ñāṇamoli:** understands
+- **Lie:** forstår; innser
 ## Kategori:
 
-[[../00-moc/Begreber-MOC]]: Verber / Erkendelsesverber
+[Begreber MOC](../00-moc/Begreber-MOC.md): Verber / Erkendelsesverber
 ## Etymologi:
 
 - Rod: **√jñā** — “at vide, erkende”    
@@ -47,4 +46,4 @@ I kontrast til _sañjānāti_ (almindelig perception) betegner _abhijānāti_ en
 
 ## Forekomster:
 
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

@@ -9,7 +9,10 @@ title: anicca‑saññā
 ## Dansk:
 perception af foranderlighed
 ## Oversættelser:
-- Engelsk (samlet): perception of impermanence (Bodhi), perception of impermanence (Sujato), perception of inconstancy (Thanissaro), oppfatning av forgjengelighet (Lie)
+* **Bodhi**: perception of impermanence
+* **Sujato**: perception of impermanence
+* **Thanissaro**: perception of inconstancy
+* **Lie**: oppfatning av forgjengelighet
 
 ## Kategori:
 perceptioner

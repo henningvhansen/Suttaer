@@ -10,10 +10,11 @@ title: subhakiṇhādevā
 ## Dansk:
 de lysende guder, de lysende guder #Lie
 ## Oversættelser:
-- Engelsk (samlet): the gods of Refulgent Glory #Bodhi, those of universal beauty #Sujato
+* **Bodhi**: the gods of Refulgent Glory
+* **Sujato**: those of universal beauty
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ En fin, subtil gudeverden i formverdenens højere lag.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

@@ -9,7 +9,10 @@ title: āgama
 ## Dansk:
 tradition; overlevering
 ## Oversættelser:
-- Engelsk (samlet): transmission (Bodhi), tradition (Sujato), tradition (Thanissaro), overlevering (Lie)
+* **Bodhi**: transmission
+* **Sujato**: tradition
+* **Thanissaro**: tradition
+* **Lie**: overlevering
 
 ## Kategori:
 teksttyper

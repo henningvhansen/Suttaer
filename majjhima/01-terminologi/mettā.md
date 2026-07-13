@@ -9,7 +9,10 @@ title: mettā
 ## Dansk:
 kærlig‑venlighed
 ## Oversættelser:
-- Engelsk (samlet): loving‑kindness (Bodhi), love (Sujato), goodwill (Thanissaro), kjærlighet (Lie)
+* **Bodhi**: loving‑kindness
+* **Sujato**: love
+* **Thanissaro**: goodwill
+* **Lie**: kjærlighet
 
 ## Kategori:
 brahmavihāra

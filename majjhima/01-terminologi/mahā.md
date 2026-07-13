@@ -9,7 +9,10 @@ title: mahā
 ## Dansk:
 stor
 ## Oversættelser:
-- Engelsk (samlet): great (Bodhi), great (Sujato), great (Thanissaro), stor (Lie)
+* **Bodhi**: great
+* **Sujato**: great
+* **Thanissaro**: great
+* **Lie**: stor
 
 ## Kategori:
 generelle termer

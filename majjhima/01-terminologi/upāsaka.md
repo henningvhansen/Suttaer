@@ -9,7 +9,10 @@ title: upāsaka
 ## Dansk:
 mandlig lægtilhænger, en der sidder tæt på munkene
 ## Oversættelser:
-- Engelsk (samlet): lay follower (Bodhi), lay follower (Sujato), lay follower (Thanissaro), legmann (Lie)
+* **Bodhi**: lay follower
+* **Sujato**: lay follower
+* **Thanissaro**: lay follower
+* **Lie**: legmann
 
 ## Kategori:
 personkategorier

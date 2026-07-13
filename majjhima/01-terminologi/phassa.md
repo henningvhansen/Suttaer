@@ -9,7 +9,10 @@ title: phassa
 ## Dansk:
 kontakt
 ## Oversættelser:
-- Engelsk (samlet): contact (Bodhi), contact (Sujato), contact (Thanissaro), kontakt (Lie)
+* **Bodhi**: contact
+* **Sujato**: contact
+* **Thanissaro**: contact
+* **Lie**: kontakt
 
 ## Kategori:
 psykologi

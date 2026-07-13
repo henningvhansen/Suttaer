@@ -12,7 +12,7 @@ Det hørte
 - Engelsk (samlet): the heard
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sanserelateret
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +25,4 @@ Det hørte
 
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

@@ -9,7 +9,10 @@ title: dukkha
 ## Dansk:
 lidelse
 ## Oversættelser:
-- Engelsk (samlet): suffering (Bodhi), suffering (Sujato), stress (Thanissaro), lidelse (Lie)
+* **Bodhi**: suffering
+* **Sujato**: suffering
+* **Thanissaro**: stress
+* **Lie**: lidelse
 
 ## Kategori:
 de tre kendetegn

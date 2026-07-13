@@ -12,7 +12,7 @@ almindeligt uoplyst menneske; uoplyst person
 - Engelsk (samlet): an unlearned ordinary person #Sujato; an untaught ordinary person #Bodhi
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +25,4 @@ Betegner en person uden indsigt i de fire ædle sandheder.
 #Bodhi #Sujato #Horner
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

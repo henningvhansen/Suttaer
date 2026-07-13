@@ -9,7 +9,10 @@ title: saddhā
 ## Dansk:
 tillid; tro
 ## Oversættelser:
-- Engelsk (samlet): faith (Bodhi), confidence (Sujato), conviction (Thanissaro), tillit (Lie)
+* **Bodhi**: faith
+* **Sujato**: confidence
+* **Thanissaro**: conviction
+* **Lie**: tillit
 
 ## Kategori:
 mentale faktorer

@@ -12,15 +12,15 @@ Perception; genkendelse; kategorisering; den mentale funktion der identificerer 
 
 ## Oversættelser:
 
-- **[[Sujato]]**: _perception_    
-- **[[bodhi]]**: _perception_    
-- **[[Ñāṇamoli]]**: _perception_    
-- **[[Lie]]**: _persepsjon; gjenkjennelse_    
-- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _saññā_ (uoversat)    
+- **Sujato:** perception
+- **bodhi:** perception
+- **Ñāṇamoli:** perception
+- **Lie:** persepsjon; gjenkjennelse
+- **../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST):** _saññā_ (uoversat)    
 
 ## Kategori:
 
-[[../00-moc/Begreber-MOC]]: Sindets funktioner / Aggregaterne (_khandha_)
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sindets funktioner / Aggregaterne (_khandha_)
 
 ## Etymologi:
 
@@ -50,4 +50,4 @@ I _Mūlapariyāya Sutta_ er _saññā_ den funktion, der ligger til grund for ve
 
 ## Forekomster:
 
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

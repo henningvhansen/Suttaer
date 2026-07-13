@@ -9,7 +9,10 @@ title: ekaggatā
 ## Dansk:
 etpunktrettethed
 ## Oversættelser:
-- Engelsk (samlet): unification (Bodhi), singleness (Sujato), singleness (Thanissaro), ensporethet (Lie)
+* **Bodhi**: unification
+* **Sujato**: singleness
+* **Thanissaro**: singleness
+* **Lie**: ensporethet
 
 ## Kategori:
 mentale faktorer

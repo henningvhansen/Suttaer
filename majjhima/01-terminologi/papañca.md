@@ -9,7 +9,10 @@ title: papañca
 ## Dansk:
 konceptuel proliferation; tankemylder
 ## Oversættelser:
-- Engelsk (samlet): proliferation (Bodhi), proliferation (Sujato), objectification (Thanissaro), tankespredning (Lie)
+* **Bodhi**: proliferation
+* **Sujato**: proliferation
+* **Thanissaro**: objectification
+* **Lie**: tankespredning
 
 ## Kategori:
 psykologi

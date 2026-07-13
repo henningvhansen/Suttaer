@@ -9,7 +9,10 @@ title: iriyāpatha
 ## Dansk:
 kropsstilling
 ## Oversættelser:
-- Engelsk (samlet): posture (Bodhi), posture (Sujato), posture (Thanissaro), kroppsstilling (Lie)
+* **Bodhi**: posture
+* **Sujato**: posture
+* **Thanissaro**: posture
+* **Lie**: kroppsstilling
 
 ## Kategori:
 praksis

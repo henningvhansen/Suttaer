@@ -4,21 +4,19 @@ type: begreb
 title: arahaṁ
 ---
 # Status: Under udarbejdelse
-## Senest redigeret:
-
+## Senest redigeret: 20260713
 ## Dansk:
-
-Arahant; den fuldt udfriede; den der har fuldendt træningen og gjort, hvad der skulle gøres.
+Arahant; Den fuldt udfriede; Den Værdige; den der har fuldendt træningen og gjort, hvad der skulle gøres.
 ## Oversættelser:
 
-- **[[Sujato]]**: _a perfected one_  
-- **[[bodhi]]**: _arahant_  
-- **[[Thanissaro]]**: _worthy one_  
-- **[[Lie]]**: _den fuldt befriede_  
-- **[[../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)]]**: _arahaṁ_ (uoversat)
+- **Sujato:** a perfected one
+- **bodhi:** arahant
+- **Thanissaro:** worthy one
+- **Lie:** den fuldt befriede
+- **../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST):** _arahaṁ_ (uoversat)
 ## Kategori:
 
-[[../00-moc/Begreber-MOC]]: Personkategorier / Udfrielse
+[Begreber MOC](../00-moc/Begreber-MOC.md): Personkategorier / Udfrielse
 ## Oversættelsesproblematik
 
 ## Kort definition til brug i løbende tekst
@@ -48,7 +46,6 @@ Begge former er korrekte, men:
 
 - **arahaṁ** → suttaform  
 - **arahant** → kommentarform / moderne standard  
-
 ## Kilder:
 
 - _MN 1 Mūlapariyāya Sutta_  
@@ -56,7 +53,6 @@ Begge former er korrekte, men:
 - _SN 22.76_  
 - _AN 3.88_  
 - _Vism._ (uddybning af arahantens kvaliteter)
-
 ## Forekomster:
 
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

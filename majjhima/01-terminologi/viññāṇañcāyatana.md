@@ -9,10 +9,11 @@ title: viññāṇañcāyatana
 ## Dansk:
 sfæren for uendelig bevidsthed, den uendelige bevissthets plan #Lie
 ## Oversættelser:
-- Engelsk (samlet): the base of infinite consciousness #Bodhi, the dimension of infinite consciousness #Sujato
+* **Bodhi**: the base of infinite consciousness
+* **Sujato**: the dimension of infinite consciousness
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sfære
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sfære
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -24,4 +25,4 @@ Den anden immaterielle sfære; den grænseløse bevidsthed som meditationsobjekt
 ## Kilder:
 #Perplexity 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

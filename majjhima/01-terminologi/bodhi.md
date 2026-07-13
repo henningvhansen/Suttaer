@@ -9,7 +9,10 @@ title: bodhi
 ## Dansk:
 opvågning
 ## Oversættelser:
-- Engelsk (samlet): awakening (Bodhi), awakening (Sujato), awakening (Thanissaro), oppvåkning (Lie)
+* **Bodhi**: awakening
+* **Sujato**: awakening
+* **Thanissaro**: awakening
+* **Lie**: oppvåkning
 
 ## Kategori:
 indsigt

@@ -9,10 +9,11 @@ title: muta
 ## Dansk:
 det sansede, Det tenkte #Lie
 ## Oversættelser:
-- Engelsk (samlet): the sensed #Bodhi, the thought #Sujato
+* **Bodhi**: the sensed
+* **Sujato**: the thought
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Sanserelateret
+[Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ Det umiddelbart erfarne via sanserne eller direkte kontakt.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

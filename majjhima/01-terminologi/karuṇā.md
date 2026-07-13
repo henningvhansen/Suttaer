@@ -9,7 +9,10 @@ title: karuṇā
 ## Dansk:
 medfølelse
 ## Oversættelser:
-- Engelsk (samlet): compassion (Bodhi), compassion (Sujato), compassion (Thanissaro), medfølelse (Lie)
+* **Bodhi**: compassion
+* **Sujato**: compassion
+* **Thanissaro**: compassion
+* **Lie**: medfølelse
 
 ## Kategori:
 brahmavihāra

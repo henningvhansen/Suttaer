@@ -9,7 +9,10 @@ title: gocara
 ## Dansk:
 område; domæne
 ## Oversættelser:
-- Engelsk (samlet): range (Bodhi), domain (Sujato), range (Thanissaro), område (Lie)
+* **Bodhi**: range
+* **Sujato**: domain
+* **Thanissaro**: range
+* **Lie**: område
 
 ## Kategori:
 praksis

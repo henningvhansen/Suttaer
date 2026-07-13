@@ -9,7 +9,10 @@ title: tissa
 ## Dansk:
 Tissa
 ## Oversættelser:
-- Engelsk (samlet): Tissa (Bodhi), Tissa (Sujato), Tissa (Thanissaro), Tissa (Lie)
+* **Bodhi**: Tissa
+* **Sujato**: Tissa
+* **Thanissaro**: Tissa
+* **Lie**: Tissa
 
 ## Kategori:
 personer

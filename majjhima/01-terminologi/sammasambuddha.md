@@ -28,5 +28,5 @@ Bruges om Buddha efter oplysningen. Betoner både fuldstændighed og korrekthed 
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)
 

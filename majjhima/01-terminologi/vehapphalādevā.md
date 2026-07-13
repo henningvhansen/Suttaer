@@ -10,10 +10,11 @@ title: vehapphalādevā
 ## Dansk:
 De store frugters guder, de mektige guder #Lie
 ## Oversættelser:
-- Engelsk (samlet): the gods of Great Fruit #Bodhi, those of abundant fruit #Sujato
+* **Bodhi**: the gods of Great Fruit
+* **Sujato**: those of abundant fruit
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener 
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener 
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ En meget høj og langlivet gudeverden.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

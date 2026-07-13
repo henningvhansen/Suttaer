@@ -28,4 +28,4 @@ Kan betyde både mentale og fysiske fænomener. Kontekstafhængigt.
 #Bodhi #Sujato
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

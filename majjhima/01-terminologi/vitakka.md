@@ -9,7 +9,10 @@ title: vitakka
 ## Dansk:
 initial tanke; rettethed
 ## Oversættelser:
-- Engelsk (samlet): thought (Bodhi), directed thought (Sujato), directed thought (Thanissaro), tanke (Lie)
+* **Bodhi**: thought
+* **Sujato**: directed thought
+* **Thanissaro**: directed thought
+* **Lie**: tanke
 
 ## Kategori:
 meditation

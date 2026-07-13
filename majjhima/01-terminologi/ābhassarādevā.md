@@ -10,10 +10,11 @@ title: ābhassarādevā
 ## Dansk:
 De strålende guder, de strålende guder #Lie
 ## Oversættelser:
-- Engelsk (samlet): the gods of Streaming Radiance #Bodhi, those of streaming radiance #Sujato
+* **Bodhi**: the gods of Streaming Radiance
+* **Sujato**: those of streaming radiance
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -25,4 +26,4 @@ En lysende gudeverden i den høje formverdens sfære.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)

@@ -9,7 +9,10 @@ title: sutta
 ## Dansk:
 diskurs
 ## Oversættelser:
-- Engelsk (samlet): discourse (Bodhi), discourse (Sujato), discourse (Thanissaro), sutra (Lie)
+* **Bodhi**: discourse
+* **Sujato**: discourse
+* **Thanissaro**: discourse
+* **Lie**: sutra
 
 ## Kategori:
 teksttyper

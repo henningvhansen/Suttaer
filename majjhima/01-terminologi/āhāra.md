@@ -9,7 +9,10 @@ title: āhāra
 ## Dansk:
 næring
 ## Oversættelser:
-- Engelsk (samlet): nutriment (Bodhi), nutriment (Sujato), food (Thanissaro), næring (Lie)
+* **Bodhi**: nutriment
+* **Sujato**: nutriment
+* **Thanissaro**: food
+* **Lie**: næring
 
 ## Kategori:
 årsagslære

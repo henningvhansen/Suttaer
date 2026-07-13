@@ -9,10 +9,11 @@ title: Issaro
 ## Dansk:
 Herskeren, Herren #Lie
 ## Oversættelser:
-- Engelsk (samlet): the Overlord #Bodhi, the Vanquisher #Sujato
+* **Bodhi**: the Overlord
+* **Sujato**: the Vanquisher
 
 ## Kategori:
-[[../00-moc/Begreber-MOC]]: 
+[Begreber MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -24,4 +25,4 @@ Den øverste styrende myndighed eller herre.
 ## Kilder:
 
 ## Forekomster:
-- [[majjhima/02-suttaer/MN01]]
+- [MN01](majjhima/02-suttaer/MN01.md)
