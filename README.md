@@ -30,6 +30,9 @@ dansk udgave af Majjhima Nikāya, med fokus på:
 - tydelig struktur  
 - mulighed for løbende opdatering
 
+Se også [index](index.md) og [projektbeskrivelse](../../../majjhima/00-overblik/projektbeskrivelse.md)
+
 ## Licens
 
-Indholdet er personligt arbejde og må ikke gengives uden tilladelse.
+Indholdet er personligt arbejde og må ikke gengives uden tilladelse. 
+Kontakt evt. hvaderbuddhisme@gmail.com
