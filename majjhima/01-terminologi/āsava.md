@@ -44,8 +44,9 @@ En nærmere kontrol af de gængse etymologiske opslagsværker nuancerer Sujatos 
 **Konsekvens for "gæring":** At de to hovedbetydninger (sive/flyde-processen og den gærede/berusende tilstand) historisk deler samme rod, styrker snarere end svækker begrundelsen for "gæring": ordet rammer selve krydsfeltet mellem proces og gæret/berusende resultat, som rodens egen betydningsvifte allerede rummer — uden at skulle vælge mellem grenene. Og at både Sujatos indvending og Anālayos modargument i sidste ende afgøres ud fra tekstens brug (verber, kontekst) frem for etymologi alene, bekræfter denne notes metodiske linje (jf. "Metodisk konklusion" ovenfor).
 
 [^1]: "Āsrava", *Encyclopedia of Buddhism* (baseret på Malalasekera 1966 og PTS' *Pali-English Dictionary*), opslag: encyclopediaofbuddhism.org/wiki/Āsrava.
-[^2]: Anālayo, Bhikkhu (2018). "The Influxes and Mindful Eating." *Insight Journal* 44: 31–42. PDF: buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/influxes.pdf.
-[^3]: Anālayo, Bhikkhu (2012). "Purification in Early Buddhist Discourse and Buddhist Ethics." *Bukkyō Kenkyū* 40: 67–97 (s. 80ff).
+[^2]: Anālayo, Bhikkhu (2018). "The Influxes and Mindful Eating." *Insight Journal* 44: 31–42. PDF: [buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/influxes.pdf](https://www.buddhistinquiry.org/wp-content/uploads/2024/06/Influxes.pdf).
+[^3]: Anālayo, Bhikkhu (2012). "Purification in Early Buddhist Discourse and Buddhist Ethics." *Bukkyō Kenkyū* 40: 67–97 (s. 80ff). [buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/purification-in-early-buddhist-discourse.pdf](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/purification-in-early-buddhist-discourse.pdf)
+
 ## Semantisk og doktrinær funktion
 ##### Forholdet til kilesa og taṇhā
 Abhidhammattha Saṅgaha identificerer _kāmāsava_ og _bhavāsava_ direkte med _kāmataṇhā_ og _bhavataṇhā_ — de er ikke to forskellige ting i en årsagskæde (āsava producerer ikke taṇhā udefra), men **samme grundfaktor** (_lobha_), klassificeret under to forskellige lister, der fremhæver to forskellige aspekter: som _taṇhā_ fremhæves dens higende, trækkende kraft; som _āsava_ fremhæves dens vedvarende, selvopretholdende, saṃsāra-nærende karakter over tid.
