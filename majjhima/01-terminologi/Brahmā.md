@@ -43,5 +43,5 @@ Selvom en Brahmā lever i milliarder af år, stråler af lys og har ufattelig st
 
 Den absolut højeste status i buddhismen tilhører derfor ikke guderne, men en **Buddha** eller en **Arahant** (en oplyst), fordi de har brudt ud af kredsløbet og opnået Nirvana, hvilket guderne i Brahmā-verdenen endnu ikke har.
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)
 - [[DN1]] Brahmajālasutta, The All-embracing Net of Views

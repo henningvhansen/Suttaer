@@ -46,4 +46,4 @@ I kontrast til _sañjānāti_ (almindelig perception) betegner _abhijānāti_ en
 
 ## Forekomster:
 
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

@@ -25,4 +25,4 @@ Overordnet kategori for guddommelige væsener.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

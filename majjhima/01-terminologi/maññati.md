@@ -49,4 +49,4 @@ Verbet betegner den mentale handling, hvor et objekt gøres til genstand for tan
 
 ## Forekomster:
 
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

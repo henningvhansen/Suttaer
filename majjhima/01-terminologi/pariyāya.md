@@ -34,7 +34,7 @@ Kilder:
 Pali Text Society (PTS) Dictionary, Bhikkhu Bodhis noter til Majjhima Nikāya.
 
 Forekomster:
-[MN01](../02-suttaer/MN01.md)
+[MN01](../02-suttaer/MN001.md)
 
 ## Etymologi:
 

@@ -51,4 +51,4 @@ I **MN2** indleder _paṭisaṅkhā yoniso_ hvert af de fem underafsnit i afsnit
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN02.md)
+- [MN02](majjhima/02-suttaer/MN002.md)

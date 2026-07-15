@@ -35,4 +35,4 @@ Se den samlede diskussion i [[āsava]]. "Tilblivelsesgæring" (sammensætning) e
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN02.md)
+- [MN02](majjhima/02-suttaer/MN002.md)

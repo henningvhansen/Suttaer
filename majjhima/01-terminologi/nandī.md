@@ -37,4 +37,4 @@ _Nandī_ er den **tilstand** af tilfredsstillelse, der opstår, når man _abhina
 ## Kilder:
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

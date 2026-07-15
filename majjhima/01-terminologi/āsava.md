@@ -74,4 +74,4 @@ Denne note er resultatet af en længere afklaring (juli 2026), der undersøgte t
 - SuttaCentral forumtråd om āsava-etymologi (juli 2026) — Sujato, BethL, faujidoc1 m.fl. [link tilføjes hvis du har URL'en ved hånden]
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN02.md)
+- [MN02](majjhima/02-suttaer/MN002.md)

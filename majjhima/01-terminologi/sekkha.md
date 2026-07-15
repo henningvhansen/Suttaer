@@ -45,4 +45,4 @@ I MN1 Mūlapariyāya Sutta er _sekkha_ den anden persontype i progressionen fra 
 - _Vism._ (kommentarer til træningens tre discipliner)    
 ## Forekomster:
 
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

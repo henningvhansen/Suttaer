@@ -24,4 +24,4 @@ Det, der erkendes gennem synet.
 ## Kilder:
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

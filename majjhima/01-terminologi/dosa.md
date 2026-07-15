@@ -69,4 +69,4 @@ Dosa er derfor en central del af den tredelte struktur, der beskriver sindets re
 
 ## Forekomster:
 
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)

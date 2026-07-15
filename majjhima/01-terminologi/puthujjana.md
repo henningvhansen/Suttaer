@@ -25,4 +25,4 @@ Betegner en person uden indsigt i de fire ædle sandheder.
 #Bodhi #Sujato #Horner
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN01.md)
+- [MN01](majjhima/02-suttaer/MN001.md)
