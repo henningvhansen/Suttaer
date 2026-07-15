@@ -49,7 +49,7 @@ En nærmere kontrol af de gængse etymologiske opslagsværker nuancerer Sujatos 
 
 ## Semantisk og doktrinær funktion
 ##### Forholdet til kilesa og taṇhā
-Abhidhammattha Saṅgaha identificerer _kāmāsava_ og _bhavāsava_ direkte med _kāmataṇhā_ og _bhavataṇhā_ — de er ikke to forskellige ting i en årsagskæde (āsava producerer ikke taṇhā udefra), men **samme grundfaktor** (_lobha_), klassificeret under to forskellige lister, der fremhæver to forskellige aspekter: som _taṇhā_ fremhæves dens higende, trækkende kraft; som _āsava_ fremhæves dens vedvarende, selvopretholdende, saṃsāra-nærende karakter over tid.
+Abhidhammattha Saṅgaha identificerer _kāmāsava_ og _bhavāsava_ direkte med _kāmataṇhā_ og _bhavataṇhā_ — de er ikke to forskellige ting i en årsagskæde (āsava producerer ikke taṇhā udefra), men **samme grundfaktor** (_lobha_), klassificeret under to forskellige lister, der fremhæver to forskellige aspekter: som _taṇhā_ fremhæves dens higende, trækkende kraft; som _āsava_ fremhæves dens vedvarende, selvopretholdende, saṃsāra-nærende karakter over tid.[^4]
 
 For _avijjāsava_ gælder en anden, cirkulær model: **MN9** beskriver *avijjā* og *āsava* i et gensidigt betingelsesforhold uden fast førsteårsag — "af gæringernes opståen, opstår uvidenhed; af uvidenhedens opståen, opstår gæringerne". Dette understøtter billedet af en selvforstærkende gæring frem for en lineær årsagskæde, og er formentlig den bedste model for hele *āsava*-begrebet, ikke kun for *avijjāsava*.
 ##### Tre- eller firdelt liste
@@ -76,3 +76,7 @@ Denne note er resultatet af en længere afklaring (juli 2026), der undersøgte t
 
 ## Forekomster:
 - [MN02](../02-suttaer/MN002.md)
+
+[^4]: Abhidhamma. ## **1. _A Comprehensive Manual of Abhidhamma**_ Bhikkhu Bodhi & U Rewata Dhamma (1993) Søgbart link (BPS): `https://www.bps.lk/olib/wh/wh322.pdf` [(bps.lk in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.bps.lk%2Folib%2Fwh%2Fwh322.pdf") **Relevant sted:** Kapitel VII, note 29 (s. 273 i PDF’en) “The āsavas correspond to the types of craving (taṇhā) and are rooted in lobha.” “Kāmāsava is kāmataṇhā … bhavāsava is bhavataṇhā …” **2.** _**Compendium of Philosophy**_ Shwe Zan Aung & C.A.F. Rhys Davids (1910) **Søgbart link (Archive.org):** https://archive.org/details/compendiumofphil00aung` [(archive.org in Bing)](https://www.bing.com/search?q="https%3A%2F%2Farchive.org%2Fdetails%2Fcompendiumofphil00aung") **Relevant sted:** s. 202. “The āsavas are not distinct from taṇhā; they are taṇhā viewed under the aspect of its persistent, flowing, saṃsāra‑sustaining nature.  **3.** _**Manual of Abhidhamma** _Ven. Narada Thera (1956) **Søgbart link (BPS):** https://www.bps.lk/olib/bp/bp503s_Narada_Manual-of-Abhidhamma.pdf` [(bps.lk in Bing)](https://www.bing.com/search?="https%3A%2F%2Fwww.bps.lk%2Folib%2Fbp%2Fbp503s_Narada_Manual-of-Abhidhamma.pdf") **Relevant sted:** Kapitel VII “The āsavas are simply forms of lobha classified according to their sphere.” Narada er meget direkte: **āsava = lobha = taṇhā**, blot klassificeret forskelligt.
+
+
