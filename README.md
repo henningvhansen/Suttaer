@@ -1,10 +1,9 @@
 # Suttaer – Dansk oversættelse af buddhistiske tekster
 
-Dette repository indeholder mine danske oversættelser af udvalgte tekster fra
-Majjhima Nikāya, struktureret i mapper efter sutta, noter og terminologi.
+Denne hjemmeside indeholder mine danske oversættelser af udvalgte tekster fra
+Majjhima Nikāya, struktureret i mapper efter sutta, begrebsnoter og terminologi.
 
-Projektet er en del af mit arbejde som Pāli-til-dansk oversætter og redaktør,
-med fokus på tekstnær oversættelse, terminologisk præcision og klar struktur.
+Projektet er en del af mit arbejde som oversætter og redaktør, med fokus på tekstnær oversættelse, terminologisk præcision og klar struktur.
 
 ## Struktur
 
@@ -22,7 +21,7 @@ med fokus på tekstnær oversættelse, terminologisk præcision og klar struktur
 
 ## Formål
 
-Formålet med projektet er at skabe en klar, læsbar og akademisk præcis
+Formålet med projektet er at skabe en klar, læsbar og præcis
 dansk udgave af Majjhima Nikāya, med fokus på:
 
 - tekstnær oversættelse  
