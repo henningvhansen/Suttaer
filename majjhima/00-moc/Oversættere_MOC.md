@@ -1,3 +1,8 @@
+---
+layout: page
+type: begreb
+---
+
 # Oversættere — MOC
 
 ## Bhikkhu Bodhi

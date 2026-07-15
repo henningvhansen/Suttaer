@@ -1,3 +1,8 @@
+---
+layout: page
+type: begreb
+---
+
 # Begreber — MOC
 
 ## Årsagslære
@@ -43,7 +48,7 @@
 - [[../01-terminologi/maññati]] — opfatter, konstruerer, projicerer    
 - [[../01-terminologi/saṅkhāra]] — viljesmæssige formationer, konstruktioner    
 - [[../01-terminologi/viññāṇa]] — bevidsthed
-### Sanserelateret
+## Sanserelateret
 - [[../01-terminologi/diṭṭha]] - det sete
 - [[../01-terminologi/suta]] - det hørte
 ## Sfærer

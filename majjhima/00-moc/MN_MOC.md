@@ -1,3 +1,8 @@
+---
+layout: page
+type: begreb
+---
+
 # Majjhima Nikāya — MOC
 
 ## Første 10 suttaer
