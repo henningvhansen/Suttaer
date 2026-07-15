@@ -1,54 +1,53 @@
 ---
 layout: page
 type: begreb
-title: {{title}}
 ---
 
 ## Årsagslære
-- [[../01-terminologi/mula]] — rod, grundlag
-- [[../01-terminologi/nidana]] — årsag, oprindelse
-- [[../01-terminologi/samudaya]] — fremkomst, opståen
-- [[../01-terminologi/upādāna]] — klamren / binding
+- [mula](../01-terminologi/mula.md) — rod, grundlag
+- [nidana](../01-terminologi/nidana.md) — årsag, oprindelse
+- [samudaya](../01-terminologi/samudaya.md) — fremkomst, opståen
+- [upādāna](../01-terminologi/upādāna.md) — klamren / binding
 
 ## Erkendelse
-- [[../01-terminologi/pajanana]]: forståelse; indsigt
-- [[../01-terminologi/paññā]]: visdom
+- [pajanana](../01-terminologi/pajanana.md): forståelse; indsigt
+- [paññā](../01-terminologi/paññā.md): visdom
 - [[vijjā]]: viden, indsigt
 - [[jānāti]]: kender   
-- [[../01-terminologi/sañjānāti]]: opfatter / genkender
+- [sañjānāti](../01-terminologi/sañjānāti.md): opfatter / genkender
 - [[vijānāti]]: forstår, diskriminerer/erkender forskel.
 - [[pajānāti]]: forstår grundigt; gennemskuer. 
-- [[../01-terminologi/abhijānāti]]: kender fuldt ud; har direkte erkendelse; erkender direkte.
-- [[../01-terminologi/yoniso-manasikāra]] / ayoniso manasikāra: Årsagsorienteret fokus / overfladisk fokus.
+- [abhijānāti](../01-terminologi/abhijānāti.md): kender fuldt ud; har direkte erkendelse; erkender direkte.
+- [yoniso-manasikāra](../01-terminologi/yoniso-manasikāra.md) / ayoniso manasikāra: Årsagsorienteret fokus / overfladisk fokus.
 # Betinget tilblivelse
-- [[../01-terminologi/upādāna]] — klamren / binding
+- [upādāna](../01-terminologi/upādāna.md) — klamren / binding
 
 ## Bindinger
-- [[../01-terminologi/abhinandati]] — glæder sig ved, hæfter sig ved
-- [[../01-terminologi/upādāna]] — klamren / binding
+- [abhinandati](../01-terminologi/abhinandati.md) — glæder sig ved, hæfter sig ved
+- [upādāna](../01-terminologi/upādāna.md) — klamren / binding
 - [[tanha]] — tørst, begær
 ## Kategori af væsener
-- [[../01-terminologi/puthujjana]] — almindelig/uoplyst person
-- [[../01-terminologi/sekkha]] — trænet discipel
-- [[arahant]] — fuldt udfriet
-- [[../01-terminologi/bhikkhunī]]
-- [[../01-terminologi/bhikkhu]]
-- [[../01-terminologi/bhagavā]] - Den velsignede / Buddha
-- [[../01-terminologi/sattā]] - Væsener
+- [puthujjana](../01-terminologi/puthujjana.md) — almindelig/uoplyst person
+- [sekkha](../01-terminologi/sekkha.md) — trænet discipel
+- [arahant](../01-terminologi/arahant.md) — fuldt udfriet
+- [bhikkhunī](../01-terminologi/bhikkhunī.md)
+- [bhikkhu](../01-terminologi/bhikkhu.md)
+- [bhagavā](../01-terminologi/bhagavā.md) - Den velsignede / Buddha
+- [sattā](../01-terminologi/sattā.md) - Væsener
 ## Elementlære
-- [[../01-terminologi/pathavi]] — jord
-- [[../01-terminologi/āpo]] — vand
-- [[../01-terminologi/tejo]] — ild
+- [pathavi](../01-terminologi/pathavi.md) — jord
+- [āpo](../01-terminologi/āpo.md) — vand
+- [tejo](../01-terminologi/tejo.md) — ild
 - [[vayo]] — luft
 ## Titler og status
 - [[sammāsambuddha]] — fuldt oplyst    
-- [[../01-terminologi/tathāgata]] — “den således‑gående”    
+- [tathāgata](../01-terminologi/tathāgata.md) — “den således‑gående”    
 ## Centrale mentale processer
-- [[../01-terminologi/maññati]] — opfatter, konstruerer, projicerer    
-- [[../01-terminologi/saṅkhāra]] — viljesmæssige formationer, konstruktioner    
-- [[../01-terminologi/viññāṇa]] — bevidsthed
+- [maññati](../01-terminologi/maññati.md) — opfatter, konstruerer, projicerer    
+- [saṅkhāra](../01-terminologi/saṅkhāra.md) — viljesmæssige formationer, konstruktioner    
+- [viññāṇa](../01-terminologi/viññāṇa.md) — bevidsthed
 ## Sanserelateret
-- [[../01-terminologi/diṭṭha]] - det sete
-- [[../01-terminologi/suta]] - det hørte
+- [diṭṭha](../01-terminologi/diṭṭha.md) - det sete
+- [suta](../01-terminologi/suta.md) - det hørte
 ## Sfærer
-- [[../01-terminologi/anantākāsānañcāyatana]]
+- [anantākāsānañcāyatana](../01-terminologi/anantākāsānañcāyatana.md)

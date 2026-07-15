@@ -28,7 +28,7 @@ En munk i træning.
 
 ## Kommentar:
 
-**Sekkha** betegner en person, der har opnået et af de tre første oplysningsstadier (_sotāpanna_, _sakadāgāmī_, _anāgāmī_), og som derfor stadig er i **træning** (_sikkhā_) mod fuld befrielse. Termen står i kontrast til **[[arahant]]**, der er _asekkha_ — “ikke længere i træning”.
+**Sekkha** betegner en person, der har opnået et af de tre første oplysningsstadier (_sotāpanna_, _sakadāgāmī_, _anāgāmī_), og som derfor stadig er i **træning** (_sikkhā_) mod fuld befrielse. Termen står i kontrast til **[arahant](arahant.md)**, der er _asekkha_ — “ikke længere i træning”.
 
 Sammensat af:
 

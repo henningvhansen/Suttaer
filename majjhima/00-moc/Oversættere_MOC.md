@@ -1,7 +1,6 @@
 ---
 layout: page
 type: begreb
-title: {{title}}
 ---
 
 # Oversættere — MOC
@@ -10,10 +9,10 @@ title: {{title}}
 - Stil: teknisk, konservativ
 - Typiske valg: “concentration”, “feeling”, “formations”
 - Relevante begreber:
-  - [[../01-terminologi/sammasambuddha]] → **“Perfectly Enlightened One”**
+  - [sammasambuddha](../01-terminologi/sammasambuddha.md) → **“Perfectly Enlightened One”**
   - [[samadhi]] → **“concentration”**
   - [[vedana]]- → **“feeling”**
-  -[[../01-terminologi/saṅkhāra]] → **“formations”**
+  -[saṅkhāra](../01-terminologi/saṅkhāra.md) → **“formations”**
 - Kommentarer:
 - Meget stabil terminologi    
 - God til præcision, mindre glat i sproget    
@@ -38,7 +37,7 @@ title: {{title}}
 - Centrale begreber:    
     - **[[vinnana]]**  → **“consciousness-element”**      
     - **[[vedana]]** → **“feeling-tones”**        
-    - **[[../01-terminologi/dhamma]]** → **“mental objects”**
+    - **[dhamma](../01-terminologi/dhamma.md)** → **“mental objects”**
 - Kommentarer:    
     - Nogle termer virker forældede        
     - Stadig værdifuld for tekstnærhed        
@@ -61,8 +60,8 @@ title: {{title}}
 - Stil: meget tekstnær, enkel, direkte    
 - Typiske valg: “knowing”, “understanding”, “perceiving”    
 - Centrale begreber:    
-    - **[[../01-terminologi/sammasambuddha]]** → **“Fully Awakened Buddha”**        
-    - **[[../01-terminologi/nidana]]** → **“cause”**
+    - **[sammasambuddha](../01-terminologi/sammasambuddha.md)** → **“Fully Awakened Buddha”**        
+    - **[nidana](../01-terminologi/nidana.md)** → **“cause”**
     - [[**mannati**]] → **“conceives” / “imagines”**        
 - Kommentarer:    
     - God til at se grammatiske detaljer        
@@ -86,7 +85,7 @@ title: {{title}}
 - Typiske valg: “knowing”, “experience”, “perception”    
 - Centrale begreber:    
     - **[[vinnana]]** → **“knowing”**        
-    - **[[../01-terminologi/sati]]** → **“mindfulness”**       
+    - **[sati](../01-terminologi/sati.md)** → **“mindfulness”**       
 - Kommentarer:    
     - God til at forklare baggrund og kontekst        
     - Meget brugbar til meditationstekster

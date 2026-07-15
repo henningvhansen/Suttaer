@@ -13,7 +13,7 @@ type: begreb
 - Ñāṇamoli:
 - Lie:
 ## Kategori:
-[[../majjhima/00-moc/Begreber-MOC]]: 
+[Begreber-MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 **Pali:** _adhivāsanā_ (substantiv), _adhivāseti_ (verbum) — fra _adhi_ + √_vas_ ("at bo, at dvæle, at forblive"). Grundbetydning: "at lade [noget] blive/tage bolig", altså at lade en tilstand vedvare uden at gribe ind.

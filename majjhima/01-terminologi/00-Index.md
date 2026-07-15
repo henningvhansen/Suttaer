@@ -9,15 +9,15 @@ title: 00-Index
 # Ordlistens index
 
 ## MN01
-- [[sammasambuddha]]
-- [[mula]]
-- [[nidana]]
-- [[samudaya]]
-- [[pajanana]]
-- [[sabbadhamma]]
-- [[puthujjana]]
-- [[pathavi]]
-- [[abhinandati]]
+- [sammasambuddha](sammasambuddha.md)
+- [mula](mula.md)
+- [nidana](nidana.md)
+- [samudaya](samudaya.md)
+- [pajanana](pajanana.md)
+- [sabbadhamma](sabbadhamma.md)
+- [puthujjana](puthujjana.md)
+- [pathavi](pathavi.md)
+- [abhinandati](abhinandati.md)
 - [[upadana]]
 
 ## Dansk:

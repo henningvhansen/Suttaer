@@ -1,7 +1,6 @@
 ---
 layout: page
 type: begreb
-title: {{title}}
 ---
 
 # Majjhima Nikāya — MOC

@@ -25,7 +25,7 @@ centrale begreber
 
 **Overvejelse:** "Følelse" er det etablerede danske standardvalg, men risikerer at blive læst som "emotion" af en dansk læser, særligt fordi ordet også bruges i dagligsprog om følelser i psykologisk forstand.
 
-**Afgørelse:** Bibehold "følelse" som oversættelse, men med en eksplicit note om, at _vedanā_ betegner den præ-emotionelle, hedoniske tone — ikke en emotion. Denne præcisering bliver ekstra vigtig, fordi [[kāyindriya]] bevidst er holdt adskilt fra samme danske rod (se denne).
+**Afgørelse:** Bibehold "følelse" som oversættelse, men med en eksplicit note om, at _vedanā_ betegner den præ-emotionelle, hedoniske tone — ikke en emotion. Denne præcisering bliver ekstra vigtig, fordi [kāyindriya](kāyindriya.md) bevidst er holdt adskilt fra samme danske rod (se denne).
 
 **Andre oversættere:** Bodhi: "feeling"; Sujato: "feeling"; Horner: "feeling". Ingen bruger "sensation", som ellers ville undgå den emotionelle association bedre — men "følelse" er så etableret i dansk buddhistisk litteratur, at et afvigende valg her ville skabe større forvirring end det løser.
 

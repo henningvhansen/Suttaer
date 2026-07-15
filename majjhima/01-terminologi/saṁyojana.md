@@ -11,7 +11,7 @@ type: begreb
 - Ñāṇamoli:
 - Lie:
 ## Kategori:
-[[../majjhima/00-moc/Begreber-MOC]]: 
+[Begreber-MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 ## Oversættelsesproblematik

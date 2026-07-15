@@ -2,7 +2,7 @@
 Dansk: De strålende guder, de strålende guder #Lie 
 Engelsk: the gods of Streaming Radiance #Bodhi, those of streaming radiance #Sujato 
 ## Kategori:
-[[../../../../../majjhima/00-moc/Begreber-MOC]]: Kategori af væsener
+[Begreber-MOC](../../../../../majjhima/00-moc/Begreber-MOC.md): Kategori af væsener
 ## Kommentar
 En lysende gudeverden i den høje formverdens sfære.
 ## Kilder

@@ -9,9 +9,9 @@ title: sañjānāti
 ## Dansk:
 At opfatte; at genkende; at identificere på perceptuelt niveau.
 Oversættelser:
-- **[[Sujato]]** — perceive    
-- **[[bodhi]]** — perceives    
-- **[[Ñāṇamoli]]** — perceives    
+- **[Sujato](Sujato.md)** — perceive    
+- **[bodhi](bodhi.md)** — perceives    
+- **[Ñāṇamoli](Ñāṇamoli.md)** — perceives    
 - **[[Thanissaro]]** — perceives / identifies
 - **Lie:**  betrakter
 - [Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST)](../00-moc/Oversættere_MOC#Chattha Sangayana Tipitaka 4.1 (CST).md): To think, suppose; to recognize, perceive, comprehend; to call, name

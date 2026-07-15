@@ -6,7 +6,7 @@ title: ayoniso manasikāra
 # Status: Under udarbejdelse
 ## Senest redigeret:
 
-Se [[yoniso-manasikāra]]
+Se [yoniso-manasikāra](yoniso-manasikāra.md)
 
 ## Dansk:
 

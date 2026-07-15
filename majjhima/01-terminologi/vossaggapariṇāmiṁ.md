@@ -11,7 +11,7 @@ type: begreb
 - Ñāṇamoli: culminating in release (ældre udgave)
 - Lie:
 ## Kategori:
-[[../majjhima/00-moc/Begreber-MOC]]: 
+[Begreber-MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 Se [vossagga](../01-terminologi/vossagga.md)
