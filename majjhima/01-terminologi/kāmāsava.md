@@ -31,4 +31,4 @@ Se den samlede diskussion i [[āsava]]. "Sansegæring" (sammensætning) er valgt
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN002.md)
+- [MN02](../02-suttaer/MN002.md)

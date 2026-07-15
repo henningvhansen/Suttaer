@@ -12,7 +12,7 @@ Den der ved
 - Ñāṇamoli:
 - Lie:
 ## Kategori:
-[Begreber MOC](../majjhima/00-moc/Begreber-MOC.md): 
+[Begreber MOC](../00-moc/Begreber-MOC.md): 
 ## Etymologi:
 
 ## Oversættelsesproblematik

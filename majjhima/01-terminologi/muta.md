@@ -26,4 +26,4 @@ Det umiddelbart erfarne via sanserne eller direkte kontakt.
 #Bodhi #Sujato #Horner #Suddhaso
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN001.md)
+- [MN01](../02-suttaer/MN001.md)

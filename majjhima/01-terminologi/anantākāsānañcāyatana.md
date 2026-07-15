@@ -25,4 +25,4 @@ Den første af de immaterielle sfærer; grænseløst rum som meditationsobjekt.
 ## Kilder:
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN001.md)
+- [MN01](../02-suttaer/MN001.md)

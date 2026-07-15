@@ -48,4 +48,4 @@ Bodhi bemærker (i sin note til MN2), at de syv metoder falder i to grupper: to,
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN002.md)
+- [MN02](../02-suttaer/MN002.md)

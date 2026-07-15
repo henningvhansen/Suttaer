@@ -25,4 +25,4 @@ Den øverste styrende myndighed eller herre.
 ## Kilder:
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN001.md)
+- [MN01](../02-suttaer/MN001.md)

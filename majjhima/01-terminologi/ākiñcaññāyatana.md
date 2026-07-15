@@ -25,4 +25,4 @@ Den tredje immaterielle sfære; intethed som meditationsobjekt.
 ## Kilder:
 #Perplexity 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN001.md)
+- [MN01](../02-suttaer/MN001.md)

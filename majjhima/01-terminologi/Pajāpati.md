@@ -63,4 +63,4 @@ MN01 viser dermed, at **intet** — selv ikke en skabergud — ligger uden for d
 ## Kilder:
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN001.md)
+- [MN01](../02-suttaer/MN001.md)

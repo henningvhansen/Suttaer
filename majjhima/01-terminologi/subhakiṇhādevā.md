@@ -26,4 +26,4 @@ En fin, subtil gudeverden i formverdenens højere lag.
 ## Kilder:
 
 ## Forekomster:
-- [MN01](majjhima/02-suttaer/MN001.md)
+- [MN01](../02-suttaer/MN001.md)

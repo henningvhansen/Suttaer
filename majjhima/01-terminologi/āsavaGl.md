@@ -57,4 +57,4 @@ Denne note er resultatet af en længere afklaring (juli 2026), der undersøgte t
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN002.md)
+- [MN02](../02-suttaer/MN002.md)

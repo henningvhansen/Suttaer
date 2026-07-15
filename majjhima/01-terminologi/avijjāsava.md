@@ -33,4 +33,4 @@ Se den samlede diskussion i [[āsava]]. "Uvidenhedsgæring" (sammensætning) er 
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN002.md)
+- [MN02](../02-suttaer/MN002.md)

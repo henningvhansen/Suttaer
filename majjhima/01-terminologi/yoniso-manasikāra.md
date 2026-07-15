@@ -77,4 +77,4 @@ Denne læsning var udgangspunktet for det indledende arbejde med begrebet, men e
 ## Kilder:
 
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN002.md)
+- [MN02](../02-suttaer/MN002.md)

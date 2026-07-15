@@ -70,4 +70,4 @@ Moha er derfor den **dybeste binding**, og dens ophør markerer fuld udfrielse.
 - _Abhidhamma_: moha som en af de tre urodårsager    
 
 ## Forekomster:
-[MN01](majjhima/02-suttaer/MN001.md)
+[MN01](../02-suttaer/MN001.md)

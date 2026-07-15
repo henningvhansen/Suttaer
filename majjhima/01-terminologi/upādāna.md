@@ -55,4 +55,4 @@ Suttaen analyserer dermed selve den psykologiske mekanisme, der fører til klamr
 - [[MN 38 – Mahātaṇhāsaṅkhaya Sutta]]    
 - [[SN 22.121 – Upādāna-paripavatta Sutta]]    
 - [[SN 23.2 – Upādāna Sutta]]    
-- [MN01](majjhima/02-suttaer/MN001.md) (som kontrast: begrebet forekommer ikke, men mekanismen analyseres)
+- [MN01](../02-suttaer/MN001.md) (som kontrast: begrebet forekommer ikke, men mekanismen analyseres)

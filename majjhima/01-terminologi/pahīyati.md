@@ -47,4 +47,4 @@ Samme betragtning gælder den beslægtede aktive form _pajahati_, når den bruge
 ### Tekstlig kontekst
 I **MN2** afgør denne regel oversættelsen syv gange i overskriftsformlen (_pahātabbā_ → "standses ved") samt i den afsluttende opsamlingssætning, mens den løsere brug af *pahīyati* i afsnit 1 (om selve gæringernes og lænkernes ophør, uden instrumentalled) og *pajahati* i afsnit 6 (om den enkelte tankes fjernelse) forbliver "opgives".
 ## Forekomster:
-- [MN02](majjhima/02-suttaer/MN002.md)
+- [MN02](../02-suttaer/MN002.md)
