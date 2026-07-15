@@ -3,8 +3,6 @@ layout: page
 type: begreb
 ---
 
-# Begreber — MOC
-
 ## Årsagslære
 - [[../01-terminologi/mula]] — rod, grundlag
 - [[../01-terminologi/nidana]] — årsag, oprindelse
