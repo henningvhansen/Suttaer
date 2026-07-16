@@ -3,9 +3,8 @@ layout: page
 type: begreb
 title: pahīyati
 ---
-# Status:
-#Vedtaget
-## Senest redigeret: 20260714
+### Status: #Vedtaget
+### Senest redigeret: 20260714
 
 ## Dansk:
 Standses (med instrumentalled) / opgives (uden instrumentalled).

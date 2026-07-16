@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: pariyāya
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 ## Dansk:
 Fremgangsmåden / Metode / Perspektiv / Præsentationsform

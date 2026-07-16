@@ -3,22 +3,18 @@ layout: page
 type: begreb
 title: upādāna
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
-
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
+## Dansk:
 **Dansk:** klamren (aktiv) / binding (tilstand)
+## Oversættelser:
 * **Bodhi**: ** clinging / attachment
 * **Sujato**: grasping
 * **Thanissaro**: clinging
 * **Lie**: tilknytning
-**Kategori:** årsagslære / bindinger / betinget tilblivelse 
-
-## Dansk:
-
-## Oversættelser:
 
 ## Kategori:
-
+årsagslære / bindinger / betinget tilblivelse 
 ## Etymologi:
 *Upa + ādāna* – "det at tage fat, gribe, holde fast". Samme rod som brændstof der holder ilden i gang. Grundlæggende aktivt og gribende.
 

@@ -3,9 +3,8 @@ layout: page
 type: begreb
 title: hiri‑ottappa
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
-
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 ## Dansk:
 skam og blufærdighed
 ## Oversættelser:

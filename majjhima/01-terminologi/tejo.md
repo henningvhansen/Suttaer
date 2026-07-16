@@ -3,11 +3,11 @@ layout: page
 type: begreb
 title: tejo
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 ## Dansk:
-Ild
+ild
 ## Oversættelser:
 - Engelsk (samlet): Fire
 

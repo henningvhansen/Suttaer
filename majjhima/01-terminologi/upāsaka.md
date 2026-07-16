@@ -3,11 +3,11 @@ layout: page
 type: begreb
 title: upāsaka
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
-mandlig lægtilhænger, en der sidder tæt på munkene
+mandlig lægperson, en der sidder tæt på munkene
 ## Oversættelser:
 * **Bodhi**: lay follower
 * **Sujato**: lay follower

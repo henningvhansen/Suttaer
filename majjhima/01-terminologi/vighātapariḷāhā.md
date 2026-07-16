@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: vighātapariḷāhā
 ---
-# Status: Under udarbejdelse
-## Senest redigeret: 2026-07-16
+### Status: #UnderUdarbejdelse 
+### Senest redigeret: 2026-07-16
 ## Dansk:
 Pinefulde og brændende.
 ## Oversættelser:

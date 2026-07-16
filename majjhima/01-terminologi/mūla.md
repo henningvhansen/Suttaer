@@ -1,20 +1,20 @@
 ---
 layout: page
 type: begreb
-title: vehapphalādevā
+title: mula
 ---
 ### Status: #UnderUdarbejdelse
 ### Senest redigeret: 20260716
 
-# vehapphalā devā
+# mūla
 ## Dansk:
-De store frugters guder, de mektige guder #Lie
+rod; grundlag; basis
 ## Oversættelser:
-* **Bodhi**: the gods of Great Fruit
-* **Sujato**: those of abundant fruit
+- Engelsk (samlet): root; foundation
 
 ## Kategori:
-[Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener 
+årsagslære
+
 ## Etymologi:
 
 ## Oversættelsesproblematik
@@ -22,8 +22,11 @@ De store frugters guder, de mektige guder #Lie
 ## Kort definition til brug i løbende tekst
 
 ## Kommentar:
-En meget høj og langlivet gudeverden.
+Betegner det dybeste grundlag for et fænomen. I MN01: “roden til alle ting”.
+
 ## Kilder:
+#Bodhi #Sujato #Horner
 
 ## Forekomster:
 - [MN01](../02-suttaer/MN001.md)
+- [[AN3.69 Akusalamūlasutta]] - Unskillful Roots - De tre usunde rødder

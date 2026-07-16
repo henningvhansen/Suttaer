@@ -3,12 +3,12 @@ layout: page
 type: begreb
 title: sammasambuddha
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 # sammāsambuddha
 ## Dansk:
-fuldt oplyst; fuldkommen oplyst; helt opvågen
+fuldt oplyst; fuldkommen oplyst; helt opvågen; den af sig selv oplyste
 ## Oversættelser:
 - Engelsk (samlet): fully awakened; perfectly awakened
 

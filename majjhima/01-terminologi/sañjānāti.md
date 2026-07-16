@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: sañjānāti
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 ## Dansk:
 At opfatte; at genkende; at identificere på perceptuelt niveau.

@@ -2,8 +2,8 @@
 layout: page
 type: begreb
 ---
-# Status: #Oprettet
-## Senest redigeret: 20260714
+### Status: #Oprettet
+### Senest redigeret: 20260714
 ## Dansk: 'munder ud i at give slip'
 ## Oversættelser:
 - Sujato: ripening as letting go

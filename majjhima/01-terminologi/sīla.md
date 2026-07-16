@@ -3,11 +3,11 @@ layout: page
 type: begreb
 title: sīla
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 ## Dansk:
-moral
+dyd
 ## Oversættelser:
 * **Bodhi**: ethics
 * **Sujato**: ethics

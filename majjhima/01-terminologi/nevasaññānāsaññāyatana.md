@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: nevasaññānāsaññāyatana
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 sfæren af hverken-perception-eller-ikke-perception, planet der det verken finnes bevissthet eller ikke-bevissthet #Lie

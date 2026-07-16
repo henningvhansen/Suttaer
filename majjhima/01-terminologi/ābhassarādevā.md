@@ -3,8 +3,7 @@ layout: page
 type: begreb
 title: ābhassarādevā
 ---
-### Status: #UnderUdarbejdelse
-### Senest redigeret: 20260716
+
 
 # ābhassarā devā
 ## Dansk:

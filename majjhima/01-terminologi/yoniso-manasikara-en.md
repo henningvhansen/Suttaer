@@ -3,10 +3,10 @@ layout: page
 type: begreb
 title: yoniso-manasikara-en
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
-For your information, this whole discussion — for which I humbly thank all of you for your input — has, with the help of AI, resulted in the concept note below, for use in my further work. I wanted to share it back as a small token of thanks for a genuinely illuminating exchange.
+For your information, this whole discussion — for which I humbly thank all of you for your input — has resulted in the concept note below, for use in my further work. I wanted to share it back as a small token of thanks for a genuinely illuminating exchange.
 
 ---
 

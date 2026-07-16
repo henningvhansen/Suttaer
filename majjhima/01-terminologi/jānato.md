@@ -2,8 +2,8 @@
 layout: page
 type: begreb
 ---
-# Status: Under udarbejdelse
-## Senest redigeret: 
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 ## Dansk: 
 Den der ved
 ## Oversættelser:

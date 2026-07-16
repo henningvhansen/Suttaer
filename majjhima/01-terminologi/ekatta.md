@@ -3,14 +3,15 @@ layout: page
 type: begreb
 title: ekatta
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
-Enhed, enhet #Lie
+Enhed
 ## Oversættelser:
 * **Bodhi**: unity
 * **Sujato**: oneness
+* **Lie:** enhet
 
 ## Kategori:
 [Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret

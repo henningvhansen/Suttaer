@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: yathā‑bhūta‑ñāṇa‑dassana
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 indsigt i tingene som de er

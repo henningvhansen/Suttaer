@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: viññāṇañcāyatana
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 sfæren for uendelig bevidsthed, den uendelige bevissthets plan #Lie

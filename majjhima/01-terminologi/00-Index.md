@@ -10,7 +10,7 @@ title: 00-Index
 
 ## MN01
 - [sammasambuddha](sammasambuddha.md)
-- [mula](mula.md)
+- [mūla](mūla.md)
 - [nidana](nidana.md)
 - [samudaya](samudaya.md)
 - [pajanana](pajanana.md)

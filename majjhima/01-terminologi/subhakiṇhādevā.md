@@ -3,16 +3,16 @@ layout: page
 type: begreb
 title: subhakiṇhādevā
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 # subhakiṇhā devā
 ## Dansk:
-de lysende guder, de lysende guder #Lie
+de lysende guder, 
 ## Oversættelser:
 * **Bodhi**: the gods of Refulgent Glory
 * **Sujato**: those of universal beauty
-
+* **Lie:** de lysende guder
 ## Kategori:
 [Begreber MOC](../00-moc/Begreber-MOC.md): Kategori af væsener
 ## Etymologi:

@@ -7,8 +7,8 @@ aliases:
   - patisankha yoniso
   - paṭisankhā yoniso
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260713
 
 ## Dansk:
 Reflekterer grundigt.

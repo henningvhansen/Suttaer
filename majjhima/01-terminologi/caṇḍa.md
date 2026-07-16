@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: caṇḍa
 ---
-# Status: Under udarbejdelse
-## Senest redigeret: 2026-07-16
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 ## Dansk:
 Vild.
 ## Oversættelser:

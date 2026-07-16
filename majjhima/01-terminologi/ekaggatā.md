@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: ekaggatā
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 etpunktrettethed

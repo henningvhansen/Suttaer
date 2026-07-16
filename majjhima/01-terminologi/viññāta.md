@@ -3,14 +3,15 @@ layout: page
 type: begreb
 title: viññāta
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
-Det erkendte, det han har erkjent #Lie
+Det erkendte
 ## Oversættelser:
 * **Bodhi**: the cognized
 * **Sujato**: the known
+* **Lie:** det han har erkjent
 
 ## Kategori:
 [Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret

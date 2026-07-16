@@ -3,11 +3,11 @@ layout: page
 type: begreb
 title: upāsikā
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
-kvindelig lægtilhænger
+kvindelig lægperson
 ## Oversættelser:
 * **Bodhi**: lay follower
 * **Sujato**: lay follower

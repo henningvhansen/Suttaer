@@ -3,11 +3,11 @@ layout: page
 type: begreb
 title: nāma‑rūpa
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
-navn‑form
+navn‑og-form
 ## Oversættelser:
 * **Bodhi**: name‑and‑form
 * **Sujato**: name‑and‑form

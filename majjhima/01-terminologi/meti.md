@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: meti
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 Negationspartikel; bruges til at understrege “ikke således”, “ikke på denne måde”.

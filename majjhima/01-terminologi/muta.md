@@ -3,14 +3,15 @@ layout: page
 type: begreb
 title: muta
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
-det sansede, Det tenkte #Lie
+det sansede
 ## Oversættelser:
 * **Bodhi**: the sensed
 * **Sujato**: the thought
+* **Lie:** det tenkte
 
 ## Kategori:
 [Begreber MOC](../00-moc/Begreber-MOC.md): Sanserelateret

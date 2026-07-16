@@ -5,8 +5,8 @@ title: yoniso-manasikāra
 aliases:
   - ayoniso manasikāra
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 # yoniso manasikāra / ayoniso manasikāra
 
