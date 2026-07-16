@@ -17,6 +17,7 @@ Foreløbigt finder du her:
 ## 01 – Terminologi
 
 - [Pāli–Dansk ordliste](majjhima/01-terminologi/pāli-dansk-ordliste.md) 
+- [Begreber-MOC](majjhima/01-terminologi/Begreber-MOC.md) 
 ## 02 – Suttaer
 
 - [MN1](majjhima/02-suttaer/MN001.md) Mūlapariyāya Sutta — Erkendelsens rod 
