@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: ayoniso manasikāra
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 Se [yoniso-manasikāra](yoniso-manasikāra.md)
 

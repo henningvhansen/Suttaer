@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: bhava‑taṇhā
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 længsel efter tilblivelse

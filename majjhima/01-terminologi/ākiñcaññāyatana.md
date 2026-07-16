@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: ākiñcaññāyatana
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 sfæren for intethed, intethetens plan #Lie

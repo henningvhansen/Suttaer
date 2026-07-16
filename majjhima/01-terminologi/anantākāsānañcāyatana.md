@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: anantākāsānañcāyatana
 ---
-# Status: Under udarbejdelse
-## Senest redigeret:
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 sfæren for uendeligt rum, det uendelige roms plan #Lie

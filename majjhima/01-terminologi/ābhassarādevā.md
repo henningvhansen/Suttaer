@@ -4,7 +4,7 @@ type: begreb
 title: ābhassarādevā
 ---
 ### Status: #UnderUdarbejdelse
-### Senest redigeret:
+### Senest redigeret: 20260716
 
 # ābhassarā devā
 ## Dansk:

@@ -2,9 +2,8 @@
 layout: page
 type: begreb
 ---
-# Status:
-#Oprettet
-## Senest redigeret: 20260714
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 ## Dansk: udholdenhed; udholder
 
 ## Oversættelser:

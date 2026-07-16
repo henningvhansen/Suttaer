@@ -3,9 +3,8 @@ layout: page
 type: begreb
 title: āsava
 ---
-# Status: 
-#Vedtaget
-## Senest redigeret: 20260713
+### Status: #Vedtaget
+### Senest redigeret: 20260716
 
 ## Dansk:
 Gæring.

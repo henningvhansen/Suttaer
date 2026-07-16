@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: arahaṁ
 ---
-# Status: Under udarbejdelse
-## Senest redigeret: 20260713
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 ## Dansk:
 Arahant; Den fuldt udfriede; Den Værdige; den der har fuldendt træningen og gjort, hvad der skulle gøres.
 ## Oversættelser:

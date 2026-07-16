@@ -3,8 +3,8 @@ layout: page
 type: begreb
 title: bojjhaṅga
 ---
-# Status: #Oprettet 
-## Senest redigeret: 20260714
+### Status: #UnderUdarbejdelse
+### Senest redigeret: 20260716
 
 ## Dansk:
 opvågningsfaktor
