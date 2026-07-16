@@ -9,7 +9,7 @@ title: 00-Index
 # Ordlistens index
 
 ## MN01
-- [sammasambuddha](sammasambuddha.md)
+- [sammāsambuddha](sammāsambuddha.md)
 - [mūla](mūla.md)
 - [nidana](nidana.md)
 - [samudaya](samudaya.md)

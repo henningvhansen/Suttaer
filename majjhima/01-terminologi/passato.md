@@ -38,3 +38,4 @@ Formelparret *jānato…passato* optræder ikke kun i MN2, men også i Iti 102, 
 
 ## Forekomster:
 - [MN02](../02-suttaer/MN002.md) — indledningsformlen (§3)
+- MN2's indledning, Iti 102, SN 12.23, SN 22.101, MN 52, MN 112, DN 6

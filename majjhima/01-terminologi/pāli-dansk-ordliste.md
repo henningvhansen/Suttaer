@@ -236,7 +236,7 @@ title: Pāli–dansk-ordliste
 
 [saddhā](saddhā.md) — tillid
 
-[sammasambuddha](sammasambuddha.md) — den fuldt oplyste
+[sammāsambuddha](sammāsambuddha.md) — den fuldt oplyste
 
 [samudaya](samudaya.md) — opståen
 
@@ -274,7 +274,7 @@ title: Pāli–dansk-ordliste
 
 [sutta](sutta.md) — diskurs
 ## T
-[taṇhā](taṇhā.md) — begær
+[tanha](tanha.md) — begær
 
 [tathāgata](tathāgata.md) — således‑kommen
 
@@ -296,7 +296,7 @@ title: Pāli–dansk-ordliste
 
 [upekkhā](upekkhā.md) — ligevægt
 ## V
-[vāyo](vāyo.md) — vind-element
+[vayo](vayo.md) — vind-element
 
 [vedanā](vedanā.md) — følelse
 
