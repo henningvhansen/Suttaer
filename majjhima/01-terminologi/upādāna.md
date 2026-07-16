@@ -41,7 +41,7 @@ Denne distinktion genfindes hos Bodhi, der ligeledes betjener sig af to engelske
 
 Det kan forekomme bemærkelsesværdigt, at ordet _upādāna_ ikke optræder i _Mūlapariyāya Sutta_, selv om det ellers indgår centralt i beskrivelsen af _betinget tilblivelse_ (taṇhā → begær, upādāna → klamren/binding, bhava → tilblivelse, dukkha → lidelse).
 
-I [MN1](../../../../../Noter/MN1.md) lader Buddha i stedet udviklingen fra **abhinandati** (den umiddelbare glæde eller bifald) til **nandī** (den vedvarende tilfredsstillelse eller lystfulde fastholdelse) indtage den funktionelle plads, som _upādāna_ i andre sammenhænge udfylder.
+I [MN1](../../Noter/MN1.md) lader Buddha i stedet udviklingen fra **abhinandati** (den umiddelbare glæde eller bifald) til **nandī** (den vedvarende tilfredsstillelse eller lystfulde fastholdelse) indtage den funktionelle plads, som _upādāna_ i andre sammenhænge udfylder.
 
 Suttaen analyserer dermed selve den psykologiske mekanisme, der fører til klamren, uden at anvende det tekniske ord _upādāna_.
 
